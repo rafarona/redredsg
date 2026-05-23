@@ -1,0 +1,74 @@
+{
+  "hosting": [
+    {
+      "target": "default",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/node_modules/**"
+      ],
+      "redirects": [
+        {
+          "source": "/servicios.html",
+          "destination": "/404.html",
+          "type": 308
+        },
+        {
+          "source": "/config.html",
+          "destination": "/404.html",
+          "type": 308
+        },
+        {
+          "source": "/contacto.html",
+          "destination": "/404.html",
+          "type": 308
+        }
+      ],
+      "rewrites": [
+        {
+          "source": "/redvet-app/assets/.env",
+          "destination": "/redvet-app/assets/env"
+        },
+        {
+          "source": "/redtpv-app/assets/.env",
+          "destination": "/redtpv-app/assets/env"
+        }
+      ]
+    },
+    {
+      "target": "redredsg",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/node_modules/**"
+      ],
+      "redirects": [
+        {
+          "source": "/servicios.html",
+          "destination": "/404.html",
+          "type": 308
+        },
+        {
+          "source": "/config.html",
+          "destination": "/404.html",
+          "type": 308
+        },
+        {
+          "source": "/contacto.html",
+          "destination": "/404.html",
+          "type": 308
+        }
+      ],
+      "rewrites": [
+        {
+          "source": "/redvet-app/assets/.env",
+          "destination": "/redvet-app/assets/env"
+        },
+        {
+          "source": "/redtpv-app/assets/.env",
+          "destination": "/redtpv-app/assets/env"
+        }
+      ]
+    }
+  ]
+}

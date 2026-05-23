@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manual de Usuario de RedTPV</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <!-- Carga de Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fuente Inter para un look moderno -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --brand-red: #dc1a22;
+            --brand-red-dark: #a80909;
+            --brand-accent: #217d04;
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top, #ffffff 0%, #f4f7fb 58%);
+            color: #0f172a;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        h1 {
+            color: var(--secondary-color);
+        }
+
+        h2, h3, h4 {
+            color: var(--primary-color);
+        }
+
+        h2 {
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
+        }
+
+        .section-container {
+            border: 1px solid #dce4ef;
+            border-radius: 0.9rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background-color: #ffffff;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+        }
+
+        .card {
+            background: #f8fbff;
+            border: 1px solid #e4ecf7;
+            border-radius: 14px;
+            padding: 1rem;
+            margin: 0;
+            box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+        }
+
+        .card h4 {
+            margin-top: 0;
+        }
+
+        .cards, .stack {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .list-disc > li::marker, .list-decimal > li::marker {
+            color: var(--brand-accent);
+        }
+
+        .rr-header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid #dce4ef;
+            box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .rr-nav a {
+            color: #475569;
+            font-weight: 600;
+        }
+
+        .rr-nav a:hover {
+            color: var(--brand-accent);
+        }
+
+        .rr-logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+        }
+
+        .two-col {
+            display: flex;
+            gap: 1.25rem;
+            align-items: flex-start;
+        }
+
+        .two-col > div {
+            flex: 1 1 0;
+        }
+
+        .two-col > div:first-child {
+            flex: 0 0 280px;
+        }
+
+        .two-col.reverse {
+            flex-direction: row-reverse;
+        }
+
+        .two-col .phone-shot {
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.14);
+            background: #fff;
+        }
+
+        @media (max-width: 900px) {
+            .two-col, .two-col.reverse {
+                flex-direction: column;
+            }
+
+            .two-col > div:first-child {
+                flex: initial;
+            }
+        }
+
+        .toc-sticky {
+            position: static;
+            background: #f8fbff;
+            border-left: 4px solid var(--brand-accent);
+        }
+
+        #indice a.active {
+            color: var(--brand-accent);
+            font-weight: 700;
+        }
+
+        .toc-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .toc-toggle {
+            display: none;
+            border: none;
+            background: transparent;
+            color: var(--secondary-color);
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        @media (max-width: 900px) {
+            .toc-sticky {
+                top: 0;
+            }
+
+            .toc-toggle {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.35rem;
+            }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(16px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+
+        .reveal.show {
+            opacity: 1;
+            transform: none;
+        }
+
+        .phone-shot {
+            transition: transform 0.25s ease;
+        }
+
+        .phone-shot:hover {
+            transform: scale(1.02);
+        }
+
+        .back-to-top {
+            position: fixed;
+            right: 16px;
+            bottom: 24px;
+            background: #ffffff;
+            color: var(--brand-accent);
+            border: 1px solid #dce4ef;
+            border-radius: 999px;
+            padding: 0.5rem 0.9rem;
+            box-shadow: 0 6px 20px rgba(15, 23, 42, 0.12);
+            cursor: pointer;
+            display: none;
+        }
+
+        .back-to-top.show {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .rr-header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: var(--brand-red);
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .cookie-banner button:hover {
+            background: var(--brand-red-dark);
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body class="p-0 sm:p-0">
+
+    <!-- Header -->
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <div class="max-w-4xl mx-auto p-4 sm:p-8 cards">
+
+        <!-- CABECERA PRINCIPAL -->
+        <div class="text-center mb-8">
+            <h1 class="text-4xl sm:text-5xl font-extrabold"><span>Manual de Usuario de </span><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-tpv-green);">TPV</span></h1>
+            <p class="text-lg text-gray-600">Tu guía completa para la gestión de tu punto de venta.</p>
+        </div>
+
+        <!-- INTRODUCCIÓN -->
+        <div class="section-container">
+            <p class="mb-4">¡Hola! <strong>RedTPV</strong> es tu solución integral para administrar las ventas, el inventario y las operaciones diarias de tu negocio. Simplifica la gestión, automatiza tareas y obtén una visión clara de tus finanzas. Además, se integra perfectamente con <strong>RedVet</strong> para una gestión completa si tienes una clínica veterinaria.</p>
+        </div>
+
+        <!-- TABLA DE CONTENIDO (ÍNDICE) -->
+        <nav id="indice" class="section-container p-6 shadow-lg toc-sticky" style="background:#f0fff4;">
+            <div class="toc-header">
+                <h2 class="text-2xl font-bold mb-4" style="color:#166534;border-color:#bbf7d0" id="tabla-de-contenido">Tabla de Contenido</h2>
+                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">Índice</button>
+            </div>
+            <ul id="toc-list" class="space-y-2 text-gray-700">
+                <li><a href="#introduccion-beneficios" class="font-semibold hover:text-[#1d89e4] transition duration-150">1. Introducción y Beneficios Clave</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#gestion-ventas" class="hover:text-[#1d89e4]">Gestión Integral de Ventas</a></li>
+                        <li><a href="#control-inventario" class="hover:text-[#1d89e4]">Control Total de Inventario</a></li>
+                        <li><a href="#administracion-simplificada" class="hover:text-[#1d89e4]">Administración Simplificada</a></li>
+                    </ul>
+                </li>
+                <li><a href="#primeros-pasos" class="font-semibold hover:text-[#1d89e4] transition duration-150">2. Primeros Pasos: Configuración Inicial</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#acceso-y-seguridad" class="hover:text-[#1d89e4]">Acceso y Seguridad</a></li>
+                        <li><a href="#configuracion-negocio" class="hover:text-[#1d89e4]">Configuración del Negocio</a></li>
+                        <li><a href="#gestion-empleados" class="hover:text-[#1d89e4]">Gestión de Empleados</a></li>
+                    </ul>
+                </li>
+                <li><a href="#configuracion-tpv" class="font-semibold hover:text-[#1d89e4] transition duration-150">3. Configuración del TPV</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#categorias-proveedores" class="hover:text-[#1d89e4]">Categorías y Proveedores</a></li>
+                        <li><a href="#articulos" class="hover:text-[#1d89e4]">Gestión de Artículos</a></li>
+                        <li><a href="#impuestos-descuentos" class="hover:text-[#1d89e4]">Impuestos y Descuentos</a></li>
+                        <li><a href="#moneda" class="hover:text-[#1d89e4]">Configuración de Moneda</a></li>
+                    </ul>
+                </li>
+                <li><a href="#flujo-venta" class="font-semibold hover:text-[#1d89e4] transition duration-150">4. Flujo de Trabajo Principal: La Venta</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#nueva-venta" class="hover:text-[#1d89e4]">Crear una Nueva Venta</a></li>
+                        <li><a href="#proceso-cobro" class="hover:text-[#1d89e4]">Proceso de Cobro</a></li>
+                        <li><a href="#gestion-tickets" class="hover:text-[#1d89e4]">Historial de Tickets</a></li>
+                    </ul>
+                </li>
+                 <li><a href="#gestion-inventario" class="font-semibold hover:text-[#1d89e4] transition duration-150">5. Gestión de Inventario</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#alertas-stock" class="hover:text-[#1d89e4]">Alertas y Control de Stock</a></li>
+                        <li><a href="#pedidos-proveedores" class="hover:text-[#1d89e4]">Pedidos a Proveedores</a></li>
+                        <li><a href="#recepcion-mercancia" class="hover:text-[#1d89e4]">Recepción de Mercancía</a></li>
+                    </ul>
+                </li>
+                <li><a href="#herramientas-diarias" class="font-semibold hover:text-[#1d89e4] transition duration-150">6. Herramientas del Día a Día</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#pantalla-principal" class="hover:text-[#1d89e4]">Pantalla Principal</a></li>
+                        <li><a href="#cierre-caja" class="hover:text-[#1d89e4]">Cierre de Caja</a></li>
+                        <li><a href="#saldos-pagos" class="hover:text-[#1d89e4]">Saldos y Pagos de Clientes</a></li>
+                        <li><a href="#estadisticas" class="hover:text-[#1d89e4]">Estadísticas y Reportes</a></li>
+                    </ul>
+                </li>
+                <li><a href="#ajustes-avanzados" class="font-semibold hover:text-[#1d89e4] transition duration-150">7. Ajustes y Administración</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#gestion-sesion" class="hover:text-[#1d89e4]">Gestión de Sesión</a></li>
+                        <li><a href="#id-qr-negocio" class="hover:text-[#1d89e4]">ID y QR del Negocio</a></li>
+                        <li><a href="#configuracion-avanzada" class="hover:text-[#1d89e4]">Configuración Avanzada</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- SECCIÓN 1: INTRODUCCIÓN Y BENEFICIOS -->
+        <div id="introduccion-beneficios" class="section-container mt-8 reveal stack">
+            <h2 class="text-3xl font-extrabold">1. Introducción y Beneficios Clave</h2>
+            <p class="text-gray-600 mb-6">Descubre cómo RedTPV puede transformar la gestión de tu negocio:</p>
+
+            <h3 id="gestion-ventas" class="text-2xl font-bold mb-3">1.1. Gestión Integral de Ventas</h3>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                <li>
+                    <p class="font-semibold">Punto de Venta Intuitivo:</p>
+                    <p>Realiza ventas de forma rápida y eficiente, buscando clientes y añadiendo artículos con facilidad.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Múltiples Métodos de Pago:</p>
+                    <p>Acepta efectivo, tarjeta o transferencia. Gestiona deudas de clientes y registra abonos fácilmente.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Historial Detallado:</p>
+                    <p>Consulta todos los tickets de venta, filtrados por fecha, para un seguimiento completo.</p>
+                </li>
+            </ul>
+
+            <h3 id="control-inventario" class="text-2xl font-bold mt-6 mb-3">1.2. Control Total de Inventario</h3>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                <li>
+                    <p class="font-semibold">Administración de Artículos:</p>
+                    <p>Gestiona tu catálogo de productos, precios y existencias en un solo lugar.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Alertas de Stock:</p>
+                    <p>Recibe notificaciones automáticas cuando tus artículos alcanzan un nivel bajo de existencias.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Gestión de Proveedores y Pedidos:</p>
+                    <p>Crea órdenes de compra, envíalas a tus proveedores y registra la entrada de mercancía para mantener tu inventario siempre actualizado.</p>
+                </li>
+                    </ul>
+            
+            <h3 id="administracion-simplificada" class="text-2xl font-bold mt-6 mb-3">1.3. Administración Simplificada</h3>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                 <li>
+                    <p class="font-semibold">Cierres de Caja Precisos:</p>
+                    <p>Realiza arqueos de caja diarios con conteo de denominaciones para asegurar que tus cuentas siempre cuadren.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Estadísticas Claras:</p>
+                    <p>Visualiza reportes de ventas, ingresos y artículos más vendidos para tomar decisiones informadas.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Integración con <span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Vet</span>:</p>
+                    <p>Si tienes una clínica veterinaria, puedes cobrar consultas y servicios registrados en RedVet directamente desde el TPV.</p>
+                </li>
+            </ul>
+        </div>
+        
+        <!-- SECCIÓN 2: PRIMEROS PASOS -->
+        <div id="primeros-pasos" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">2. Primeros Pasos: Configuración Inicial</h2>
+            <p class="text-gray-600 mb-6">Para que la aplicación esté 100% lista y adaptada a tu negocio, sigue esta sencilla secuencia de pasos:</p>
+
+            <h3 id="acceso-y-seguridad" class="text-2xl font-bold mb-3">2.1. Acceso y Seguridad</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/login.jpeg" alt="Pantalla de inicio de sesión de RedTPV" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Registro e Inicio de Sesión</h4>
+                    <ul class="list-disc ml-6 space-y-1 text-gray-700">
+                        <li><strong>Acceso Rápido:</strong> Ingresa con tu cuenta de <strong>Google</strong>.</li>
+                        <li><strong>Acceso Normal:</strong> Usa tu <strong>Correo electrónico</strong> y <strong>Contraseña</strong>.</li>
+                        <li><strong>Registro:</strong> Si eres nuevo, completa el formulario. Recibirás un email para verificar tu cuenta.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card two-col mt-4">
+                <div><img src="images/pinAdmin.png" alt="Configuración PIN de Administrador en RedTPV" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Configuración del PIN de Administrador</h4>
+                    <div class="bg-red-50 p-3 rounded-lg border border-red-200">
+                        <p class="font-bold text-red-700">¡ATENCIÓN! Súper Importante:</p>
+                        <p class="text-red-600">Al inicio, debes crear un <strong>PIN de 4 dígitos</strong>. Este código <span class="font-extrabold">NO se puede recuperar</span> y es esencial para acciones sensibles como eliminar artículos o modificar ciertos ajustes.</p>
+                    </div>
+                </div>
+            </div>
+
+            <h3 id="configuracion-negocio" class="text-2xl font-bold mt-6 mb-3">2.2. Configuración del Negocio</h3>
+            <div class="card two-col reverse">
+                 <div><img src="images/RedTPV/Mi negocio.jpeg" alt="Pantalla Mi Negocio" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">Ve al <strong>Menú Lateral → Mi negocio</strong> para completar la información de tu empresa:</p>
+                     <ul class="list-disc ml-6 space-y-1 text-gray-700 mt-2">
+                        <li><strong>Información Básica:</strong> Nombre, Email de contacto, Teléfono y Sitio Web.</li>
+                        <li><strong>Dirección:</strong> Domicilio de tu negocio.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="gestion-empleados" class="text-2xl font-bold mt-6 mb-3">2.3. Gestión de Empleados</h3>
+             <div class="card two-col">
+                <div><img src="images/RedTPV/empleados.jpeg" alt="Gestión de usuarios en RedTPV" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Desde el <strong>Menú Lateral → Usuarios</strong>, puedes dar de alta a tu personal y asignarles permisos (Roles):</p>
+                    <ul class="list-disc ml-6 space-y-1 text-gray-700">
+                        <li><strong>Fundador:</strong> Rol inmutable del creador de la cuenta con todos los permisos.</li>
+                        <li><strong>Administrador:</strong> Puede gestionar ventas, inventario y la mayoría de las configuraciones.</li>
+                        <!-- Añadir más roles si existen -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 3: CONFIGURACIÓN DEL TPV -->
+        <div id="configuracion-tpv" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">3. Configuración del TPV</h2>
+            <p class="text-gray-600 mb-6">Antes de empezar a vender, es fundamental configurar los cimientos de tu punto de venta.</p>
+
+            <h3 id="categorias-proveedores" class="text-2xl font-bold mb-3">3.1. Categorías y Proveedores</h3>
+            <p class="text-gray-600 mb-4">Organiza tus productos y proveedores desde <strong>Menú Lateral → Ajustes → Configuración de TPV</strong>.</p>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/categorias.jpeg" alt="Configuración de Categorías" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Categorías</h4>
+                    <p class="text-gray-700">Agrupa tus artículos (ej: "Alimento", "Medicamento", "Servicios") para facilitar la búsqueda y mejorar tus reportes.</p>
+                </div>
+            </div>
+            <div class="card two-col reverse mt-4">
+                <div><img src="images/RedTPV/Proveedores.jpeg" alt="Configuración de Proveedores" class="phone-shot"></div>
+                <div>
+                     <h4 class="text-xl font-semibold mb-2">Proveedores</h4>
+                    <p class="text-gray-700">Registra la información de tus proveedores para agilizar la creación de órdenes de compra.</p>
+                </div>
+            </div>
+
+            <h3 id="articulos" class="text-2xl font-bold mt-6 mb-3">3.2. Gestión de Artículos</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/Articulos.jpeg" alt="Gestión de Artículos en RedTPV" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Artículos</strong>, puedes crear y administrar todo tu catálogo. Para cada artículo puedes definir:</p>
+                    <ul class="list-disc ml-6 space-y-1 text-gray-700 mt-2">
+                        <li>Nombre, código de barras o SKU.</li>
+                        <li>Precio de venta y coste.</li>
+                        <li>Stock inicial y nivel de alerta.</li>
+                        <li>Proveedor e impuestos asociados.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="impuestos-descuentos" class="text-2xl font-bold mt-6 mb-3">3.3. Impuestos y Descuentos</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/Impuestos.jpeg" alt="Configuración de Impuestos y Descuentos" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Ajustes</strong>, puedes configurar los impuestos (ej: IVA 16%) y descuentos que se aplicarán a tus ventas. Puedes definir si se aplican a todos los artículos o solo a ciertas categorías.</p>
+                </div>
+            </div>
+
+            <h3 id="moneda" class="text-2xl font-bold mt-6 mb-3">3.4. Configuración de Moneda</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/moneda.jpeg" alt="Configuración de Moneda" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Ajustes → Moneda</strong>, personaliza la divisa de tu TPV. Define la abreviatura (ej: MXN), el símbolo ($) y las denominaciones de efectivo para facilitar el conteo en los cierres de caja.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 4: FLUJO DE TRABAJO DE VENTA -->
+        <div id="flujo-venta" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">4. Flujo de Trabajo Principal: La Venta</h2>
+            <p class="text-gray-600 mb-6">El corazón de RedTPV es el proceso de venta, diseñado para ser rápido y sencillo.</p>
+            
+            <h3 id="nueva-venta" class="text-2xl font-bold mb-3">4.1. Crear una Nueva Venta</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/Venta.jpeg" alt="Crear una nueva venta" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">Desde la <strong>Pantalla Principal</strong>, selecciona un cliente o crea uno nuevo. Luego, busca artículos por nombre o escanea su código de barras para agregarlos al ticket. Puedes ajustar cantidades y aplicar descuentos manualmente si es necesario.</p>
+                </div>
+            </div>
+
+            <h3 id="proceso-cobro" class="text-2xl font-bold mt-6 mb-3">4.2. Proceso de Cobro</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/cobro.jpeg" alt="Pantalla de cobro" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Al pulsar <strong>Cobrar</strong>, accederás a la pantalla de pago. Aquí puedes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li>Seleccionar el método de pago: <strong>Efectivo, Tarjeta o Transferencia</strong>.</li>
+                        <li>Registrar el monto recibido y ver el cambio a devolver.</li>
+                        <li>Enviar la venta a <strong>deuda</strong> para que el cliente pague más tarde.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="gestion-tickets" class="text-2xl font-bold mt-6 mb-3">4.3. Historial de Tickets</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/Tickets.jpeg" alt="Historial de tickets de venta" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Tickets</strong>, puedes revisar todas las ventas realizadas, organizadas por fecha. Selecciona cualquier ticket para ver los detalles completos, reimprimirlo o realizar una devolución.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECCIÓN 5: GESTIÓN DE INVENTARIO -->
+        <div id="gestion-inventario" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">5. Gestión de Inventario</h2>
+            <p class="text-gray-600 mb-6">Mantén un control preciso de tus existencias para nunca perder una venta.</p>
+            
+            <h3 id="alertas-stock" class="text-2xl font-bold mb-3">5.1. Alertas y Control de Stock</h3>
+             <div class="card two-col">
+                <div><img src="images/RedTPV/Inventario.jpeg" alt="Alertas de inventario" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">La sección de <strong>Inventario</strong> te muestra de un vistazo qué productos están por agotarse (bajo stock) o ya no tienen existencias. Desde aquí, puedes seleccionar artículos para crear un nuevo pedido a tus proveedores.</p>
+                </div>
+            </div>
+
+            <h3 id="pedidos-proveedores" class="text-2xl font-bold mt-6 mb-3">5.2. Pedidos a Proveedores</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/crearpedido.jpeg" alt="Crear pedido a proveedor" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Crea órdenes de compra detalladas seleccionando un proveedor y añadiendo los artículos que necesitas. Puedes especificar cantidades, costes estimados y fechas de entrega.</p>
+                </div>
+            </div>
+
+            <h3 id="recepcion-mercancia" class="text-2xl font-bold mt-6 mb-3">5.3. Recepción de Mercancía</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/recibirpdido.jpeg" alt="Recibir un pedido" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">Cuando llegue un pedido, ve a la sección de <strong>Pedidos</strong> y selecciónalo para recibirlo. Confirma las cantidades recibidas, actualiza los costes si es necesario, y el stock de tus artículos se actualizará automáticamente.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 6: HERRAMIENTAS DEL DÍA A DÍA -->
+        <div id="herramientas-diarias" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">6. Herramientas del Día a Día</h2>
+            <p class="text-gray-600 mb-6">Funciones para gestionar tu operativa diaria de forma eficiente.</p>
+            
+            <h3 id="pantalla-principal" class="text-2xl font-bold mb-3">6.1. Pantalla Principal</h3>
+             <div class="card two-col">
+                <div><img src="images/RedTPV/Home.jpeg" alt="Pantalla principal RedTPV" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Es tu centro de operaciones. La vista principal es la lista de clientes, desde donde puedes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Buscar Clientes:</strong> Por nombre, email o teléfono.</li>
+                        <li><strong>Iniciar Venta Rápida:</strong> Tocando el ícono del carrito.</li>
+                        <li><strong>Agregar Clientes:</strong> Con el botón rojo (+).</li>
+                        <li><strong>Acceder al Menú Lateral:</strong> Para el resto de las funciones.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="cierre-caja" class="text-2xl font-bold mt-6 mb-3">6.2. Cierre de Caja</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/Cierres.jpeg" alt="Cierre de Caja" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">En <strong>Menú Lateral → Cierre de Caja</strong>, puedes realizar el arqueo diario. El sistema te mostrará las ventas totales esperadas y podrás ingresar el conteo de efectivo por denominación. Guarda el registro para llevar un historial preciso de tus cierres.</p>
+                </div>
+            </div>
+
+             <h3 id="saldos-pagos" class="text-2xl font-bold mt-6 mb-3">6.3. Saldos y Pagos de Clientes</h3>
+            <p class="text-gray-600 mb-4">Gestiona las deudas y los abonos de forma centralizada.</p>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/Saldos.jpeg" alt="Gestión de Saldos" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Saldos</h4>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Saldos</strong>, consulta la lista de todos los clientes con deudas pendientes y el monto total.</p>
+                </div>
+            </div>
+            <div class="card two-col reverse mt-4">
+                <div><img src="images/RedTPV/Pagos.jpeg" alt="Gestión de Pagos" class="phone-shot"></div>
+                <div>
+                     <h4 class="text-xl font-semibold mb-2">Pagos</h4>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Pagos</strong>, puedes registrar abonos de los clientes a sus deudas, especificando el método de pago.</p>
+                </div>
+            </div>
+
+            <h3 id="estadisticas" class="text-2xl font-bold mt-6 mb-3">6.4. Estadísticas y Reportes</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/Estadisticas.jpeg" alt="Pantalla de Estadísticas" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Estadísticas</strong>, obtén una visión gráfica de la salud de tu negocio. Analiza las ventas netas, beneficios, número de tickets y los artículos más vendidos por día, semana o mes.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 7: AJUSTES Y ADMINISTRACIÓN -->
+        <div id="ajustes-avanzados" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">7. Ajustes y Administración</h2>
+            <p class="text-gray-600 mb-6">Configuraciones avanzadas y opciones de gestión de la cuenta.</p>
+
+            <h3 id="gestion-sesion" class="text-2xl font-bold mb-3">7.1. Gestión de Sesión</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/menu.jpeg" alt="Menú Lateral" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Desde el menú lateral, puedes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Usuario por Defecto:</strong> Elige qué empleado se activa al iniciar sesión para agilizar el acceso.</li>
+                        <li><strong>Cerrar Sesión:</strong> Salir de la aplicación de forma segura.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="id-qr-negocio" class="text-2xl font-bold mt-6 mb-3">7.2. ID y QR del Negocio</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/RedTPV/menu.jpeg" alt="ID y QR del negocio" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Menú Lateral → Mi ID y QR</strong>, encontrarás un código QR único para tu negocio. Este QR puede ser utilizado para diferentes integraciones y funcionalidades dentro del ecosistema RedRed.</p>
+                </div>
+            </div>
+
+            <h3 id="configuracion-avanzada" class="text-2xl font-bold mt-6 mb-3">7.3. Configuración Avanzada</h3>
+            <div class="card two-col">
+                <div><img src="images/RedTPV/ajustes.jpeg" alt="Ajustes avanzados en RedTPV" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">En <strong>Menú Lateral → Ajustes</strong>, tienes acceso a la configuración general del TPV, Marketing, Seguridad y Gestión de Datos.</p>
+                </div>
+            </div>
+            <div class="card two-col reverse mt-4">
+                <div><img src="images/RedTPV/ajustes2.jpeg" alt="Ajustes avanzados en RedTPV" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Desde aquí puedes configurar:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Seguridad:</strong> Cambiar tu contraseña o desvincular tu cuenta de Google.</li>
+                        <li><strong>Marketing:</strong> Genera etiquetas con códigos QR y precios para tus artículos o categorías, listas para imprimir.</li>
+                        <li><strong>Gestión de Datos:</strong> Exporta o importa datos de clientes y artículos de forma masiva.</li>
+                        <li class="text-red-600 font-semibold"><strong>Dar de Baja:</strong> Elimina tu negocio del sistema (<strong>Advertencia: esta acción es irreversible</strong>).</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+          <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    </div>
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+    <button id="backToTop" class="back-to-top" aria-label="Volver arriba">↑</button>
+    <script>
+        // Toggle TOC on mobile
+        (function(){
+            const toggle = document.querySelector('.toc-toggle');
+            const list = document.getElementById('toc-list');
+            if(toggle && list){
+                toggle.addEventListener('click', ()=>{
+                    const open = toggle.getAttribute('aria-expanded') === 'true';
+                    toggle.setAttribute('aria-expanded', String(!open));
+                    list.style.display = open ? 'none' : '';
+                });
+            }
+        })();
+
+        // Intersection Observer for reveal animation
+        (function(){
+            const items = document.querySelectorAll('.reveal');
+            const observer = new IntersectionObserver((entries)=>{
+                entries.forEach(entry=>{
+                    if(entry.isIntersecting){ entry.target.classList.add('show'); }
+                });
+            }, { threshold: 0.05 });
+            items.forEach(el=>observer.observe(el));
+        })();
+
+        // Active link highlighting in TOC
+        (function(){
+            const sections = Array.from(document.querySelectorAll('.section-container[id]'));
+            const links = Array.from(document.querySelectorAll('#indice a'));
+            const map = new Map();
+            links.forEach(a=>{ const href = a.getAttribute('href')||''; if(href.startsWith('#')) map.set(href.slice(1), a); });
+            
+            const obs = new IntersectionObserver((entries)=>{
+                let lastIntersecting = null;
+                entries.forEach(e => {
+                    if (e.isIntersecting) {
+                        lastIntersecting = e.target;
+                    }
+                });
+
+                if (lastIntersecting) {
+                     const link = map.get(lastIntersecting.id);
+                        if(link){ links.forEach(l=>l.classList.remove('active')); link.classList.add('active'); }
+                    }
+
+            }, { rootMargin: '-20% 0px -70% 0px', threshold: 0 });
+            sections.forEach(s=>obs.observe(s));
+        })();
+
+        // Back to top button
+        (function(){
+            const btn = document.getElementById('backToTop');
+            window.addEventListener('scroll', ()=>{
+                if(window.scrollY > 600){ btn.classList.add('show'); } else { btn.classList.remove('show'); }
+            });
+            btn.addEventListener('click', ()=> window.scrollTo({ top: 0, behavior: 'smooth' }));
+        })();
+
+        // Header scroll behavior for mobile devices
+        (function(){
+            let lastScrollTop = 0;
+            const header = document.querySelector('.rr-header');
+            const scrollThreshold = 100; // Minimum scroll distance to trigger hide/show
+
+            function handleScroll() {
+                if (window.innerWidth <= 768) {
+                    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                    if (Math.abs(scrollTop - lastScrollTop) > 5) {
+                        if (scrollTop > lastScrollTop && scrollTop > scrollThreshold) {
+                            header.classList.add('header-hidden');
+                        } else {
+                            header.classList.remove('header-hidden');
+                        }
+                    }
+                    lastScrollTop = scrollTop;
+                } else {
+                    header.classList.remove('header-hidden');
+                }
+            }
+
+            let ticking = false;
+            window.addEventListener('scroll', function() {
+                if (!ticking) {
+                    window.requestAnimationFrame(function() {
+                        handleScroll();
+                        ticking = false;
+                    });
+                    ticking = true;
+                }
+            });
+
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 768) {
+                    header.classList.remove('header-hidden');
+                }
+            });
+        })();
+
+        // Cookie banner
+        (function(){
+            const cookieBanner = document.getElementById('cookieBanner');
+            const cookieAccept = document.getElementById('cookieAccept');
+            const cookieKey = 'rr_cookie_consent_v1';
+
+            if (!localStorage.getItem(cookieKey)) {
+                cookieBanner.style.display = 'block';
+            }
+
+            cookieAccept.addEventListener('click', function () {
+                localStorage.setItem(cookieKey, 'accepted');
+                cookieBanner.style.display = 'none';
+            });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <base href="/redtpv-app/">
+  <meta charset="UTF-8" />
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+  <meta name="description" content="RedTPV web: punto de venta para clínicas y consultorios con cobros, facturación e inventario." />
+  <meta name="google-signin-client_id" content="482372343054-fr2a0v1rn84gqhj73tums8spcshcu4q3.apps.googleusercontent.com">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="redtpv" />
+  <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <title>redtpv</title>
+  <link rel="manifest" href="manifest.json" />
+
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src='https://connect.facebook.net/en_US/fbevents.js';
+      s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script');
+    // ID del píxel / conjunto de datos de Meta (pix v4)
+    fbq('init', '1443290607232492');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img src="https://www.facebook.com/tr?id=1443290607232492&ev=PageView&noscript=1" height="1" width="1" style="display:none"/>
+  </noscript>
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #f8f9fa;
+      color: #111827;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+    }
+
+    .rr-page {
+      height: 100vh;
+      display: flex;
+      flex-direction: row;
+      background: #f8f9fa;
+    }
+
+    .rr-main {
+      flex: 1;
+      padding: 20px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-width: 0;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* Contenedor principal: app + columna de anuncios */
+    #rr-app-container {
+      display: flex;
+      flex-direction: row;
+      height: 100%;
+      min-height: 0;
+      width: 100%;
+      overflow: hidden;
+      border-radius: 12px;
+      border: 1px solid #e5e7eb;
+      background: #111111;
+      box-sizing: border-box;
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
+    /* Zona donde se pintará Flutter */
+    #rr-flutter-host {
+      flex: 1 1 auto;
+      position: relative;
+      overflow: hidden;
+      min-width: 0;
+      width: 100%;
+    }
+
+    /* Columna derecha para publicidad (similar a Photopea) */
+    .rr-ad-right {
+      width: 320px;
+      background: #f8f9fa;
+      border-left: 1px solid #dee2e6;
+      box-shadow: -2px 0 6px rgba(0, 0, 0, 0.08);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 8px;
+      box-sizing: border-box;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+      color: #333333;
+    }
+
+    .rr-ad-right h4 {
+      font-size: 14px;
+      margin: 4px 0 8px;
+    }
+
+    .rr-ad-placeholder {
+      width: 100%;
+      height: 250px;
+      border-radius: 4px;
+      border: 1px dashed #b0b0b0;
+      background: repeating-linear-gradient(
+        45deg,
+        #f8f9fa,
+        #f8f9fa 10px,
+        #f1f3f5 10px,
+        #f1f3f5 20px
+      );
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      text-align: center;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+
+    .rr-ad-slot {
+      width: 300px;
+      min-height: 250px;
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .rr-ad-slot-sm {
+      margin-top: 10px;
+      width: 160px;
+      min-height: 300px;
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .rr-ad-banner {
+      display: block;
+      width: 300px;
+      height: 600px;
+      border-radius: 8px;
+      overflow: hidden;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      background: #0b1f3a;
+    }
+
+    .rr-ad-banner:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+    }
+
+    .rr-ad-banner img,
+    .rr-ad-banner video {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      pointer-events: none;
+    }
+
+    .rr-guide-link {
+      margin-top: auto;
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      background: #217d04;
+      color: #ffffff;
+      text-decoration: none;
+      border: 1px solid #1c6903;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      box-sizing: border-box;
+    }
+
+    .rr-guide-link:hover {
+      background: #1c6903;
+      border-color: #155502;
+    }
+
+    /* Ocultamos la columna de anuncios cuando la ventana es demasiado estrecha
+       (la app quedaría más pequeña que la propia columna de publicidad). */
+    @media (max-width: 700px) {
+      .rr-page {
+        height: 100vh;
+      }
+
+      .rr-main {
+        flex: 1 1 auto;
+        height: auto;
+        min-height: 0;
+        padding: 12px;
+      }
+
+      #rr-app-container {
+        height: 100%;
+        min-height: 0;
+        width: 100vw;
+      }
+
+      .rr-ad-right {
+        display: none !important;
+      }
+    }
+
+    .cookie-banner {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #111827;
+      color: #f9fafb;
+      padding: 1rem 1.5rem;
+      display: none;
+      z-index: 2000;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+    }
+
+    .cookie-banner-content {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .cookie-banner p {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    .cookie-banner a {
+      color: #93c5fd;
+      text-decoration: none;
+    }
+
+    .cookie-banner a:hover {
+      text-decoration: underline;
+    }
+
+    .cookie-banner button {
+      background: #e63946;
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .cookie-banner button:hover {
+      background: #c1121f;
+    }
+  </style>
+
+  <!-- Firebase Configuration -->
+  <script src="https://www.gstatic.com/firebasejs/9.10.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.10.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.10.0/firebase-firestore-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.10.0/firebase-messaging-compat.js"></script>
+
+  <!-- Flutter JS loader -->
+  <script>
+    var serviceWorkerVersion = '"2570209092"';
+  </script>
+  <script src="flutter.js" defer></script>
+</head>
+
+<body>
+  <div class="rr-page" id="rrPage">
+    <main class="rr-main">
+      <div id="rr-app-container">
+        <div id="rr-flutter-host"></div>
+        <div class="rr-ad-right" id="rr-ad-right" style="display:none;">
+          <h4>Publicidad</h4>
+          <a class="rr-ad-banner" href="/#suscripciones" target="_blank" rel="noopener" aria-label="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" onclick="if(window.fbq){fbq('trackCustom','RedTpvApp_SidebarAd_Click');}">
+            <video autoplay muted loop playsinline preload="auto" poster="/images/landing-nueva/ad-redvet-ia-300x600.png">
+              <source src="/images/landing-nueva/ad-redvet-ia-300x600.mp4" type="video/mp4" />
+              <img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" />
+            </video>
+          </a>
+          <a class="rr-guide-link" href="/redtpv-guia.html" target="_blank" rel="noopener">Guía de usuario</a>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner-content">
+      <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+      <button type="button" id="cookieAccept">Aceptar</button>
+    </div>
+  </div>
+  <script>
+    // Ancho mínimo de ventana para mostrar la columna de publicidad.
+    // 320 (ads) + 320 (app igual de ancha que los ads) + 40 (padding) + 2 (border) = 682 → 700.
+    var RR_ADS_MIN_WIDTH = 700;
+    var __rrIsAdFreeUser = false;
+
+    function isWindowWideEnoughForAds() {
+      return window.matchMedia('(min-width: ' + (RR_ADS_MIN_WIDTH + 1) + 'px)').matches;
+    }
+
+    function showAdsColumn() {
+      const adRight = document.getElementById('rr-ad-right');
+      if (!adRight) return;
+      if (__rrIsAdFreeUser) {
+        adRight.style.display = 'none';
+        return;
+      }
+      if (!isWindowWideEnoughForAds()) {
+        adRight.style.display = 'none';
+        return;
+      }
+      adRight.style.display = 'flex';
+    }
+
+    function hideAdsColumn() {
+      const adRight = document.getElementById('rr-ad-right');
+      if (!adRight) return;
+      adRight.style.display = 'none';
+    }
+
+    // Re-evaluar visibilidad al redimensionar la ventana.
+    window.addEventListener('resize', function () {
+      if (__rrIsAdFreeUser) {
+        hideAdsColumn();
+      } else {
+        showAdsColumn();
+      }
+    });
+
+    async function resolveIsAdFreeForUser(user) {
+      const db = firebase.firestore();
+      const userDoc = await db.collection('users').doc(user.uid).get();
+      const userData =
+        userDoc.exists && userDoc.data() ? userDoc.data() : {};
+
+      const userAdFree = userData.isAdFree === true;
+      const manualOverride = userData.isAdFreeManualOverride === true;
+
+      // Mantener prioridad alineada con la app Flutter:
+      // clinics/{clinicId}.isAdFree > users/{uid}.isAdFree
+      const clinicCandidates = [user.uid];
+      if (Array.isArray(userData.associatedClinicIds)) {
+        userData.associatedClinicIds.forEach(function (clinicId) {
+          if (clinicId && !clinicCandidates.includes(clinicId)) {
+            clinicCandidates.push(clinicId);
+          }
+        });
+      }
+
+      let clinicFieldExists = false;
+      let clinicAdFree = false;
+
+      for (const clinicId of clinicCandidates) {
+        const clinicDoc = await db.collection('clinics').doc(clinicId).get();
+        if (!clinicDoc.exists) continue;
+
+        const clinicData = clinicDoc.data() || {};
+        if (typeof clinicData.isAdFree === 'boolean') {
+          clinicFieldExists = true;
+          clinicAdFree = clinicData.isAdFree === true;
+          break;
+        }
+
+        // Si existe la clínica pero falta el campo, seguimos la misma semántica
+        // del fallback (users/default false) sin buscar más clínicas.
+        break;
+      }
+
+      const resolvedAdFree = clinicFieldExists ? clinicAdFree : userAdFree;
+      return resolvedAdFree || manualOverride;
+    }
+
+    async function applyAdFreePolicy() {
+      try {
+        const firebaseConfig = {
+          apiKey: 'AIzaSyDQIQ4TK-AVtdzKb4WQ-6KSdFnHjCFcpuI',
+          authDomain: 'redpetvet25.firebaseapp.com',
+          projectId: 'redpetvet25',
+          storageBucket: 'redpetvet25.firebasestorage.app',
+          messagingSenderId: '482372343054',
+          appId: '1:482372343054:web:12ae9dd6575f6a5f38f35f',
+        };
+        if (!firebase.apps.length) {
+          firebase.initializeApp(firebaseConfig);
+        }
+        firebase.auth().onAuthStateChanged(async function (user) {
+          if (!user) {
+            __rrIsAdFreeUser = false;
+            showAdsColumn();
+            return;
+          }
+          try {
+            const isAdFree = await resolveIsAdFreeForUser(user);
+            __rrIsAdFreeUser = !!isAdFree;
+            if (isAdFree) {
+              hideAdsColumn();
+              return;
+            }
+            showAdsColumn();
+          } catch (e) {
+            __rrIsAdFreeUser = false;
+            showAdsColumn();
+          }
+        });
+      } catch (e) {
+        showAdsColumn();
+      }
+    }
+
+    applyAdFreePolicy();
+
+    window.addEventListener('load', function () {
+      // Usar loadEntrypoint para asegurar que _flutter.buildConfig sea inicializado por el loader
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion
+        },
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine({ hostElement: document.getElementById('rr-flutter-host') }).then(function (appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+
+    // Cookie banner
+    const cookieBanner = document.getElementById('cookieBanner');
+    const cookieAccept = document.getElementById('cookieAccept');
+    const cookieKey = 'rr_cookie_consent_v1';
+
+    if (!localStorage.getItem(cookieKey)) {
+      cookieBanner.style.display = 'block';
+    }
+
+    cookieAccept.addEventListener('click', function () {
+      localStorage.setItem(cookieKey, 'accepted');
+      cookieBanner.style.display = 'none';
+    });
+
+  </script>
+</body>
+</html>

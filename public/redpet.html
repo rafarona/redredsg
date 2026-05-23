@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RedPet - Gestión de Salud Animal | RedRed Soluciones de Gestión</title>
+    <meta name="description" content="RedPet: Aplicación integral de gestión de salud animal para propietarios de mascotas. Historial clínico digital, agenda de citas y compatibilidad con RedVet.">
+    <meta name="keywords" content="RedPet, mascotas, veterinario, salud animal, historial clínico, agenda veterinaria, RedRed SG">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    
+    <style>
+        :root {
+            --brand-red: #dc1a22;
+            --brand-red-dark: #a80909;
+            --brand-accent: #1d89e4;
+            --bg: #f4f7fb;
+            --surface: #ffffff;
+            --surface-soft: #f8fbff;
+            --line: #dce4ef;
+            --text: #0f172a;
+            --text-soft: #475569;
+            --shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.65;
+            color: var(--text);
+            background: radial-gradient(circle at top, #ffffff 0%, var(--bg) 58%);
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(10px);
+            color: var(--brand-red);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid var(--line);
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        @media (max-width: 768px) {
+            header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+        }
+
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: var(--text-soft);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.25s ease;
+        }
+
+        nav ul li a:hover {
+            color: var(--brand-accent);
+        }
+
+        .main-content {
+            padding: 8rem 2rem 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .app-hero {
+            text-align: center;
+            background: #ffffff;
+            color: #0f172a;
+            padding: 4rem 2rem;
+            border-radius: 24px;
+            margin-bottom: 3rem;
+            box-shadow: 0 0 0 2px rgba(220, 26, 34, 0.22), 0 18px 40px rgba(220, 26, 34, 0.28);
+            border: 1px solid rgba(220, 26, 34, 0.18);
+        }
+
+        .app-hero-content {
+            max-width: 860px;
+            margin: 0 auto;
+        }
+
+        .app-logo {
+            width: 220px;
+            margin: 0 auto 1.2rem;
+            display: block;
+        }
+
+        .app-logo img {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+        }
+
+        .app-hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+        }
+
+        .app-hero .subtitle {
+            margin: 0 auto 2rem;
+            max-width: 820px;
+            background: #ffffff;
+            color: #0f172a;
+            border-radius: 16px;
+            padding: 1rem 1.15rem;
+            font-style: normal;
+            box-shadow: 0 12px 26px rgba(15, 23, 42, 0.18);
+        }
+        .subtitle-main {
+            display: block;
+            font-size: 1.1rem;
+            font-weight: 900;
+            line-height: 1.08;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.35rem;
+        }
+        .subtitle-detail {
+            display: block;
+            font-size: 0.78rem;
+            line-height: 1.34;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle-highlight {
+            display: block;
+            font-size: 1.025rem;
+            font-weight: 900;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
+            color: #1d89e4;
+        }
+
+        .download-section {
+            margin: 3rem 0;
+        }
+
+        .download-buttons {
+            display: flex;
+            gap: 1.2rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 260px;
+            min-height: 88px;
+            padding: 0.95rem 1.15rem;
+            background: #f8fbff;
+            border: 1px solid #cdd9ea;
+            border-radius: 14px;
+            color: #0f172a;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.05rem;
+            transition: all 0.25s ease;
+            box-shadow: 0 10px 22px rgba(15, 23, 42, 0.1);
+        }
+
+        .download-btn:hover {
+            background: #eef6ff;
+            border-color: #1d89e4;
+            transform: translateY(-2px);
+            box-shadow: 0 12px 24px rgba(29, 137, 228, 0.18);
+        }
+
+        .download-btn.disabled {
+            pointer-events: none;
+        }
+
+        .download-btn i {
+            font-size: 1.5rem;
+            margin-right: 0.8rem;
+            color: #dc1a22;
+        }
+
+        .download-btn .store-info {
+            text-align: left;
+        }
+
+        .download-btn .store-name {
+            display: block;
+            font-size: 0.86rem;
+            color: #475569;
+        }
+
+        .download-btn .store-platform {
+            display: block;
+            font-size: 1.16rem;
+            font-weight: 700;
+        }
+
+        .web-only {
+            display: inline-flex;
+        }
+
+        .coming-soon-notice {
+            background: rgba(255, 255, 255, 0.14);
+            border-radius: 10px;
+            padding: 1rem;
+            margin: 1rem 0;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .content-section {
+            background: var(--surface);
+            border-radius: 18px;
+            padding: 2.5rem;
+            margin: 2rem 0;
+            border: 1px solid var(--line);
+            box-shadow: var(--shadow);
+        }
+
+        .section-title {
+            color: var(--brand-red);
+            font-size: 2rem;
+            margin-bottom: 1.2rem;
+            text-align: center;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+        }
+
+        .section-content {
+            font-size: 1.08rem;
+            line-height: 1.8;
+            color: var(--text-soft);
+            text-align: justify;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.2rem;
+            margin: 1.5rem 0;
+        }
+
+        .feature-item {
+            background: var(--surface-soft);
+            padding: 1.6rem;
+            border-radius: 14px;
+            border: 1px solid #e6edf7;
+            border-left: 4px solid var(--brand-red);
+        }
+
+        .feature-item h4 {
+            color: var(--brand-red);
+            margin-bottom: 0.8rem;
+            font-size: 1.16rem;
+        }
+
+        .feature-item p {
+            color: var(--text-soft);
+            line-height: 1.6;
+        }
+
+        .advantages-list {
+            list-style: none;
+            margin: 1.4rem 0;
+        }
+
+        .advantages-list li {
+            padding: 1rem;
+            margin: 0.55rem 0;
+            background: var(--surface-soft);
+            border-radius: 10px;
+            border: 1px solid #e6edf7;
+            border-left: 4px solid var(--brand-accent);
+            position: relative;
+            padding-left: 3rem;
+        }
+
+        .advantages-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 1rem;
+            color: var(--brand-accent);
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+
+        footer {
+            background: #0f172a;
+            color: #d1d9e8;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        footer a {
+            color: #c3d4ff;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            color: #f8fafc;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: var(--brand-red);
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .cookie-banner button:hover {
+            background: var(--brand-red-dark);
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                padding: 1rem;
+                flex-direction: column;
+                text-align: center;
+            }
+
+            nav ul {
+                flex-wrap: wrap;
+                justify-content: center;
+                margin-top: 1rem;
+            }
+
+            nav ul li {
+                margin: 0.45rem 0.75rem;
+            }
+
+            .main-content {
+                padding: 15rem 1rem 2rem;
+            }
+
+            .app-hero {
+                padding: 3rem 1rem;
+                margin-bottom: 2rem;
+            }
+
+            .app-hero h1 {
+                font-size: 2.35rem;
+            }
+
+            .app-hero .subtitle {
+                padding: 0.85rem 0.8rem;
+            }
+            .subtitle-main {
+                font-size: 0.775rem;
+            }
+            .subtitle-detail {
+                font-size: 0.65rem;
+            }
+            .subtitle-highlight {
+                font-size: 0.75rem;
+            }
+
+            .download-buttons {
+                gap: 0.9rem;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .download-btn {
+                width: 100%;
+                max-width: 260px;
+                min-height: 88px;
+                justify-content: center;
+            }
+
+            .web-only {
+                display: none;
+            }
+
+            .content-section {
+                padding: 1.9rem 1rem;
+                margin: 1.5rem 0;
+            }
+
+            .section-title {
+                font-size: 1.75rem;
+            }
+
+            .section-content {
+                font-size: 1rem;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+                gap: 0.95rem;
+            }
+
+            .feature-item {
+                padding: 1.3rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .main-content {
+                padding: 15rem 0.5rem 2rem;
+            }
+
+            .app-hero {
+                padding: 2rem 1rem;
+            }
+
+            .app-hero h1 {
+                font-size: 2rem;
+            }
+
+            .content-section {
+                padding: 1.4rem 0.95rem;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+    <!-- Header -->
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- App Hero Section -->
+        <section class="app-hero">
+            <div class="app-hero-content">
+                <div class="app-logo">
+                    <img src="/branding/icons/redpet/redpet-symbol-256.png" alt="Logo completo RedPet">
+                </div>
+                <p class="subtitle">
+                    <span class="subtitle-main">Toda la información de tus mascotas en un solo lugar</span>
+                    <span class="subtitle-detail">consultas, vacunas, desparasitantes, pruebas, cirugías, recetas, recordatorios, citas y más.</span>
+                    <span class="subtitle-highlight">¡ TODO COMPARTIDO CON TU VETERINARIO A TRAVÉS DE <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> !</span>
+                </p>
+                
+                <div class="download-section">
+                    <div class="download-buttons">
+                        <a href="https://play.google.com/store/apps/details?id=com.redredrf.redpet" target="_blank" class="download-btn" style="cursor: pointer; opacity: 1;">
+                            <i class="fab fa-google-play"></i>
+                            <div class="store-info">
+                                <span class="store-name">Disponible en</span>
+                                <span class="store-platform">Google Play</span>
+                            </div>
+                        </a>
+                        
+                        <a href="https://apps.apple.com/us/app/redpet-sg/id6747598625" target="_blank" class="download-btn" style="cursor: pointer; opacity: 1;">
+                            <i class="fab fa-app-store-ios"></i>
+                            <div class="store-info">
+                                <span class="store-name">Descarga en</span>
+                                <span class="store-platform">App Store</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; display: flex; justify-content: center;">
+                    <a href="/redpet-guia.html" target="_blank" rel="noopener" class="download-btn" style="cursor: pointer; opacity: 1;">
+                        <i class="fas fa-book"></i>
+                        <span style="font-weight: bold;">Guía de usuario</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Description Section -->
+        <section class="content-section">
+            <h2 class="section-title">Descripción General</h2>
+            <div class="section-content">
+                <p><strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span></strong> forma parte del ecosistema tecnológico <strong><span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span> SG</strong> y ha sido desarrollada como una herramienta integral de gestión de salud animal para propietarios de mascotas. Su diseño está orientado a facilitar la organización, el seguimiento clínico y la interoperabilidad de los datos médicos entre usuario y profesional veterinario. La aplicación permite registrar y acceder a historiales clínicos, coordinar citas y compartir información de manera selectiva con clínicas previamente autorizadas.</p>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section class="content-section">
+            <h2 class="section-title">Funcionalidades Principales</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <h4><i class="fas fa-user-md"></i> Perfiles Veterinarios</h4>
+                    <p>Creación y actualización de perfiles veterinarios para cada mascota con información detallada y personalizada.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <h4><i class="fas fa-clipboard-list"></i> Historial Clínico</h4>
+                    <p>Visualización estructurada del historial clínico, incluyendo vacunas, desparasitaciones, intervenciones quirúrgicas y pruebas diagnósticas.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <h4><i class="fas fa-notes-medical"></i> Registro Externo</h4>
+                    <p>Registro de atenciones veterinarias externas no documentadas en <strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span></strong>, para mantener la continuidad de la información.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <h4><i class="fas fa-shield-alt"></i> Control de Acceso</h4>
+                    <p>Sistema de autorización/revocación de acceso para clínicas, con trazabilidad del historial de permisos.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <h4><i class="fas fa-calendar-alt"></i> Agenda Inteligente</h4>
+                    <p>Agenda de citas y recordatorios automatizados para procedimientos futuros con sincronización de calendario.</p>
+                </div>
+                
+                <div class="feature-item">
+                    <h4><i class="fas fa-user-cog"></i> Gestión de Datos</h4>
+                    <p>Módulo de gestión de datos del propietario, incluyendo cambio de contraseña y actualización de información personal.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Advantages Section -->
+        <section class="content-section">
+            <h2 class="section-title">Ventajas Diferenciales</h2>
+            <ul class="advantages-list">
+                <li>Acceso permanente a la información clínica desde cualquier dispositivo con conectividad</li>
+                <li>Centralización de registros que favorece la toma de decisiones clínicas informadas</li>
+                <li>Autonomía y control total por parte del usuario sobre el flujo de información</li>
+                <li>Compatibilidad con <strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span></strong>, optimizando el intercambio de datos entre paciente y proveedor</li>
+            </ul>
+        </section>
+
+        <!-- Target User Section -->
+        <section class="content-section">
+            <h2 class="section-title">Perfil de Usuario</h2>
+            <div class="section-content">
+                <p><strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span></strong> está dirigida a propietarios de mascotas con interés en mantener un seguimiento digitalizado y sistemático de la salud de sus animales. Estudiantes, familias con varios animales y usuarios con conocimiento básico en tecnologías móviles podrán beneficiarse de su diseño centrado en la usabilidad y la seguridad de los datos.</p>
+                <p>También resulta especialmente útil para personas que se encargan del cuidado de mascotas de otros (por ejemplo, familiares o cuidadores) y necesitan disponer de la información siempre accesible y actualizada, sin depender de papeles o conversaciones aisladas.</p>
+            </div>
+        </section>
+
+        <!-- Daily Use Section -->
+        <section class="content-section">
+            <h2 class="section-title">Cómo puedes usar RedPet en tu día a día</h2>
+            <div class="section-content">
+                <p>La aplicación está pensada para acompañarte en las tareas habituales de cuidado de tu mascota, no solo para guardar información de manera pasiva. Algunos ejemplos de uso cotidiano son:</p>
+                <ul class="advantages-list">
+                    <li>Registrar cada visita al veterinario con notas rápidas sobre lo que te han explicado.</li>
+                    <li>Guardar fotos de análisis, radiografías o informes que quieras tener siempre a mano.</li>
+                    <li>Configurar recordatorios para vacunas, desparasitaciones y revisiones periódicas.</li>
+                    <li>Consultar el historial antes de una nueva visita para no olvidar detalles importantes.</li>
+                </ul>
+                <p>Con el tiempo, toda esa información se convierte en una historia clínica completa que te ayuda a entender mejor la evolución de la salud de tu mascota.</p>
+            </div>
+        </section>
+
+        <!-- Getting Started Section -->
+        <section class="content-section">
+            <h2 class="section-title">Guía rápida para empezar con RedPet</h2>
+            <div class="section-content">
+                <p>Si es la primera vez que utilizas una app para gestionar la salud de tus mascotas, estos pasos te servirán como orientación inicial:</p>
+                <ol>
+                    <li><strong>Crea tu cuenta y perfil:</strong> completa tus datos básicos de contacto para que la clínica pueda comunicarse contigo cuando sea necesario.</li>
+                    <li><strong>Da de alta a tus mascotas:</strong> añade nombre, especie, raza, fecha de nacimiento aproximada y cualquier dato relevante que quieras registrar.</li>
+                    <li><strong>Registra la información que ya tienes:</strong> anota vacunas recientes, tratamientos actuales o diagnósticos importantes para que todo quede en un mismo lugar.</li>
+                    <li><strong>Conecta con tu clínica:</strong> cuando tu veterinario utilice <strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span></strong>, podrás autorizarle el acceso para que ambas partes compartan información clínica de forma segura.</li>
+                    <li><strong>Activa recordatorios:</strong> configura avisos para no olvidar fechas clave como vacunas anuales, controles de peso o analíticas.</li>
+                </ol>
+                <p>En pocos minutos tendrás una base sólida desde la que seguir registrando todo lo importante a lo largo de la vida de tu mascota.</p>
+            </div>
+        </section>
+
+        <!-- FAQ Section -->
+        <section class="content-section">
+            <h2 class="section-title">Preguntas frecuentes sobre RedPet</h2>
+            <div class="section-content">
+                <h3>¿Necesito que mi veterinario use RedVet para aprovechar la app?</h3>
+                <p>No es obligatorio. Puedes utilizar <strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span></strong> de forma independiente para organizar la información de tus mascotas. Si además tu clínica utiliza <strong><span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span></strong>, la experiencia será más completa gracias al intercambio directo de datos.</p>
+                <h3>¿Puedo usarla con varias mascotas?</h3>
+                <p>Sí. La aplicación permite gestionar múltiples mascotas desde la misma cuenta, con historiales separados para que puedas consultar la información de cada una sin confusiones.</p>
+                <h3>¿Qué pasa si cambio de veterinario?</h3>
+                <p>Sigues manteniendo el control de tus datos. Podrás decidir con qué clínica compartes la información en cada momento y qué parte del historial quieres mostrar.</p>
+                <h3>¿La información está segura?</h3>
+                <p>El diseño de la app prioriza la seguridad y la privacidad. Tu cuenta está protegida mediante credenciales personales y tú decides qué profesionales pueden acceder a los datos de tus mascotas y durante cuánto tiempo.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+      <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        // Header hide/show on scroll functionality
+        let lastScrollTop = 0;
+        const header = document.getElementById('header');
+
+        window.addEventListener('scroll', function() {
+            if (window.innerWidth <= 768) { // Only on mobile
+                let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                if (scrollTop > lastScrollTop && scrollTop > 100) {
+                    // Scrolling down & past threshold
+                    header.classList.add('header-hidden');
+                } else {
+                    // Scrolling up
+                    header.classList.remove('header-hidden');
+                }
+                
+                lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+            }
+        });
+
+        // Cookie banner
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function() {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    </script>
+</body>
+</html>

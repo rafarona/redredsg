@@ -1,0 +1,142 @@
+[
+  {
+    "email": "info@vetsolutions.com.py",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "contacto@servivet.com.uy",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "info@trmpeturuguay.com",
+    "reason": "550 5.1.1 <info@trmpeturuguay.com>: Recipient address rejected: User unknown in virtual mailbox table",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "gerencia@servi-insumos.com",
+    "reason": "DNS Error",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "contacto@imgevetsa.com",
+    "reason": "554 5.7.1 <contacto@imgevetsa.com>: Relay access denied",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "info@scientificnicaragua.com",
+    "reason": "DNS Error",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "comercio@globalvetform.com",
+    "reason": "DNS Error",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "info@animalscan.gt",
+    "reason": "DNS Error",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "info@davetsagt.com",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "experienciadelcliente@analisalaboratorio.com",
+    "reason": "550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [SA2PEPF00003F62.namprd04.prod.outlook.com 2026-04-20",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "labgarcia@labgarcia.com",
+    "reason": "550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [BN3PEPF0000B06A.namprd21.prod.outlook.com 2026-04-20",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "lab.veterinarios@verizon.net.do",
+    "reason": "DNS Error",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "ventas@insucampo.com.ec",
+    "reason": "550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "oceledon@uchile.cl",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "comercial14@laberma.com",
+    "reason": "550 5.1.1 <comercial14@laberma.com>: Recipient address rejected: undeliverable address: host de-fra-smtpin5.hostinger.io[private/dovecot-lmtp] said: 550 5.1.1 <",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "oguerrero@laberma.com",
+    "reason": "550 5.1.1 <oguerrero@laberma.com>: Recipient address rejected: undeliverable address: host fr-int-smtpin39.hostinger.io[private/dovecot-lmtp] said: 550 5.1.1 <o",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "ebarbosa@laberma.com",
+    "reason": "550 5.1.1 <ebarbosa@laberma.com>: Recipient address rejected: undeliverable address: host fr-int-smtpin39.hostinger.io[private/dovecot-lmtp] said: 550 5.1.1 <eb",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "comercial5@laberma.com",
+    "reason": "550 5.1.1 <comercial5@laberma.com>: Recipient address rejected: undeliverable address: host fr-int-smtpin30.hostinger.io[private/dovecot-lmtp] said: 550 5.1.1 <",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "clientescolombia@virbac.com",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "ventasmedicalvet1@gmail.com",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "ventasgenovet@gmail.com",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "ventasgenopharm@gmail.com",
+    "reason": "550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Fo",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "laboratorios@andoci.com.mx",
+    "reason": "550 Requested action not taken: mailbox unavailable For explanation visit https://postmaster.1und1.de/en/case?c=r1601&i=ip&v=209.85.215.180&r=1MDdyF-1w4ijd3wYR-",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "infermentini@vetanco.com",
+    "reason": "550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [DS1PEPF00017092.namprd03.prod.outlook.com 2026-04-20",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "merenciamoreno@gmail.com",
+    "reason": "Diagnostic-Code: smtp; 452-4.2.2 The recipient's inbox is out of storage space. Please direct the",
+    "bounce_subject": "Delivery Status Notification (Delay)"
+  },
+  {
+    "email": "diagnis74@gmal.com",
+    "reason": "Address not found",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "betayka@gmail.com",
+    "reason": "Address not found",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  },
+  {
+    "email": "farma9providencia@gnail.com",
+    "reason": "Address not found",
+    "bounce_subject": "Delivery Status Notification (Failure)"
+  }
+]

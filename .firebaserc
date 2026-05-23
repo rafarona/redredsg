@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "redpetvet25"
+  },
+  "targets": {
+    "redpetvet25": {
+      "hosting": {
+        "default": [
+          "redpetvet25"
+        ],
+        "redredsg": [
+          "redredsg"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

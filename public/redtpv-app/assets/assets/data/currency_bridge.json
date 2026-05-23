@@ -1,0 +1,306 @@
+{
+  "MX": {
+    "countryISO": "MX",
+    "currency": { "name": "Peso mexicano", "iso4217": "MXN", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.50", "1", "2", "5", "10", "20"],
+      "bills": ["20", "50", "100", "200", "500", "1000"]
+    }
+  },
+  "AR": {
+    "countryISO": "AR",
+    "currency": { "name": "Peso argentino", "iso4217": "ARS", "symbol": "$" },
+    "denominations": {
+      "coins": ["1", "2", "5", "10"],
+      "bills": ["10", "20", "50", "100", "200", "500", "1000", "2000"]
+    }
+  },
+  "CL": {
+    "countryISO": "CL",
+    "currency": { "name": "Peso chileno", "iso4217": "CLP", "symbol": "$" },
+    "denominations": {
+      "coins": ["10", "50", "100", "500"],
+      "bills": ["1000", "2000", "5000", "10000", "20000"]
+    }
+  },
+  "CO": {
+    "countryISO": "CO",
+    "currency": { "name": "Peso colombiano", "iso4217": "COP", "symbol": "$" },
+    "denominations": {
+      "coins": ["50", "100", "200", "500", "1000"],
+      "bills": ["2000", "5000", "10000", "20000", "50000", "100000"]
+    }
+  },
+  "PE": {
+    "countryISO": "PE",
+    "currency": { "name": "Sol", "iso4217": "PEN", "symbol": "S/" },
+    "denominations": {
+      "coins": ["0.10", "0.20", "0.50", "1", "2", "5"],
+      "bills": ["10", "20", "50", "100", "200"]
+    }
+  },
+  "VE": {
+    "countryISO": "VE",
+    "currency": { "name": "Bolívar Digital", "iso4217": "VED", "symbol": "Bs" },
+    "denominations": {
+      "coins": ["0.25", "0.50", "1"],
+      "bills": ["5", "10", "20", "50", "100"]
+    }
+  },
+  "BO": {
+    "countryISO": "BO",
+    "currency": { "name": "Boliviano", "iso4217": "BOB", "symbol": "Bs" },
+    "denominations": {
+      "coins": ["0.10", "0.20", "0.50", "1", "2", "5"],
+      "bills": ["10", "20", "50", "100", "200"]
+    }
+  },
+  "EC": {
+    "countryISO": "EC",
+    "currency": { "name": "Dólar estadounidense", "iso4217": "USD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.01", "0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["1", "5", "10", "20", "50", "100"]
+    }
+  },
+  "PY": {
+    "countryISO": "PY",
+    "currency": { "name": "Guaraní", "iso4217": "PYG", "symbol": "₲" },
+    "denominations": {
+      "coins": ["50", "100", "500", "1000"],
+      "bills": ["2000", "5000", "10000", "20000", "50000", "100000"]
+    }
+  },
+  "UY": {
+    "countryISO": "UY",
+    "currency": { "name": "Peso uruguayo", "iso4217": "UYU", "symbol": "$" },
+    "denominations": {
+      "coins": ["1", "2", "5", "10", "50"],
+      "bills": ["20", "50", "100", "200", "500", "1000", "2000"]
+    }
+  },
+  "GT": {
+    "countryISO": "GT",
+    "currency": { "name": "Quetzal", "iso4217": "GTQ", "symbol": "Q" },
+    "denominations": {
+      "coins": ["0.01", "0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["1", "5", "10", "20", "50", "100", "200"]
+    }
+  },
+  "HN": {
+    "countryISO": "HN",
+    "currency": { "name": "Lempira", "iso4217": "HNL", "symbol": "L" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.20", "0.50"],
+      "bills": ["1", "2", "5", "10", "20", "50", "100", "500"]
+    }
+  },
+  "SV": {
+    "countryISO": "SV",
+    "currency": { "name": "Dólar estadounidense", "iso4217": "USD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.01", "0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["1", "5", "10", "20", "50", "100"]
+    }
+  },
+  "NI": {
+    "countryISO": "NI",
+    "currency": { "name": "Córdoba", "iso4217": "NIO", "symbol": "C$" },
+    "denominations": {
+      "coins": ["0.50", "1", "5"],
+      "bills": ["10", "20", "50", "100", "200", "500", "1000"]
+    }
+  },
+  "CR": {
+    "countryISO": "CR",
+    "currency": { "name": "Colón costarricense", "iso4217": "CRC", "symbol": "₡" },
+    "denominations": {
+      "coins": ["5", "10", "25", "50", "100", "500"],
+      "bills": ["1000", "2000", "5000", "10000", "20000"]
+    }
+  },
+  "PA": {
+    "countryISO": "PA",
+    "currency": { "name": "Balboa / Dólar", "iso4217": "PAB", "symbol": "B/." },
+    "denominations": {
+      "coins": ["0.01", "0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["1", "5", "10", "20", "50", "100"]
+    }
+  },
+  "CU": {
+    "countryISO": "CU",
+    "currency": { "name": "Peso cubano", "iso4217": "CUP", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.20", "0.50", "1", "3", "5"],
+      "bills": ["1", "3", "5", "10", "20", "50", "100", "200", "500", "1000"]
+    }
+  },
+  "DO": {
+    "countryISO": "DO",
+    "currency": { "name": "Peso dominicano", "iso4217": "DOP", "symbol": "RD$" },
+    "denominations": {
+      "coins": ["1", "5", "10", "25"],
+      "bills": ["50", "100", "200", "500", "1000", "2000"]
+    }
+  },
+  "ES": {
+    "countryISO": "ES",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "US": {
+    "countryISO": "US",
+    "currency": { "name": "US Dollar", "iso4217": "USD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.01", "0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["1", "2", "5", "10", "20", "50", "100"]
+    }
+  },
+  "GB": {
+    "countryISO": "GB",
+    "currency": { "name": "Pound Sterling", "iso4217": "GBP", "symbol": "£" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50"]
+    }
+  },
+  "CA": {
+    "countryISO": "CA",
+    "currency": { "name": "Canadian Dollar", "iso4217": "CAD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.25", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100"]
+    }
+  },
+  "AU": {
+    "countryISO": "AU",
+    "currency": { "name": "Australian Dollar", "iso4217": "AUD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100"]
+    }
+  },
+  "NZ": {
+    "countryISO": "NZ",
+    "currency": { "name": "New Zealand Dollar", "iso4217": "NZD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100"]
+    }
+  },
+  "IE": {
+    "countryISO": "IE",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "DE": {
+    "countryISO": "DE",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "AT": {
+    "countryISO": "AT",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "CH": {
+    "countryISO": "CH",
+    "currency": { "name": "Swiss Franc", "iso4217": "CHF", "symbol": "Fr" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.20", "0.50", "1", "2", "5"],
+      "bills": ["10", "20", "50", "100", "200", "1000"]
+    }
+  },
+  "FR": {
+    "countryISO": "FR",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "BE": {
+    "countryISO": "BE",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "IT": {
+    "countryISO": "IT",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "IN": {
+    "countryISO": "IN",
+    "currency": { "name": "Indian Rupee", "iso4217": "INR", "symbol": "₹" },
+    "denominations": {
+      "coins": ["1", "2", "5", "10", "20"],
+      "bills": ["10", "20", "50", "100", "200", "500", "2000"]
+    }
+  },
+  "SG": {
+    "countryISO": "SG",
+    "currency": { "name": "Singapore Dollar", "iso4217": "SGD", "symbol": "$" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.20", "0.50", "1"],
+      "bills": ["2", "5", "10", "50", "100", "1000"]
+    }
+  },
+  "ZA": {
+    "countryISO": "ZA",
+    "currency": { "name": "South African Rand", "iso4217": "ZAR", "symbol": "R" },
+    "denominations": {
+      "coins": ["0.10", "0.20", "0.50", "1", "2", "5"],
+      "bills": ["10", "20", "50", "100", "200"]
+    }
+  },
+  "NG": {
+    "countryISO": "NG",
+    "currency": { "name": "Nigerian Naira", "iso4217": "NGN", "symbol": "₦" },
+    "denominations": {
+      "coins": ["1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500", "1000"]
+    }
+  },
+  "PT": {
+    "countryISO": "PT",
+    "currency": { "name": "Euro", "iso4217": "EUR", "symbol": "€" },
+    "denominations": {
+      "coins": ["0.01", "0.02", "0.05", "0.10", "0.20", "0.50", "1", "2"],
+      "bills": ["5", "10", "20", "50", "100", "200", "500"]
+    }
+  },
+  "BR": {
+    "countryISO": "BR",
+    "currency": { "name": "Brazilian Real", "iso4217": "BRL", "symbol": "R$" },
+    "denominations": {
+      "coins": ["0.05", "0.10", "0.25", "0.50", "1"],
+      "bills": ["2", "5", "10", "20", "50", "100", "200"]
+    }
+  },
+  "AO": {
+    "countryISO": "AO",
+    "currency": { "name": "Kwanza", "iso4217": "AOA", "symbol": "Kz" },
+    "denominations": {
+      "coins": ["10", "20", "50", "100"],
+      "bills": ["200", "500", "1000", "2000", "5000", "10000"]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Página no encontrada | RedRed</title>
+
+    <style media="screen">
+      :root {
+        --brand-red: #dc1a22;
+        --brand-red-dark: #a80909;
+        --bg: #f4f7fb;
+        --text: #0f172a;
+        --soft: #475569;
+      }
+
+      body {
+        background: radial-gradient(circle at top, #ffffff 0%, var(--bg) 60%);
+        color: var(--text);
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      #message {
+        background: #ffffff;
+        max-width: 420px;
+        margin: 96px auto 16px;
+        padding: 32px 26px 22px;
+        border-radius: 14px;
+        border: 1px solid #dce4ef;
+        box-shadow: 0 12px 28px rgba(15, 23, 42, 0.1);
+      }
+
+      #message h2 {
+        color: var(--brand-red);
+        font-weight: 800;
+        font-size: 15px;
+        margin: 0 0 8px;
+        letter-spacing: 0.08em;
+      }
+
+      #message h1 {
+        font-size: 26px;
+        font-weight: 800;
+        color: var(--text);
+        margin: 0 0 16px;
+      }
+
+      #message h3 {
+        color: var(--soft);
+        font-weight: 700;
+        font-size: 15px;
+        margin: 16px 0 10px;
+      }
+
+      #message p {
+        line-height: 1.5;
+        margin: 14px 0 18px;
+        font-size: 14px;
+        color: var(--soft);
+      }
+
+      #message a {
+        display: block;
+        text-align: center;
+        background: var(--brand-red);
+        text-transform: uppercase;
+        text-decoration: none;
+        color: white;
+        padding: 14px;
+        border-radius: 10px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+      }
+
+      #message a:hover {
+        background: var(--brand-red-dark);
+      }
+
+      @media (max-width: 600px) {
+        body, #message {
+          margin-top: 0;
+          background: #ffffff;
+          box-shadow: none;
+        }
+
+        body {
+          border-top: 12px solid var(--brand-red);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="message">
+      <h2>ERROR 404</h2>
+      <h1>Página no encontrada</h1>
+      <p>La ruta que intentas abrir no existe o fue movida. Revisa la URL o vuelve al inicio.</p>
+      <a href="/">Ir al inicio</a>
+      <h3>¿Por qué aparece esto?</h3>
+      <p>Este mensaje se muestra cuando no hay un archivo publicado para la ruta solicitada.</p>
+    </div>
+  </body>
+</html>

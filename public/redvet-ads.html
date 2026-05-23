@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RedVetAds | Patrocinadores 2026</title>
+  <meta name="description" content="RedVetAds: propuesta para patrocinadores, planes y beneficios para marcas veterinarias.">
+  <link rel="icon" href="images/logo-oficial.png" type="image/png">
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --line: #e2e8f0;
+      --text: #0f172a;
+      --muted: #475569;
+      --red: #dc1a22;
+      --red-dark: #a80909;
+      --blue: #1d89e4;
+      --green: #217d04;
+      --radius: 18px;
+      --shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+      --shadow-soft: 0 10px 24px rgba(15, 23, 42, 0.06);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #ffffff 0%, var(--bg) 60%);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    .container { width: min(1180px, 92%); margin: 0 auto; }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--line);
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+    }
+    .brand-logo {
+      width: 170px;
+      max-width: 170px;
+      min-width: 170px;
+      height: auto;
+      display: block;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    nav a:hover { color: var(--red); }
+
+    .brand-word { font-weight: 800; letter-spacing: -0.02em; white-space: nowrap; }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    main { padding: 1.2rem 0 2.5rem; }
+    section { margin-top: 1rem; }
+
+    .hero {
+      background: #ffffff;
+      border: 1px solid #f3c8cd;
+      border-radius: var(--radius);
+      box-shadow: 0 0 0 2px rgba(220, 26, 34, 0.15), var(--shadow);
+      padding: 1.6rem;
+    }
+    .hero h1 {
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      line-height: 1.04;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.65rem;
+    }
+    .hero-title-main {
+      display: block;
+      text-align: center;
+    }
+    .hero-title-sub {
+      display: block;
+      text-align: center;
+      font-size: clamp(1rem, 2.1vw, 1.35rem);
+      letter-spacing: -0.01em;
+      font-weight: 700;
+      margin-top: 0.25rem;
+    }
+    .hero p { color: var(--muted); font-size: 1.05rem; }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow-soft);
+      padding: 1.2rem;
+    }
+    .card h2 {
+      font-size: 1.35rem;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.55rem;
+    }
+    .card p { color: var(--muted); margin-bottom: 0.5rem; }
+    .card ul { margin-left: 1.1rem; color: var(--muted); }
+    .card li { margin: 0.22rem 0; }
+    .ads-highlight {
+      color: #dc1a22;
+      font-weight: 800;
+    }
+    .ad-spot-card {
+      padding: 0;
+      overflow: hidden;
+    }
+    .ad-spot-card img {
+      width: 100%;
+      height: 240px;
+      object-fit: cover;
+      display: block;
+    }
+    .ad-spot-copy {
+      padding: 1rem 1.1rem 1.2rem;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.8rem;
+      margin-top: 0.9rem;
+    }
+    .stat {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      text-align: center;
+      padding: 0.9rem 0.7rem;
+    }
+    .stat strong {
+      display: block;
+      font-size: 1.45rem;
+      letter-spacing: -0.02em;
+      color: var(--red);
+      margin-bottom: 0.12rem;
+    }
+    .stat span { color: var(--muted); font-size: 0.9rem; }
+
+    .table-wrap { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+    th, td {
+      border-bottom: 1px solid #edf2f7;
+      text-align: left;
+      vertical-align: top;
+      padding: 0.72rem;
+      font-size: 0.95rem;
+    }
+    th {
+      background: #fff5f5;
+      color: #0f172a;
+      font-weight: 800;
+    }
+    td:last-child {
+      white-space: nowrap;
+      font-weight: 800;
+      color: var(--blue);
+    }
+    .monthly-extra {
+      display: block;
+      font-size: 75%;
+      line-height: 1.25;
+      font-weight: 700;
+      color: var(--blue);
+      white-space: normal;
+    }
+
+    .cta {
+      margin-top: 1rem;
+      display: flex;
+      gap: 0.7rem;
+      flex-wrap: wrap;
+    }
+    .cta-floating {
+      position: fixed;
+      right: 18px;
+      bottom: 86px;
+      z-index: 90;
+      margin-top: 0;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.55rem;
+      width: min(640px, calc(100vw - 36px));
+    }
+    .cta-floating .btn {
+      width: 100%;
+      min-height: 48px;
+      justify-content: center;
+      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.2);
+    }
+    .ads-preview-section h2 {
+      margin-bottom: 0.35rem;
+    }
+    .ads-preview-section p {
+      color: var(--muted);
+      margin-bottom: 0.8rem;
+    }
+    .preview-subtitle {
+      font-size: 1.1rem;
+      color: #0f172a;
+      margin: 0.8rem 0 0.6rem;
+      letter-spacing: -0.01em;
+    }
+    .preview-grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.8rem;
+    }
+    .preview-grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.8rem;
+      margin-top: 0.2rem;
+    }
+    .preview-card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fff;
+      overflow: hidden;
+      box-shadow: var(--shadow-soft);
+    }
+    .preview-card img {
+      width: 100%;
+      height: auto;
+      max-height: 560px;
+      object-fit: contain;
+      display: block;
+      background: #ffffff;
+    }
+    .preview-caption {
+      padding: 0.55rem 0.7rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+      border-top: 1px solid #edf2f7;
+      background: #fbfdff;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      text-decoration: none;
+      padding: 0.62rem 1rem;
+      border-radius: 10px;
+      font-weight: 700;
+      border: 1px solid transparent;
+    }
+    .btn-label-short { display: none; }
+    .btn-primary {
+      background: #25d366;
+      color: #fff;
+      border-color: #1fa855;
+    }
+    .btn-secondary {
+      background: #1d89e4;
+      color: #ffffff;
+      border-color: #166bb4;
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      background: #fff;
+      margin-top: 1.5rem;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      color: #64748b;
+      padding: 1.1rem 0;
+    }
+    .footer-links { display: flex; gap: 1rem; }
+    .footer-links a { color: #475569; text-decoration: none; font-weight: 600; }
+    .footer-links a:hover { color: var(--red); }
+
+    @media (max-width: 980px) {
+      .grid-2 { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: 1fr 1fr; }
+      .preview-grid-3,
+      .preview-grid-2 { grid-template-columns: 1fr; }
+      .brand-logo { width: 132px; max-width: 132px; min-width: 132px; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      .cta-floating {
+        right: 10px;
+        left: 10px;
+        bottom: 86px;
+        width: auto;
+      }
+    }
+    @media (max-width: 640px) {
+      .btn-label-full { display: none; }
+      .btn-label-short { display: inline; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#suscripciones">Suscripciones</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container hero">
+      <h1>
+        <span class="hero-title-main"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></span>
+        <span class="hero-title-sub">Conecta con veterinarios <span class="brand-word brand-red-main">justo cuando recetan</span></span>
+      </h1>
+      <p><strong><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></strong> es la app de gestión clínica usada por miles de médicos veterinarios en su práctica diaria. Tu marca aparece en el momento de decisión clínica, no como un banner aislado.</p>
+      <div class="stats">
+        <div class="stat"><strong>16,000+</strong><span>descargas profesionales</span></div>
+        <div class="stat"><strong>25,000</strong><span>impactos visuales / mes</span></div>
+        <div class="stat"><strong>~1%</strong><span>tasa de interacción</span></div>
+        <div class="stat"><strong>600+</strong><span>nuevas descargas diarias</span></div>
+      </div>
+    </section>
+
+    <section class="container grid-2">
+      <article class="card ad-spot-card">
+        <img src="/images/landing-nueva/redvet-ads-celular-real.png" alt="Publicidad en RedVet desde celular">
+        <div class="ad-spot-copy">
+          <h2>Por qué anunciarte en <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></h2>
+          <ul>
+            <li><strong>Cero desperdicio:</strong> hablas directo a profesionales.</li>
+            <li><strong>Momento clave:</strong> justo al definir vacuna, antiparasitario o tratamiento.</li>
+            <li><strong>Presencia durante toda la jornada clínica.</strong></li>
+            <li>Visibilidad dentro del proceso de toma de decisiones.</li>
+          </ul>
+        </div>
+      </article>
+      <article class="card ad-spot-card">
+        <img src="/images/landing-nueva/redvet-ads-web-real.png" alt="Publicidad en RedVet versión web">
+        <div class="ad-spot-copy">
+          <h2><span class="ads-highlight">¡Aparece justo cuando importa!</span></h2>
+          <ul>
+            <li><span class="ads-highlight">Vacunación:</span> mostramos tus biológicos.</li>
+            <li><span class="ads-highlight">Desparasitación:</span> mostramos tus antiparasitarios.</li>
+            <li><span class="ads-highlight">Pruebas Diagnósticas:</span> El lugar exacto para laboratorios y equipos médicos.</li>
+            <li><span class="ads-highlight">Consulta y Cirugía:</span> Tus medicamentos estarán visibles mientras pone el tratamiento.</li>
+          </ul>
+        </div>
+      </article>
+    </section>
+
+    <section class="container card">
+      <h2>Ecosistema completo</h2>
+      <p><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> (decisión clínica) -> <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> (comunicación con propietario) -> <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span> (proceso de compra).</p>
+      <p>Tu marca acompaña todo el proceso: <strong>decisión clínica -> recomendación -> conversión</strong>.</p>
+    </section>
+
+    <section class="container card">
+      <h2>Partners fundadores 2026</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Plan</th>
+              <th>Beneficios de exposición</th>
+              <th>Mensual</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>BRONCE</strong></td>
+              <td><strong>1 Banner Rotativo</strong> de alta visibilidad en el Dashboard principal de <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>, <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> y <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span>. Ideal para que te tengan en mente todos los días.</td>
+              <td>$2,000 MXN</td>
+            </tr>
+            <tr>
+              <td><strong>PLATA</strong></td>
+              <td><strong>5 Banners Estratégicos.</strong> Presencia en puntos críticos:<br>● <strong>1 banner General</strong> (<span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>, <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> y <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span>)<br>● <strong>4 banners en el historial y consulta*:</strong><br>- Vacunas,<br>- Desparasitación<br>- Consultas<br>- Cirugía.<br>*En consulta se mostrará si hay disponibilidad</td>
+              <td>$4,000 MXN</td>
+            </tr>
+            <tr>
+              <td><strong>ORO</strong></td>
+              <td><strong>Impacto Total.</strong><br>Plan Plata + Anuncio a <strong>pantalla completa (5s)</strong> justo al terminar una consulta.</td>
+              <td>$10,000 MXN</td>
+            </tr>
+            <tr>
+              <td><strong>DIAMANTE</strong></td>
+              <td><strong>Bloquea a la competencia.</strong><br>Plan Oro + <strong>exclusividad</strong> dentro de la consulta clínica.<br>- Elige una categoría: vacunas, desparasitación, diagnóstico o cirugía.<br>- Una sola marca por categoría.<br>- <strong>Tu marca será la única que se muestre en esa categoría. ¡La verán todas las clínicas!</strong><br>👉 <strong>Dominio total en el momento de decisión clínica</strong><br>* Además, nuestra IA clínica prioriza tus productos en diagnósticos y tratamientos.</td>
+              <td>$20,000 MXN<br><span class="monthly-extra">(+$10,000 categoría adicional)</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="margin-top:0.7rem; color:#475569;"><strong>Oportunidad especial Congreso Puebla 2026:</strong> Plan semestral (6x5) y plan anual (12x9, ahorro directo 25%).</p>
+      <div class="cta cta-floating">
+        <a class="btn btn-primary" href="https://wa.me/522298882617" target="_blank" rel="noopener"><span class="btn-label-full">Respuesta rápida por WhatsApp</span><span class="btn-label-short">WhatsApp</span></a>
+        <a class="btn btn-secondary" href="mailto:info@redredsg.com"><span class="btn-label-full">Solicita propuesta por email</span><span class="btn-label-short">Email</span></a>
+      </div>
+    </section>
+
+    <section class="container card ads-preview-section">
+      <h2>¿Cómo se verá el anuncio en celular y web?</h2>
+      <p>Ejemplos visuales de ubicaciones reales para formatos general, especializado y pantalla completa.</p>
+
+      <h3 class="preview-subtitle">En celular</h3>
+      <div class="preview-grid-3">
+        <figure class="preview-card">
+          <img src="/images/landing-nueva/redvet-ads-banner-general-movil.png?v=20260404" alt="Banner general en celular">
+          <figcaption class="preview-caption">Banner general</figcaption>
+        </figure>
+        <figure class="preview-card">
+          <img src="/images/landing-nueva/redvet-ads-banner-especializado-movil.png?v=20260404" alt="Banner especializado en celular">
+          <figcaption class="preview-caption">Banner especializado</figcaption>
+        </figure>
+        <figure class="preview-card">
+          <img src="/images/landing-nueva/redvet-ads-pantalla-completa-movil.png?v=20260404" alt="Anuncio a pantalla completa en celular">
+          <figcaption class="preview-caption">Pantalla completa</figcaption>
+        </figure>
+      </div>
+
+      <h3 class="preview-subtitle">En web (skyscrapers)</h3>
+      <div class="preview-grid-2">
+        <figure class="preview-card">
+          <img src="/images/landing-nueva/redvet-ads-web-general.png?v=20260404" alt="Skyscraper general en web">
+          <figcaption class="preview-caption">General</figcaption>
+        </figure>
+        <figure class="preview-card">
+          <img src="/images/landing-nueva/redvet-ads-web-especializado.png?v=20260404" alt="Skyscraper especializado en web">
+          <figcaption class="preview-caption">Especializado</figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+      <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

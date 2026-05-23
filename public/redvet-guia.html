@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manual de Usuario de RedVet</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <!-- Carga de Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fuente Inter para un look moderno -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --brand-red: #dc1a22;
+            --brand-red-dark: #a80909;
+            --brand-accent: #1d89e4;
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top, #ffffff 0%, #f4f7fb 58%);
+            color: #0f172a;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        h1 {
+            color: var(--secondary-color);
+        }
+
+        h2, h3, h4 {
+            color: var(--primary-color);
+        }
+
+        h2 {
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
+        }
+
+        .section-container {
+            border: 1px solid #dce4ef;
+            border-radius: 0.9rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background-color: #ffffff;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+        }
+
+        .card {
+            background: #f8fbff;
+            border: 1px solid #e4ecf7;
+            border-radius: 14px;
+            padding: 1rem;
+            margin: 0;
+            box-shadow: 0 6px 16px rgba(15, 23, 42, 0.06);
+        }
+
+        .card h4 {
+            margin-top: 0;
+        }
+
+        .cards, .stack {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .list-disc > li::marker, .list-decimal > li::marker {
+            color: var(--brand-accent);
+        }
+
+        .rr-header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid #dce4ef;
+            box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .rr-nav a {
+            color: #475569;
+            font-weight: 600;
+        }
+
+        .rr-nav a:hover {
+            color: var(--brand-accent);
+        }
+
+        .rr-logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+        }
+
+        .two-col {
+            display: flex;
+            gap: 1.25rem;
+            align-items: flex-start;
+        }
+
+        .two-col > div {
+            flex: 1 1 0;
+        }
+
+        .two-col > div:first-child {
+            flex: 0 0 280px;
+        }
+
+        .two-col.reverse {
+            flex-direction: row-reverse;
+        }
+
+        .two-col .phone-shot {
+            width: 100%;
+            max-width: 280px;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.14);
+            background: #fff;
+        }
+
+        @media (max-width: 900px) {
+            .two-col, .two-col.reverse {
+                flex-direction: column;
+            }
+
+            .two-col > div:first-child {
+                flex: initial;
+            }
+        }
+
+        .toc-sticky {
+            position: static;
+            background: #f8fbff;
+            border-left: 4px solid var(--brand-accent);
+        }
+
+        #indice a.active {
+            color: var(--brand-accent);
+            font-weight: 700;
+        }
+
+        .toc-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .toc-toggle {
+            display: none;
+            border: none;
+            background: transparent;
+            color: var(--secondary-color);
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        @media (max-width: 900px) {
+            .toc-sticky {
+                top: 0;
+            }
+
+            .toc-toggle {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.35rem;
+            }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(16px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+
+        .reveal.show {
+            opacity: 1;
+            transform: none;
+        }
+
+        .phone-shot {
+            transition: transform 0.25s ease;
+        }
+
+        .phone-shot:hover {
+            transform: scale(1.02);
+        }
+
+        .back-to-top {
+            position: fixed;
+            right: 16px;
+            bottom: 24px;
+            background: #ffffff;
+            color: var(--brand-accent);
+            border: 1px solid #dce4ef;
+            border-radius: 999px;
+            padding: 0.5rem 0.9rem;
+            box-shadow: 0 6px 20px rgba(15, 23, 42, 0.12);
+            cursor: pointer;
+            display: none;
+        }
+
+        .back-to-top.show {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .rr-header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: var(--brand-red);
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .cookie-banner button:hover {
+            background: var(--brand-red-dark);
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body class="p-0 sm:p-0">
+
+    <!-- Header -->
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <div class="max-w-4xl mx-auto p-4 sm:p-8 cards">
+
+        <!-- CABECERA PRINCIPAL -->
+        <div class="text-center mb-8">
+            <h1 class="text-4xl sm:text-5xl font-extrabold"><span>Manual de Usuario de </span><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Vet</span></h1>
+            <p class="text-lg text-gray-600">Tu guía completa para la gestión veterinaria moderna.</p>
+        </div>
+
+        <!-- INTRODUCCIÓN -->
+        <div class="section-container">
+            <p class="mb-4">¡Hola! <strong>RedVet</strong> es tu mejor aliado para la gestión moderna de la clínica veterinaria. Nuestro propósito es conectar a los profesionales con sus clientes de forma eficiente, eliminando el papeleo del historial clínico. Además, modernizamos la experiencia del cliente a través de su aplicación complementaria: <strong>RedPet</strong>.</p>
+        </div>
+
+        <!-- TABLA DE CONTENIDO (ÍNDICE) -->
+        <nav id="indice" class="section-container p-6 shadow-lg toc-sticky" style="background:#f0f8ff;">
+            <div class="toc-header">
+                <h2 class="text-2xl font-bold mb-4" style="color:#0b4f8a;border-color:#cfe3f7" id="tabla-de-contenido">Tabla de Contenido</h2>
+                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">Índice</button>
+            </div>
+            <ul id="toc-list" class="space-y-2 text-gray-700">
+                <li><a href="#introduccion-beneficios" class="font-semibold hover:text-[#1d89e4] transition duration-150">1. Introducción y Beneficios Clave</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#historiales-y-conectividad" class="hover:text-[#1d89e4]">Historiales y Conectividad</a></li>
+                        <li><a href="#automatizacion-y-gestion" class="hover:text-[#1d89e4]">Automatización y Gestión</a></li>
+                    </ul>
+                </li>
+                <li><a href="#primeros-pasos" class="font-semibold hover:text-[#1d89e4] transition duration-150">2. Primeros Pasos: Configuración Inicial</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#acceso-y-seguridad" class="hover:text-[#1d89e4]">Acceso y Seguridad</a></li>
+                        <li><a href="#configuracion-clinica" class="hover:text-[#1d89e4]">Configuración de la Clínica</a></li>
+                        <li><a href="#gestion-empleados" class="hover:text-[#1d89e4]">Gestión de Empleados</a></li>
+                    </ul>
+                </li>
+                <li><a href="#gestion-clientes-pacientes" class="font-semibold hover:text-[#1d89e4] transition duration-150">3. Gestión de Clientes y Mascotas</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#anadir-clientes" class="hover:text-[#1d89e4]">Añadir Clientes</a></li>
+                        <li><a href="#anadir-mascotas" class="hover:text-[#1d89e4]">Añadir Mascotas</a></li>
+                        <li><a href="#ficha-paciente" class="hover:text-[#1d89e4]">La Ficha del Paciente</a></li>
+                    </ul>
+                </li>
+                <li><a href="#flujo-consulta" class="font-semibold hover:text-[#1d89e4] transition duration-150">4. Flujo de Trabajo Principal: La Consulta</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#iniciar-registro" class="hover:text-[#1d89e4]">Iniciar un Registro Clínico</a></li>
+                        <li><a href="#tipos-registros" class="hover:text-[#1d89e4]">Tipos de Registros Disponibles</a></li>
+                        <li><a href="#finalizacion-registro" class="hover:text-[#1d89e4]">Finalización del Registro</a></li>
+                    </ul>
+                </li>
+                <li><a href="#herramientas-diarias" class="font-semibold hover:text-[#1d89e4] transition duration-150">5. Herramientas del Día a Día</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#pantalla-principal" class="hover:text-[#1d89e4]">Pantalla Principal</a></li>
+                        <li><a href="#calendario-citas" class="hover:text-[#1d89e4]">Calendario y Citas</a></li>
+                    </ul>
+                </li>
+                <li><a href="#ajustes-avanzados" class="font-semibold hover:text-[#1d89e4] transition duration-150">6. Ajustes y Administración</a>
+                    <ul class="ml-4 list-disc space-y-1 mt-1 text-sm">
+                        <li><a href="#gestion-sesion" class="hover:text-[#1d89e4]">Gestión de Sesión</a></li>
+                        <li><a href="#id-qr-clinica" class="hover:text-[#1d89e4]">ID y QR de la Clínica</a></li>
+                        <li><a href="#configuracion-avanzada" class="hover:text-[#1d89e4]">Configuración Avanzada</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- SECCIÓN 1: INTRODUCCIÓN Y BENEFICIOS -->
+        <div id="introduccion-beneficios" class="section-container mt-8 reveal stack">
+            <h2 class="text-3xl font-extrabold">1. Introducción y Beneficios Clave</h2>
+            <p class="text-gray-600 mb-6">Descubre las ventajas fundamentales que obtienes al integrar RedVet en tu práctica diaria:</p>
+
+            <h3 id="historiales-y-conectividad" class="text-2xl font-bold mb-3">1.1. Historiales y Conectividad</h3>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                <li>
+                    <p class="font-semibold">Historial Clínico Centralizado (Digital):</p>
+                    <p>Todos los datos de los pacientes (consultas, vacunas, desparasitaciones, pruebas, cirugías) se almacenan de forma segura y digitalizada. <span class="text-teal-600 font-medium">¡Di adiós a los archivos de papel!</span></p>
+                </li>
+                <li>
+                    <p class="font-semibold">Cliente Conectado (24/7):</p>
+                    <p>El dueño puede acceder al historial de su mascota en cualquier momento y lugar a través de la app <strong><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Pet</span></strong>.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Compartir Historial sin Límites:</p>
+                    <p>El cliente puede autorizar el acceso total al historial de su mascota a otras clínicas dentro de la red <strong><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Vet</span></strong> - <strong><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Pet</span></strong>, facilitando diagnósticos rápidos y precisos, incluso en la primera visita.</p>
+                </li>
+            </ul>
+
+            <h3 id="automatizacion-y-gestion" class="text-2xl font-bold mt-6 mb-3">1.2. Automatización y Gestión</h3>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                <li>
+                    <p class="font-semibold">Papelería Automática:</p>
+                    <ul class="list-disc ml-6 text-sm mt-1 space-y-1">
+                        <li>Generación automática de Recetas y Certificados Médicos.</li>
+                        <li>Generación automática de Carteles de Autorización para usuarios de <strong><span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-blue);">Pet</span></strong>.</li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="font-semibold">Control de empleados:</p>
+                    <p>Asigna diferentes roles a los empleados para gestionar permisos.</p>
+                </li>
+                <li>
+                    <p class="font-semibold">Organiza tus citas:</p>
+                    <ul class="list-disc ml-6 text-sm mt-1 space-y-1">
+                        <li>Recordatorios automáticos para próximas visitas.</li>
+                        <li>Envía un WhatsApp a tu cliente al agendar la cita.</li>
+                    </ul>
+                </li>
+                <li>
+                    <p class="font-semibold">Integración Total con <span style="color: var(--brand-red);">Red</span><span style="color: var(--brand-tpv-green);">TPV</span>:</p>
+                    <p>La conexión con tu Terminal Punto de Venta es completa, simplificando cobros, inventario y cierres de caja.</p>
+                </li>
+            </ul>
+        </div>
+        
+        <!-- SECCIÓN 2: PRIMEROS PASOS -->
+        <div id="primeros-pasos" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">2. Primeros Pasos: Configuración Inicial</h2>
+            <p class="text-gray-600 mb-6">Para que la aplicación esté 100% lista y adaptada a tu clínica, sigue esta sencilla secuencia de pasos:</p>
+
+            <h3 id="acceso-y-seguridad" class="text-2xl font-bold mb-3">2.1. Acceso y Seguridad</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/redvetlogin.png" alt="Pantalla de inicio de sesión de RedVet" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Registro e Inicio de Sesión</h4>
+                    <ul class="list-disc ml-6 space-y-1 text-gray-700">
+                        <li><strong>Acceso Rápido:</strong> Ingresa con tu cuenta de <strong>Apple</strong> o <strong>Google</strong>.</li>
+                        <li><strong>Acceso Normal:</strong> Usa tu <strong>Correo electrónico</strong> y <strong>Contraseña</strong>.</li>
+                        <li><strong>Registro:</strong> Si eres nuevo, completa el formulario. Recibirás un email para verificar tu cuenta.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card two-col mt-4">
+                <div><img src="images/redvetpin.jpeg" alt="Configuración PIN de Administrador en RedVet" class="phone-shot"></div>
+                <div>
+                    <h4 class="text-xl font-semibold mb-2">Configuración del PIN de Administrador</h4>
+                    <div class="bg-red-50 p-3 rounded-lg border border-red-200">
+                        <p class="font-bold text-red-700">¡ATENCIÓN! Súper Importante:</p>
+                        <p class="text-red-600">Al inicio, debes crear un <strong>PIN de 4 dígitos</strong>. Este código <span class="font-extrabold">NO se puede recuperar</span> y es esencial para acciones sensibles.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-4">
+                <p class="text-gray-700 font-semibold mb-2">Video explicativo: Acceso y seguridad</p>
+                <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                    <iframe src="https://www.youtube.com/embed/Sr_NWRihpo8?rel=0" title="Acceso y seguridad en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <h3 id="configuracion-clinica" class="text-2xl font-bold mt-6 mb-3">2.2. Configuración de la Clínica</h3>
+            <div class="card two-col reverse">
+                 <div><img src="images/redvet.clinica.png" alt="Menú lateral de RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">Ve al <strong>Menú Lateral → Mi Clínica</strong> para completar la información de tu negocio:</p>
+                     <ul class="list-disc ml-6 space-y-1 text-gray-700 mt-2">
+                        <li><strong>Información Básica:</strong> Logo, Nombre, Email, Teléfono, Sitio Web.</li>
+                        <li><strong>Dirección:</strong> Domicilio, ubicación en Google Maps, horario y lista de servicios.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mt-4">
+                <p class="text-gray-700 font-semibold mb-2">Video explicativo: Configuración de la clínica</p>
+                <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                    <iframe src="https://www.youtube.com/embed/dD5f2_F4Y84?rel=0" title="Configuración de la clínica en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <h3 id="gestion-empleados" class="text-2xl font-bold mt-6 mb-3">2.3. Gestión de Empleados</h3>
+             <div class="card two-col">
+                <div><img src="images/redvet.empleado.png" alt="Gestión de usuarios en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Desde el <strong>Menú Lateral → Gestión de Usuarios</strong>, puedes dar de alta a tu personal y asignarles permisos (Roles):</p>
+                    <ul class="list-disc ml-6 space-y-1 text-gray-700">
+                        <li><strong>Fundador:</strong> Rol inmutable del creador de la cuenta.</li>
+                        <li><strong>Veterinario:</strong> Puede gestionar registros médicos.</li>
+                        <li><strong>Administrador:</strong> Puede editar datos de la clínica y gestionar empleados.</li>
+                        <li><strong>Sin Roles:</strong> Puede crear citas y consultar historiales.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="section-container mt-2 mb-4">
+            <p class="text-gray-700 font-semibold mb-2">Video explicativo: Gestión de empleados</p>
+            <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                <iframe src="https://www.youtube.com/embed/UZrVFpibsf4?rel=0" title="Gestión de empleados en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 3: GESTIÓN DE CLIENTES Y MASCOTAS -->
+        <div id="gestion-clientes-pacientes" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">3. Gestión de Clientes y Mascotas</h2>
+            <p class="text-gray-600 mb-6">Una vez configurada la clínica, el siguiente paso es registrar a tus clientes y sus mascotas.</p>
+
+            <h3 id="anadir-clientes" class="text-2xl font-bold mb-3">3.1. Añadir Clientes</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/redvet.crearcliente.png" alt="Crear Cliente en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En la <strong>Pantalla Principal</strong>, pulsa el <strong>Botón Rojo (+)</strong> para crear las fichas de los dueños de las mascotas.</p>
+                </div>
+            </div>
+
+            <h3 id="anadir-mascotas" class="text-2xl font-bold mt-6 mb-3">3.2. Añadir Mascotas</h3>
+            <div class="card two-col">
+                <div><img src="images/redvet.editarmascota.png" alt="Editar/Crear Mascota en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">Entra a la ficha de cada cliente y utiliza la opción correspondiente para ingresar los datos de sus mascotas.</p>
+                </div>
+            </div>
+
+            <h3 id="ficha-paciente" class="text-2xl font-bold mt-6 mb-3">3.3. La Ficha del Paciente</h3>
+            <p class="text-gray-600 mb-2">Al seleccionar una mascota, accedes a su ficha completa, donde puedes ver su información y el historial de visitas.</p>
+            <ul class="list-disc ml-6 space-y-2 text-gray-700">
+                <li><strong>Información General:</strong> Edad, Sexo, Microchip, Alergias, etc.</li>
+                <li><strong>Botones de Acción:</strong> Permiten emitir certificados, editar la ficha, o iniciar un nuevo registro clínico.</li>
+                <li><strong>Historial Veterinario:</strong> Muestra todos los procedimientos en orden cronológico, con filtros. Solo puedes editar registros durante las primeras <strong>24 horas</strong>.</li>
+            </ul>
+            <div class="mt-4">
+                <p class="text-gray-700 font-semibold mb-2">Video explicativo: Gestión de clientes y mascotas</p>
+                <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                    <iframe src="https://www.youtube.com/embed/Sk_26zNzyMg?rel=0" title="Gestión de clientes y mascotas en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 4: FLUJO DE TRABAJO DE CONSULTA -->
+        <div id="flujo-consulta" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">4. Flujo de Trabajo Principal: La Consulta</h2>
+            <p class="text-gray-600 mb-6">Esta es la función central de RedVet: documentar la visita de un paciente.</p>
+            
+            <h3 id="iniciar-registro" class="text-2xl font-bold mb-3">4.1. Iniciar un Registro Clínico</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/redvet.consulta1.png" alt="Crear registro clínico en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En la ficha de la mascota, elige <strong>Inclusión de Registro Clínico</strong>. Todas las fichas requieren:</p>
+                     <ul class="list-disc ml-6 space-y-1 text-gray-700 mt-2">
+                        <li><strong>Fecha y Veterinario</strong> que atiende.</li>
+                        <li><strong>Exploración General:</strong> Motivo de la visita (obligatorio) y signos vitales.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="tipos-registros" class="text-2xl font-bold mt-6 mb-3">4.2. Tipos de Registros Disponibles</h3>
+            <p class="text-gray-600 mb-2">Puedes completar y guardar por separado las siguientes secciones en una misma visita:</p>
+            <ul class="list-disc ml-6 space-y-3 text-gray-700">
+                <li><strong>Consulta:</strong> Anota síntomas, tratamiento y diagnóstico. La "Próxima Revisión" genera un recordatorio.</li>
+                <li><strong>Vacunación:</strong> Registra hasta 3 vacunas, con sus datos (lote, caducidad). La "Próxima Dosis" crea un recordatorio.</li>
+                <li><strong>Desparasitación:</strong> Incluye múltiples tratamientos y agenda la próxima dosis.</li>
+                <li><strong>Pruebas Diagnósticas:</strong> Sube archivos (imágenes, PDF) y añade tu interpretación.</li>
+                <li><strong>Intervenciones Quirúrgicas:</strong> Completa una ficha detallada del procedimiento.</li>
+            </ul>
+
+            <h3 id="finalizacion-registro" class="text-2xl font-bold mt-6 mb-3">4.3. Finalización del Registro</h3>
+            <p class="text-gray-600 mb-2">Al terminar, tienes dos opciones:</p>
+            <ul class="list-disc ml-6 space-y-1 text-gray-700">
+                <li><strong>Guardar:</strong> Almacena el historial clínico.</li>
+                <li><strong>Guardar y Cobrar:</strong> Si usas RedTPV, te lleva directamente a la pantalla de cobro.</li>
+            </ul>
+            <div class="mt-4 space-y-4">
+                <div>
+                    <p class="text-gray-700 font-semibold mb-2">Video explicativo: Flujo de consulta (Parte 1)</p>
+                    <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                        <iframe src="https://www.youtube.com/embed/C4-WwL_3cYg?rel=0" title="Flujo de consulta en RedVet - Parte 1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div>
+                    <p class="text-gray-700 font-semibold mb-2">Video explicativo: Flujo de consulta (Parte 2)</p>
+                    <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                        <iframe src="https://www.youtube.com/embed/4GF9K7oFAeg?rel=0" title="Flujo de consulta en RedVet - Parte 2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 5: HERRAMIENTAS DEL DÍA A DÍA -->
+        <div id="herramientas-diarias" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">5. Herramientas del Día a Día</h2>
+            <p class="text-gray-600 mb-6">Funciones para gestionar tu operativa diaria de forma eficiente.</p>
+            
+            <h3 id="pantalla-principal" class="text-2xl font-bold mb-3">5.1. Pantalla Principal</h3>
+             <div class="card two-col">
+                <div><img src="images/redvet.home.png" alt="Pantalla principal RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Es tu centro de control, desde donde puedes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Cambiar de Empleado:</strong> Tocando tu nombre.</li>
+                        <li><strong>Buscar Clientes:</strong> Por nombre, email o ID.</li>
+                        <li><strong>Escanear QR:</strong> Para acceder rápidamente al historial de un cliente con RedPet.</li>
+                        <li><strong>Agregar Clientes:</strong> Con el botón rojo (+).</li>
+                        <li><strong>Acceder al Menú Lateral:</strong> Para funciones avanzadas.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="calendario-citas" class="text-2xl font-bold mt-6 mb-3">5.2. Calendario y Citas</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/redvet.calendario.png" alt="Calendario y recordatorios en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">En <strong>Menú Lateral → Calendario</strong>, puedes gestionar tu agenda.</p>
+                     <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Crear Cita:</strong> Rellena los datos del evento.</li>
+                        <li><strong>Notificaciones Automáticas:</strong> Al guardar, la cita aparece en la app RedPet del cliente y se envía una confirmación por WhatsApp.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mt-4">
+                <p class="text-gray-700 font-semibold mb-2">Video explicativo: Calendario y citas</p>
+                <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                    <iframe src="https://www.youtube.com/embed/UmUpUqm5Atc?rel=0" title="Calendario y citas en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        
+        <!-- SECCIÓN 6: AJUSTES Y ADMINISTRACIÓN -->
+        <div id="ajustes-avanzados" class="section-container reveal stack">
+            <h2 class="text-3xl font-extrabold">6. Ajustes y Administración</h2>
+            <p class="text-gray-600 mb-6">Configuraciones avanzadas y opciones de gestión de la cuenta.</p>
+
+            <h3 id="gestion-sesion" class="text-2xl font-bold mb-3">6.1. Gestión de Sesión</h3>
+            <div class="card two-col">
+                <div><img src="images/redvet.usuario por defecto.png" alt="Selección de usuario por defecto y NIP en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">Desde el menú lateral, puedes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Usuario por Defecto:</strong> Elige qué empleado se activa al iniciar sesión para agilizar el acceso.</li>
+                        <li><strong>Cerrar Sesión:</strong> Salir de la aplicación.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 id="id-qr-clinica" class="text-2xl font-bold mt-6 mb-3">6.2. ID y QR de la Clínica</h3>
+            <div class="card two-col reverse">
+                <div><img src="images/redvet.qr.png" alt="ID y QR de la clínica en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700">En <strong>Menú Lateral → ID/QR Clínica</strong>, encontrarás el código QR que tus clientes pueden escanear con la app RedPet para vincularse con tu clínica y compartir historiales.</p>
+                </div>
+            </div>
+
+            <h3 id="configuracion-avanzada" class="text-2xl font-bold mt-6 mb-3">6.3. Configuración Avanzada</h3>
+            <div class="card two-col">
+                <div><img src="images/redvet.ajustes.png" alt="Ajustes avanzados en RedVet" class="phone-shot"></div>
+                <div>
+                    <p class="text-gray-700 mb-2">En <strong>Menú Lateral → Ajustes</strong>, tienes opciones importantes:</p>
+                    <ul class="list-disc ml-6 space-y-1">
+                        <li><strong>Seguridad:</strong> Cambiar contraseña o desvincular cuentas de Google/Apple.</li>
+                        <li><strong>Integración:</strong> Activar la sincronización con <strong>Google Calendar</strong>.</li>
+                        <li><strong>Marketing:</strong> Generar un cartel con tu QR para invitar a los clientes a descargar RedPet.</li>
+                        <li><strong>Gestión de Datos:</strong> Exportar o importar datos de clientes e historiales.</li>
+                        <li class="text-red-600 font-semibold"><strong>Dar de Baja:</strong> Elimina la clínica del sistema (<strong>Advertencia: esta acción es irreversible</strong>).</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mt-4">
+                <p class="text-gray-700 font-semibold mb-2">Video explicativo: Configuración avanzada</p>
+                <div class="relative" style="padding-bottom:56.25%;height:0;overflow:hidden;border-radius:0.75rem;">
+                    <iframe src="https://www.youtube.com/embed/6AIwK2kLD-U?rel=0" title="Configuración avanzada en RedVet" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+          <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    </div>
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+    <button id="backToTop" class="back-to-top" aria-label="Volver arriba">↑</button>
+    <script>
+        // Toggle TOC on mobile
+        (function(){
+            const toggle = document.querySelector('.toc-toggle');
+            const list = document.getElementById('toc-list');
+            if(toggle && list){
+                toggle.addEventListener('click', ()=>{
+                    const open = toggle.getAttribute('aria-expanded') === 'true';
+                    toggle.setAttribute('aria-expanded', String(!open));
+                    list.style.display = open ? 'none' : '';
+                });
+            }
+        })();
+
+        // Intersection Observer for reveal animation
+        (function(){
+            const items = document.querySelectorAll('.reveal');
+            const observer = new IntersectionObserver((entries)=>{
+                entries.forEach(entry=>{
+                    if(entry.isIntersecting){ entry.target.classList.add('show'); }
+                });
+            }, { threshold: 0.12 });
+            items.forEach(el=>observer.observe(el));
+        })();
+
+        // Active link highlighting in TOC
+        (function(){
+            const sections = [
+                document.getElementById('introduccion-beneficios'),
+                document.getElementById('primeros-pasos'),
+                document.getElementById('gestion-clientes-pacientes'),
+                document.getElementById('flujo-consulta'),
+                document.getElementById('herramientas-diarias'),
+                document.getElementById('ajustes-avanzados')
+            ].filter(Boolean);
+            const links = Array.from(document.querySelectorAll('#indice a'));
+            const map = new Map();
+            links.forEach(a=>{ const href = a.getAttribute('href')||''; if(href.startsWith('#')) map.set(href.slice(1), a); });
+            const obs = new IntersectionObserver((entries)=>{
+                entries.forEach(e=>{
+                    if(e.isIntersecting){
+                        const link = map.get(e.target.id);
+                        if(link){ links.forEach(l=>l.classList.remove('active')); link.classList.add('active'); }
+                    }
+                });
+            }, { rootMargin: '-40% 0px -55% 0px', threshold: 0.01 });
+            sections.forEach(s=>obs.observe(s));
+        })();
+
+        // Back to top button
+        (function(){
+            const btn = document.getElementById('backToTop');
+            window.addEventListener('scroll', ()=>{
+                if(window.scrollY > 600){ btn.classList.add('show'); } else { btn.classList.remove('show'); }
+            });
+            btn.addEventListener('click', ()=> window.scrollTo({ top: 0, behavior: 'smooth' }));
+        })();
+
+        // Header scroll behavior for mobile devices
+        (function(){
+            let lastScrollTop = 0;
+            const header = document.querySelector('.rr-header');
+            const scrollThreshold = 100; // Minimum scroll distance to trigger hide/show
+
+            function handleScroll() {
+                if (window.innerWidth <= 768) {
+                    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                    if (Math.abs(scrollTop - lastScrollTop) > 5) {
+                        if (scrollTop > lastScrollTop && scrollTop > scrollThreshold) {
+                            header.classList.add('header-hidden');
+                        } else {
+                            header.classList.remove('header-hidden');
+                        }
+                    }
+                    lastScrollTop = scrollTop;
+                } else {
+                    header.classList.remove('header-hidden');
+                }
+            }
+
+            let ticking = false;
+            window.addEventListener('scroll', function() {
+                if (!ticking) {
+                    window.requestAnimationFrame(function() {
+                        handleScroll();
+                        ticking = false;
+                    });
+                    ticking = true;
+                }
+            });
+
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 768) {
+                    header.classList.remove('header-hidden');
+                }
+            });
+        })();
+
+        // Cookie banner
+        (function(){
+            const cookieBanner = document.getElementById('cookieBanner');
+            const cookieAccept = document.getElementById('cookieAccept');
+            const cookieKey = 'rr_cookie_consent_v1';
+
+            if (!localStorage.getItem(cookieKey)) {
+                cookieBanner.style.display = 'block';
+            }
+
+            cookieAccept.addEventListener('click', function () {
+                localStorage.setItem(cookieKey, 'accepted');
+                cookieBanner.style.display = 'none';
+            });
+        })();
+    </script>
+</body>
+</html>

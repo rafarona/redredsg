@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Errores típicos en la gestión de stock veterinario y cómo evitarlos | RedRed SG</title>
+    <meta name="description" content="Análisis de los errores más frecuentes en la gestión de stock en clínicas veterinarias y recomendaciones prácticas para evitarlos con ayuda de la tecnología.">
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--primary-color);
+        }
+
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+
+        .logo h1 {
+            font-size: 1.6rem;
+            margin-left: 0.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 1.5rem 4rem;
+        }
+
+        h1 {
+            font-size: 2.4rem;
+            margin-bottom: 1rem;
+            color: var(--secondary-color);
+            text-align: center;
+        }
+
+        .article-intro {
+            font-size: 1.1rem;
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            text-align: justify;
+        }
+
+        h2 {
+            font-size: 1.7rem;
+            margin: 2.5rem 0 1rem;
+            color: var(--secondary-color);
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            margin: 1.8rem 0 0.6rem;
+            color: var(--primary-color);
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin: 0 0 1.5rem 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        .highlight-box {
+            background: #ffffff;
+            border-left: 4px solid var(--primary-color);
+            padding: 1.2rem 1.4rem;
+            margin: 2rem 0;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        footer {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        footer a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+
+            nav ul {
+                margin-top: 0.5rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            nav ul li {
+                margin: 0.3rem 0.8rem;
+            }
+
+            main {
+                padding: 9rem 1rem 3rem;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+<main>
+    <h1>Errores típicos en la gestión de stock veterinario y cómo evitarlos</h1>
+    <p class="article-intro">
+        La farmacia y la tienda de una clínica veterinaria pueden ser una fuente importante de ingresos, pero también un foco
+        de pérdidas si el stock no se controla bien. En este artículo revisamos los errores más frecuentes que cometen las
+        clínicas al gestionar su inventario y proponemos soluciones prácticas, apoyadas en herramientas digitales específicas
+        para el entorno veterinario.
+    </p>
+
+    <h2>1. No tener un inventario centralizado y actualizado</h2>
+    <p>
+        Uno de los errores más habituales es trabajar con varias “versiones” del stock: una libreta en la farmacia, una hoja
+        de cálculo en la oficina y lo que “cree recordar” el personal. Esto provoca diferencias constantes entre lo que
+        aparece en los registros y lo que realmente hay en las estanterías.
+    </p>
+    <p>
+        La solución pasa por disponer de un <strong>inventario único</strong>, accesible para todo el equipo, donde cada
+        entrada y salida quede reflejada. Un sistema de punto de venta como RedTPV ayuda a conseguirlo porque cada venta
+        descuenta unidades de forma automática y cada reposición entra con su proveedor correspondiente.
+    </p>
+
+    <h2>2. No clasificar bien los productos</h2>
+    <p>
+        Cuando todos los artículos se registran en una única categoría genérica (“farmacia” o “productos”), se vuelve muy
+        difícil analizar qué líneas de negocio funcionan mejor y dónde se concentran los problemas de roturas o caducidades.
+    </p>
+    <p>
+        Es recomendable definir categorías claras, por ejemplo:
+    </p>
+    <ul>
+        <li>Medicamentos de uso interno</li>
+        <li>Antiparasitarios externos</li>
+        <li>Alimentación</li>
+        <li>Productos de higiene y accesorios</li>
+        <li>Material de consumo clínico</li>
+    </ul>
+    <p>
+        Con esta clasificación, los informes de ventas y de stock resultan mucho más útiles a la hora de tomar decisiones sobre
+        compras y promociones.
+    </p>
+
+    <h2>3. No registrar correctamente las entradas de mercancía</h2>
+    <p>
+        A veces el personal descarga los pedidos y los coloca directamente en las estanterías sin registrar las entradas en el
+        sistema. Esto hace que los niveles de stock queden desfasados y dificulta el control de lo que se ha comprado realmente
+        a cada proveedor.
+    </p>
+    <p>
+        Un buen hábito es vincular siempre la recepción de un pedido a un <strong>albarán o factura</strong> en el sistema:
+        se registran cantidades, lotes y fechas de caducidad, y se actualiza el inventario. De este modo, cualquier revisión
+        futura permite saber qué se ha comprado, cuándo y a qué precio.
+    </p>
+
+    <h2>4. No controlar las fechas de caducidad</h2>
+    <p>
+        Los productos caducados son doblemente problemáticos: suponen un riesgo sanitario si se utilizan y representan una
+        pérdida económica directa. Cuando el control de caducidades se hace “a ojo” o con notas sueltas, es fácil que algún
+        lote pase desapercibido.
+    </p>
+    <p>
+        Una estrategia efectiva consiste en:
+    </p>
+    <ul>
+        <li>Registrar la fecha de caducidad al dar de alta cada lote en el inventario.</li>
+        <li>Revisar de forma periódica (por ejemplo, una vez al mes) los productos que caducan en los próximos 3–6 meses.</li>
+        <li>Planificar promociones o cambios de formato para darles salida antes de que caduquen.</li>
+    </ul>
+
+    <h2>5. No definir stocks mínimos ni máximos</h2>
+    <p>
+        Otra situación habitual es pasar de tener exceso de ciertas referencias a sufrir roturas repentinas en otras. Sin
+        referencias claras de stock mínimo y máximo, las compras se hacen de forma reactiva (“pide más cuando se acabe”) y se
+        pierde la visión global.
+    </p>
+    <p>
+        Establecer <strong>niveles objetivo</strong> para los productos clave ayuda a equilibrar el inventario:
+    </p>
+    <ul>
+        <li><strong>Stock mínimo:</strong> cuando se alcanza, es momento de lanzar un nuevo pedido.</li>
+        <li><strong>Stock máximo:</strong> límite a partir del cual no conviene seguir acumulando producto.</li>
+    </ul>
+    <p>
+        Los sistemas TPV con módulo de inventario permiten configurar alertas cuando una referencia baja de cierto umbral,
+        reduciendo el riesgo de quedarse sin un medicamento importante.
+    </p>
+
+    <h2>6. No registrar las mermas y autoconsumos</h2>
+    <p>
+        En la práctica diaria siempre hay pequeñas pérdidas: productos que se rompen, dosis utilizadas para muestras, material
+        gastado en demostraciones, etc. Si estas salidas no se registran, el stock “teórico” será superior al real y las
+        diferencias aparecerán en cada inventario físico.
+    </p>
+    <p>
+        Es útil definir motivos de salida específicos (merma, autoconsumo, muestra, etc.) y formar al equipo para que los
+        utilice. Así se mantiene la trazabilidad y se pueden analizar las mermas por tipo de producto o por periodo.
+    </p>
+
+    <h2>7. No revisar periódicamente los informes de inventario</h2>
+    <p>
+        Contar con un sistema de stock es solo el primer paso; el segundo es dedicar tiempo a revisar la información que
+        genera. Algunas preguntas que conviene hacerse de forma regular son:
+    </p>
+    <ul>
+        <li>¿Qué productos se venden más y cuáles apenas se mueven?</li>
+        <li>¿Hay referencias que se reponen de forma automática pero apenas tienen rotación?</li>
+        <li>¿Qué proveedores concentran la mayor parte de las compras?</li>
+    </ul>
+    <p>
+        Con estos datos es más sencillo negociar condiciones, ajustar el catálogo y evitar invertir en stock que inmoviliza
+        capital sin aportar valor.
+    </p>
+
+    <h2>8. Cómo puede ayudarte un TPV especializado</h2>
+    <p>
+        Herramientas como RedTPV están diseñadas precisamente para simplificar muchas de estas tareas. Al centralizar las
+        ventas, el inventario y la relación con proveedores, permiten:
+    </p>
+    <ul>
+        <li>Actualizar el stock de forma automática con cada venta registrada.</li>
+        <li>Vincular compras y entradas de mercancía a proveedores concretos.</li>
+        <li>Generar informes por categorías, periodos y formas de pago.</li>
+        <li>Configurar alertas de stock mínimo para productos críticos.</li>
+    </ul>
+    <p>
+        De este modo, el equipo puede centrarse en la atención clínica mientras el sistema se encarga de mantener los datos
+        de inventario coherentes y listos para ser analizados.
+    </p>
+
+    <h2>9. Conclusión</h2>
+    <p>
+        La gestión de stock en una clínica veterinaria requiere orden, disciplina y buenas herramientas. Evitar los errores
+        más comunes —inventario disperso, falta de clasificación, caducidades sin control o ausencia de niveles mínimos— es
+        posible si se establecen procesos claros y se apoya el trabajo diario en soluciones digitales adecuadas. Un inventario
+        bien gestionado no solo reduce pérdidas, sino que mejora la capacidad de respuesta ante las necesidades de los
+        pacientes y fortalece la salud económica del centro.
+    </p>
+</main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+<div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner-content">
+        <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+        <button type="button" id="cookieAccept">Aceptar</button>
+    </div>
+</div>
+<script>
+    (function(){
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function () {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    })();
+</script>
+</body>
+</html>
+

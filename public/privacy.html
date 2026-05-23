@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - RedRed</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+        
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+            border-bottom: 1px solid #dce4ef;
+            backdrop-filter: blur(10px);
+        }
+        
+        @media (max-width: 768px) {
+            header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+        }
+        
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+        
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+        
+        .logo-icon {
+            font-size: 2rem;
+            color: white;
+        }
+        
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+        
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        nav ul li a:hover {
+            color: var(--secondary-color);
+        }
+        
+        .main-content {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 120px 2rem 4rem;
+        }
+        
+        .privacy-title {
+            color: var(--secondary-color);
+            font-size: 2.2rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .privacy-date {
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            font-style: italic;
+        }
+        
+        .privacy-intro {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .section {
+            margin-bottom: 2.5rem;
+        }
+        
+        .section-title {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .subsection-title {
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            margin: 1.5rem 0 0.8rem;
+        }
+        
+        .privacy-list {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .privacy-list li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .contact-details {
+            background-color: #f1f5f9;
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 2rem 0;
+        }
+        
+        .back-to-home {
+            display: inline-block;
+            margin-top: 2rem;
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .back-to-home i {
+            margin-right: 0.5rem;
+        }
+        
+        .back-to-home:hover {
+            color: var(--primary-color);
+        }
+        
+        footer {
+            background-color: #0f172a;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+            
+            nav ul {
+                margin-top: 1rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            
+            nav ul li {
+                margin: 0.5rem 0.8rem;
+            }
+            
+            .main-content {
+                padding: 15rem 1rem 2rem;
+                margin-top: 0;
+            }
+            
+            .privacy-title {
+                font-size: 1.8rem;
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .main-content h2 {
+                font-size: 1.5rem;
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .main-content h3 {
+                font-size: 1.2rem;
+                margin-top: 1.5rem;
+                margin-bottom: 0.8rem;
+            }
+            
+            .main-content p, .main-content li {
+                font-size: 0.9rem;
+                line-height: 1.6;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <div class="main-content">
+                    <h1 class="privacy-title">Aviso de Privacidad y Protección de Datos para el Ecosistema <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span></h1>
+        <p class="privacy-date">Fecha de Entrada en Vigor: 18/05/2025 | Última Actualización: 18/05/2025</p>
+
+        <div class="privacy-intro">
+            <p>Bienvenido al ecosistema <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span>, que incluye las aplicaciones <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span> (para dueños de mascotas) y <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span> (para profesionales veterinarios), en adelante denominadas conjuntamente como los "Servicios". Estos Servicios son proporcionados por <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span>.</p>
+            <p style="margin-top: 1rem;">Su privacidad es de suma importancia para nosotros. Este Aviso de Privacidad y Protección de Datos ("Aviso") describe cómo recopilamos, usamos, almacenamos, compartimos y protegemos su información personal y la información relacionada con las mascotas cuando utiliza Nuestros Servicios. Este Aviso se aplica a todos los usuarios de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span> y <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>.</p>
+            <p style="margin-top: 1rem; font-style: italic;">Al crear una cuenta y/o utilizar Nuestros Servicios, usted reconoce haber leído, entendido y aceptado los términos de este Aviso de Privacidad. Si no está de acuerdo con este Aviso, por favor, no utilice Nuestros Servicios.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">1. Información que Recopilamos</h2>
+            <p>Recopilamos diferentes tipos de información en relación con los Servicios que le proporcionamos, incluyendo:</p>
+
+            <h3 class="subsection-title">a. Información que Usted Nos Proporciona Directamente:</h3>
+            <ul class="privacy-list">
+                <li><strong>Usuarios (Común a <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span> y <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>):</strong> Información de cuenta: correo electrónico, contraseña (gestionada de forma segura por Firebase Authentication), roles asignados (rolAdministrative, rolClient, rolClinic, rolVeterinarian), fecha de creación y última modificación.</li>
+                <li><strong>Clientes (principalmente a través de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>, pero puede ser gestionada en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span> por personal autorizado):</strong> Datos de identificación y contacto: nombre completo, número de teléfono, dirección completa (calle, ciudad, código postal, estado, país), fecha de nacimiento. IDs de mascotas asociadas y IDs de clínicas autorizadas.</li>
+                <li><strong>Mascotas (principalmente a través de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>, pero puede ser gestionada en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span> por personal autorizado):</strong> Datos de identificación de la mascota: nombre, especie, raza, color, sexo, fecha de nacimiento, número de microchip, peso, foto. Información de salud de la mascota: alergias, historial médico (enfermedades crónicas), estado de esterilización.</li>
+                <li><strong>Registros Médicos (ingresados por Clientes en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span> o por personal de Clínica/Veterinario en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>):</strong> Datos generales de la visita: fecha, nombre de la clínica, nombre del veterinario, temperatura, peso, lpm, rpm, examen físico, observaciones generales, tipo de registro (consultation, vaccine, dewormer, medicalTest, surgeries), próxima fecha de visita/aplicación. Datos específicos de Consultas: motivo, síntomas, diagnóstico (breve y largo), tratamiento. Datos específicos de Vacunas: tipo de vacuna, laboratorio, nombre, lote, fecha de caducidad. Datos específicos de Desparasitantes: tipo, nombre, dosis. Datos específicos de Pruebas Médicas: tipo, motivo, resultados, interpretación, recomendaciones, archivos adjuntos (imágenes, PDFs). Datos específicos de Cirugías: tipo, motivo, procedimiento, detalles de premedicación, anestesia, complicaciones, etc.</li>
+                <li><strong>Citas (gestionadas en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>, visibles en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>):</strong> Detalles de la cita: fecha, descripción, motivo, estado, nombres de mascota, clínica y personal.</li>
+                <li><strong>Clínicas (principalmente gestionada en <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>):</strong> Datos de identificación y contacto: nombre, dirección, email, teléfono, logo, sitio web, coordenadas geográficas. Información operativa: horarios, servicios, especialidades, personal asociado.</li>
+            </ul>
+
+            <h3 class="subsection-title">b. Información Recopilada Automáticamente:</h3>
+            <ul class="privacy-list">
+                <li><strong>Información de Uso:</strong> Cuando interactúa con Nuestros Servicios, podemos recopilar automáticamente información sobre su uso, como las funciones que utiliza, las pantallas que visita, las acciones que realiza, fechas y horas de acceso. Esto se realiza en parte a través de Firebase Analytics.</li>
+                <li><strong>Información del Dispositivo:</strong> Podemos recopilar información sobre el dispositivo que utiliza para acceder a Nuestros Servicios, como el modelo de hardware, sistema operativo y versión, identificadores únicos de dispositivo, información de red móvil y dirección IP.</li>
+                <li><strong>Información de Cookies y Tecnologías Similares:</strong> Utilizamos cookies, identificadores y tecnologías similares para autenticación, seguridad, análisis y publicidad. Esto puede incluir cookies de Google (AdSense) y de Meta (Pixel) para medir rendimiento y mostrar anuncios relevantes.</li>
+                <li><strong>Información de Fallos:</strong> Si la aplicación experimenta un error, podemos recopilar información sobre el fallo para ayudarnos a diagnosticar y solucionar problemas, a través de Firebase Crashlytics.</li>
+            </ul>
+
+            <h3 class="subsection-title">c. Información de Terceros:</h3>
+            <ul class="privacy-list">
+                <li><strong>Inicio de Sesión Social:</strong> Si elige registrarse o iniciar sesión utilizando servicios de terceros como Google o Apple, recibiremos cierta información de perfil sobre usted de dichos servicios, según lo permitido por usted y la política de privacidad de ese servicio.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">1.1 Publicidad y tecnologías de terceros</h2>
+            <p>Nuestros sitios web pueden incluir tecnologías publicitarias y de medición de terceros para ofrecer anuncios relevantes y medir el rendimiento. En particular:</p>
+            <ul class="privacy-list">
+                <li><strong>Google AdSense:</strong> utiliza cookies y/o identificadores para mostrar anuncios y medir su rendimiento.</li>
+                <li><strong>Meta Pixel:</strong> utiliza cookies y/o identificadores para medir conversiones y mejorar la relevancia de campañas.</li>
+            </ul>
+            <p>Google puede usar cookies y datos para personalizar anuncios o para limitar la frecuencia con la que se muestran. Puedes consultar cómo utiliza Google los datos cuando visita sitios de sus partners en este enlace: <a href="https://policies.google.com/technologies/partner-sites?hl=es" target="_blank" rel="noopener">https://policies.google.com/technologies/partner-sites?hl=es</a>.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">2. Cómo Utilizamos Su Información</h2>
+            <p>Utilizamos la información que recopilamos para los siguientes propósitos:</p>
+            <ul class="privacy-list">
+                <li><strong>Proveer y Mantener los Servicios:</strong> Para crear y gestionar su cuenta, permitirle registrar y gestionar la información de sus mascotas, registrar y consultar historiales médicos, gestionar citas y facilitar la comunicación entre clientes y clínicas/veterinarios autorizados.</li>
+                <li><strong>Autenticación y Seguridad:</strong> Para autenticar a los usuarios, proteger contra el fraude, el abuso y garantizar la seguridad de las cuentas y nuestros Servicios.</li>
+                <li><strong>Personalización:</strong> Para personalizar su experiencia en los Servicios.</li>
+                <li><strong>Comunicación:</strong> Para enviarle notificaciones importantes sobre sus citas, recordatorios (próximas vacunas, desparasitaciones, revisiones), actualizaciones de los Servicios, cambios en nuestras políticas y responder a sus consultas y solicitudes de soporte.</li>
+                <li><strong>Mejora de los Servicios:</strong> Para analizar cómo se utilizan Nuestros Servicios, identificar tendencias, diagnosticar problemas, y mejorar la funcionalidad y la experiencia del usuario. Utilizamos Firebase Analytics y Crashlytics para estos fines.</li>
+                <li><strong>Publicidad y medición:</strong> Para mostrar anuncios en nuestros sitios web y medir su rendimiento, así como limitar su frecuencia.</li>
+                <li><strong>Cumplimiento Legal:</strong> Para cumplir con nuestras obligaciones legales y regulatorias, y para hacer cumplir nuestros términos y condiciones.</li>
+                <li><strong>Funcionalidades Específicas:</strong> Permitir a los Clientes (usuarios de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>) autorizar y revocar el acceso a los datos de sus mascotas a Clínicas específicas (usuarios de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>). Permitir a las Clínicas y Veterinarios (usuarios de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>) acceder y gestionar la información de las mascotas y clientes que les han otorgado autorización. Permitir a los Clientes (usuarios de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>) registrar entradas en el historial médico de sus mascotas.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">3. Cómo Compartimos Su Información</h2>
+            <p>No vendemos su información personal. Podemos compartir su información en las siguientes circunstancias:</p>
+            <ul class="privacy-list">
+                <li><strong>Con Clínicas/Veterinarios Autorizados:</strong> Si usted es un Cliente (usuario de RedPet), la información de su perfil y la de sus mascotas, incluyendo su historial médico completo, será compartida con las Clínicas y Veterinarios (usuarios de RedVet) a los que usted explícitamente autorice a través de la funcionalidad de la aplicación. Usted puede gestionar estas autorizaciones (otorgar y revocar) en cualquier momento desde la aplicación RedPet.</li>
+                <li><strong>Con Clientes (para Clínicas/Veterinarios):</strong> Si usted es un profesional Veterinario o parte del personal de una Clínica (usuario de RedVet), cierta información de su perfil profesional y de la clínica podrá ser visible para los Clientes (usuarios de RedPet) que busquen o hayan autorizado a su clínica.</li>
+                <li><strong>Proveedores de Servicios:</strong> Utilizamos proveedores de servicios externos para que nos ayuden a operar y mejorar Nuestros Servicios. Estos proveedores incluyen Firebase (Google) para la autenticación (Firebase Authentication), base de datos (Cloud Firestore), almacenamiento de archivos (Cloud Storage), análisis (Firebase Analytics), informes de fallos (Firebase Crashlytics) y notificaciones push (Firebase Cloud Messaging). También utilizamos Google AdSense y Meta Pixel para publicidad y medición. Estos proveedores solo tienen acceso a la información necesaria para realizar sus funciones y están obligados contractualmente a proteger su información.</li>
+                <li><strong>Por Requisitos Legales:</strong> Podemos divulgar su información si creemos de buena fe que es necesario para: Cumplir con una obligación legal, citación, orden judicial o proceso gubernamental. Proteger y defender nuestros derechos o propiedad. Prevenir o investigar posibles irregularidades en relación con los Servicios. Proteger la seguridad personal de los usuarios de los Servicios o del público. Protegernos contra la responsabilidad legal.</li>
+                <li><strong>Transferencias Comerciales:</strong> En caso de fusión, adquisición, reorganización, quiebra u otra venta de todos o una parte de nuestros activos, su información puede ser transferida como parte de esa transacción. Le notificaremos cualquier cambio de este tipo y las opciones que pueda tener con respecto a su información.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">3.1 Control de cookies y preferencias</h2>
+            <p>Puede gestionar o eliminar cookies desde la configuración de su navegador. También puede limitar la publicidad personalizada en los ajustes de su cuenta de Google y revisar las preferencias de anuncios en: <a href="https://adssettings.google.com/" target="_blank" rel="noopener">https://adssettings.google.com/</a>.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">4. Almacenamiento y Seguridad de Datos</h2>
+            <p>Tomamos medidas razonables y apropiadas para proteger su información personal contra pérdida, robo, uso indebido y acceso no autorizado, divulgación, alteración y destrucción. Utilizamos los servicios de Firebase, que implementan robustas medidas de seguridad para proteger los datos almacenados en sus plataformas.</p>
+            <p style="margin-top: 1rem;">Sin embargo, ningún sistema de transmisión o almacenamiento electrónico es completamente seguro. Por lo tanto, aunque nos esforzamos por utilizar medios comercialmente aceptables para proteger su información personal, no podemos garantizar su seguridad absoluta.</p>
+            <p style="margin-top: 1rem;">La información de su cuenta está protegida por una contraseña. Es su responsabilidad mantener la confidencialidad de su contraseña y controlar el acceso a su cuenta.</p>
+            <p style="margin-top: 1rem;">Los datos pueden almacenarse y procesarse en servidores ubicados fuera de su país de residencia, donde las leyes de protección de datos pueden ser diferentes. Al utilizar nuestros servicios, usted consiente esta transferencia, almacenamiento y procesamiento.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">5. Retención de Datos</h2>
+            <p>Retendremos su información personal durante el tiempo que sea necesario para cumplir con los propósitos descritos en este Aviso, a menos que la ley exija o permita un período de retención más largo. Generalmente, esto significa que conservaremos su información mientras su cuenta esté activa o según sea necesario para proporcionarle los Servicios.</p>
+            <p style="margin-top: 1rem;">Si decide eliminar su cuenta, tomaremos medidas para eliminar su información personal de nuestras bases de datos activas, sujeto a nuestras obligaciones legales de retención y a las necesidades de nuestros sistemas de copia de seguridad.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">6. Sus Derechos y Opciones</h2>
+            <p>Dependiendo de su jurisdicción, usted puede tener ciertos derechos con respecto a su información personal, incluyendo:</p>
+            <ul class="privacy-list">
+                <li><strong>Acceso:</strong> El derecho a solicitar acceso a la información personal que tenemos sobre usted.</li>
+                <li><strong>Rectificación:</strong> El derecho a solicitar la corrección de cualquier información personal inexacta o incompleta.</li>
+                <li><strong>Supresión (Olvido):</strong> El derecho a solicitar la eliminación de su información personal bajo ciertas condiciones.</li>
+                <li><strong>Restricción del Procesamiento:</strong> El derecho a solicitar la restricción del procesamiento de su información personal bajo ciertas condiciones.</li>
+                <li><strong>Portabilidad de Datos:</strong> El derecho a recibir su información personal en un formato estructurado, de uso común y legible por máquina, y a transmitirla a otro responsable del tratamiento.</li>
+                <li><strong>Oposición:</strong> El derecho a oponerse al procesamiento de su información personal bajo ciertas condiciones.</li>
+                <li><strong>Retirar el Consentimiento:</strong> Si el procesamiento de su información personal se basa en su consentimiento, tiene derecho a retirarlo en cualquier momento.</li>
+            </ul>
+            <p style="margin-top: 1rem;">Puede ejercer muchos de estos derechos directamente a través de las funcionalidades de configuración de su cuenta en las aplicaciones RedPet o RedVet. Para otros derechos o si tiene dificultades, puede contactarnos utilizando la información de contacto proporcionada a continuación.</p>
+            <p style="margin-top: 1rem;">Tenga en cuenta que algunos de estos derechos pueden estar limitados, por ejemplo, si el cumplimiento de su solicitud revelara información sobre otra persona, o si nos solicita que eliminemos información que estamos obligados por ley a conservar o que tenemos intereses legítimos imperiosos en conservar.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title" id="gestion-datos">7. ¿Cómo gestiono mis datos en RedPet?</h2>
+            <p>En RedPet tienes control total sobre tus datos personales y la información de tus mascotas. Puedes editar, actualizar o eliminar información específica sin necesidad de eliminar completamente tu cuenta.</p>
+            
+            <h3 class="subsection-title">Editar o eliminar datos específicos:</h3>
+            <ol class="privacy-list">
+                <li>Abre la app RedPet</li>
+                <li>Ve al <strong>Menú lateral</strong></li>
+                <li>Selecciona <strong>Mi perfil</strong></li>
+                <li>Desde aquí podrás:
+                    <ul style="margin-top: 0.5rem; margin-left: 1rem;">
+                        <li>Editar tu información personal (nombre, teléfono, dirección)</li>
+                        <li>Modificar los datos de tus mascotas</li>
+                        <li>Eliminar registros médicos específicos</li>
+                        <li>Actualizar información de contacto</li>
+                        <li>Gestionar las autorizaciones a clínicas veterinarias</li>
+                    </ul>
+                </li>
+            </ol>
+            
+            <div class="contact-details" style="background-color: #d1ecf1; border-left: 4px solid #17a2b8;">
+                <p style="margin: 0; color: #0c5460;"><strong>💡 Tipos de datos que puedes gestionar:</strong></p>
+                <ul style="margin: 0.5rem 0 0 1rem; color: #0c5460;">
+                    <li>Datos personales del propietario</li>
+                    <li>Información de mascotas (nombre, raza, peso, etc.)</li>
+                    <li>Historial médico y registros veterinarios</li>
+                    <li>Configuraciones de la aplicación</li>
+                </ul>
+            </div>
+            
+            <p style="margin-top: 1rem;"><strong>¿Necesitas ayuda?</strong> Si tienes dificultades para gestionar tus datos, contáctanos en <a href="mailto:info@redredsg.com" style="color: var(--primary-color);">info@redredsg.com</a></p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title" id="eliminar">8. ¿Cómo elimino completamente mi cuenta de RedPet?</h2>
+            <p>Puedes eliminar tu cuenta directamente desde la app RedPet en cualquier momento. Esto eliminará todos tus datos personales, el historial médico de tus mascotas y tus configuraciones.</p>
+            
+            <h3 class="subsection-title">Pasos para eliminar tu cuenta:</h3>
+            <ol class="privacy-list">
+                <li>Abre la app RedPet</li>
+                <li>Ve al <strong>Menú lateral</strong></li>
+                <li>Selecciona <strong>Mi perfil</strong></li>
+                <li>Toca <strong>Opciones avanzadas</strong></li>
+                <li>Toca <strong>Dar de baja</strong> y confirma la eliminación</li>
+            </ol>
+            
+            <p style="margin-top: 1rem;"><strong>¿No tienes acceso a la app?</strong> Si ya no tienes acceso a la app RedPet, puedes solicitar la eliminación de tu cuenta escribiendo a <a href="mailto:info@redredsg.com" style="color: var(--primary-color);">info@redredsg.com</a> desde el correo electrónico asociado a tu cuenta.</p>
+            
+            <div class="contact-details" style="background-color: #fff3cd; border-left: 4px solid #ffc107;">
+                <p style="margin: 0; color: #856404;"><strong>⚠️ Importante:</strong> Una vez eliminada tu cuenta, no podrás recuperar tus datos. Esta acción es irreversible.</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">9. Privacidad de los Niños</h2>
+            <p>Nuestros Servicios no están dirigidos a niños menores de 18 años y no recopilamos intencionadamente información personal de niños. Si nos damos cuenta de que hemos recopilado información personal de un niño sin el consentimiento parental verificado, tomaremos medidas para eliminar esa información de nuestros servidores. Si usted es padre o tutor y cree que su hijo nos ha proporcionado información personal, contáctenos.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">10. Cambios a este Aviso de Privacidad</h2>
+            <p>Podemos actualizar este Aviso de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando el nuevo Aviso de Privacidad en esta página y actualizando la "Última Actualización" en la parte superior de este Aviso. Si los cambios son significativos, le proporcionaremos un aviso más destacado (por ejemplo, mediante una notificación dentro de la aplicación o por correo electrónico). Le recomendamos que revise este Aviso periódicamente para cualquier cambio.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">11. Contacto</h2>
+            <p>Si tiene alguna pregunta, comentario o inquietud sobre este Aviso de Privacidad o nuestras prácticas de datos, o si desea ejercer alguno de sus derechos de privacidad, por favor contáctenos en:</p>
+            
+            <div class="contact-details">
+                <p><strong><span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span></strong></p>
+                <p>Calle 6, lote 8, El Conchal, Alvarado, Veracruz, México</p>
+                <p>info@redredsg.com</p>
+            </div>
+        </div>
+
+        <a href="/" class="back-to-home"><i class="fas fa-arrow-left"></i> Volver a la página de inicio</a>
+    </div>
+
+      <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        // Header scroll behavior for mobile devices
+        let lastScrollTop = 0;
+        const header = document.querySelector('header');
+        const scrollThreshold = 100; // Minimum scroll distance to trigger hide/show
+
+        function handleScroll() {
+            // Only apply on mobile devices
+            if (window.innerWidth <= 768) {
+                const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                // Only trigger after minimum scroll
+                if (Math.abs(scrollTop - lastScrollTop) > 5) {
+                    if (scrollTop > lastScrollTop && scrollTop > scrollThreshold) {
+                        // Scrolling down - hide header
+                        header.classList.add('header-hidden');
+                    } else {
+                        // Scrolling up - show header
+                        header.classList.remove('header-hidden');
+                    }
+                }
+                
+                lastScrollTop = scrollTop;
+            } else {
+                // Always show header on desktop
+                header.classList.remove('header-hidden');
+            }
+        }
+
+        // Add scroll event listener with throttling
+        let ticking = false;
+        window.addEventListener('scroll', function() {
+            if (!ticking) {
+                requestAnimationFrame(handleScroll);
+                ticking = true;
+            }
+            ticking = false;
+        });
+
+        // Handle resize events
+        window.addEventListener('resize', function() {
+            if (window.innerWidth > 768) {
+                header.classList.remove('header-hidden');
+            }
+        });
+
+        // Cookie banner
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function() {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    </script>
+</body>
+</html> 

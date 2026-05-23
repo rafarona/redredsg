@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soporte Técnico - RedPet</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #e63946;
+            --secondary-color: #1d3557;
+            --light-color: #f1faee;
+            --accent-color: #457b9d;
+            --text-color: #333;
+            --text-light: #666;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #f8f9fa;
+        }
+        
+        header {
+            background-color: white;
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+        
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+        
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+        
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        nav ul li a:hover {
+            color: var(--secondary-color);
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 6rem 2rem 2rem;
+        }
+        
+        .support-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        
+        .support-header h1 {
+            font-size: 2.5rem;
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .support-header .app-logo {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1rem;
+            background-color: var(--primary-color);
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 2rem;
+        }
+        
+        .support-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .support-card {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: transform 0.3s;
+        }
+        
+        .support-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .support-card h3 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+        
+        .support-card .icon {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .contact-form {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 0.8rem;
+            border: 2px solid #e9ecef;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+        
+        .form-group input:focus,
+        .form-group textarea:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+        
+        .form-group textarea {
+            height: 120px;
+            resize: vertical;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            background-color: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s;
+            font-size: 1rem;
+        }
+        
+        .btn:hover {
+            background-color: #c1121f;
+            transform: translateY(-2px);
+        }
+        
+        .contact-info {
+            background-color: var(--light-color);
+            padding: 2rem;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .contact-info h3 {
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .contact-item {
+            margin: 1rem 0;
+            font-size: 1.1rem;
+        }
+        
+        .contact-item i {
+            color: var(--primary-color);
+            margin-right: 0.5rem;
+        }
+        
+        footer {
+            background-color: var(--secondary-color);
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 3rem;
+        }
+        
+        .back-link {
+            text-align: center;
+            margin: 2rem 0;
+        }
+        
+        .back-link a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .support-header h1 {
+                font-size: 2rem;
+            }
+            
+            .container {
+                padding: 5rem 1rem 2rem;
+            }
+            
+            .header-container {
+                padding: 0 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <img src="images/logo-oficial.png" alt="RedRed Logo">
+                <h1>RedRed</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="/">Inicio</a></li>
+                    <li><a href="/#about">Nosotros</a></li>
+                    <li><a href="/#aplicaciones">Aplicaciones</a></li>
+                    <li><a href="/contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="support-header">
+            <div class="app-logo">
+                <i class="fas fa-paw"></i>
+            </div>
+            <h1>🐾 RedPet – Soporte Técnico</h1>
+            <p style="font-size: 1.2rem; color: var(--text-light);">Gracias por usar RedPet. Estamos aquí para ayudarte.</p>
+        </div>
+
+        <div class="support-content">
+            <div class="support-card">
+                <div class="icon">
+                    <i class="fas fa-question-circle"></i>
+                </div>
+                <h3>Preguntas Frecuentes</h3>
+                <p>Encuentra respuestas a las dudas más comunes sobre el uso de RedPet, gestión de mascotas y funcionalidades de la aplicación.</p>
+            </div>
+            
+            <div class="support-card">
+                <div class="icon">
+                    <i class="fas fa-mobile-alt"></i>
+                </div>
+                <h3>Problemas Técnicos</h3>
+                <p>Si experimentas dificultades con la aplicación, errores de sincronización o problemas de rendimiento, contáctanos.</p>
+            </div>
+            
+            <div class="support-card">
+                <div class="icon">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h3>Privacidad y Seguridad</h3>
+                <p>Consultas sobre el manejo de datos de tu mascota, privacidad de la información y políticas de seguridad.</p>
+            </div>
+            
+            <div class="support-card">
+                <div class="icon">
+                    <i class="fas fa-star"></i>
+                </div>
+                <h3>Sugerencias</h3>
+                <p>Comparte tus ideas para mejorar RedPet. Valoramos tu feedback para hacer la aplicación aún mejor.</p>
+            </div>
+        </div>
+
+        <div class="contact-form">
+            <h2 style="color: var(--secondary-color); margin-bottom: 1.5rem;">Formulario de Soporte</h2>
+            <p style="margin-bottom: 2rem; color: var(--text-light);">Si tienes dudas, comentarios o necesitas asistencia técnica, ponte en contacto con nosotros:</p>
+            
+            <form id="supportForm">
+                <div class="form-group">
+                    <label for="name">Nombre completo *</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Correo electrónico *</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="issueType">Tipo de consulta</label>
+                    <select id="issueType" name="issueType">
+                        <option value="">Selecciona una opción</option>
+                        <option value="technical">Problema técnico</option>
+                        <option value="account">Cuenta y perfil</option>
+                        <option value="features">Funcionalidades</option>
+                        <option value="privacy">Privacidad y datos</option>
+                        <option value="suggestion">Sugerencia</option>
+                        <option value="other">Otro</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="device">Dispositivo (opcional)</label>
+                    <input type="text" id="device" name="device" placeholder="iPhone 12, Samsung Galaxy S21, etc.">
+                </div>
+                
+                <div class="form-group">
+                    <label for="message">Descripción del problema o consulta *</label>
+                    <textarea id="message" name="message" required placeholder="Describe tu consulta o problema de manera detallada..."></textarea>
+                </div>
+                
+                <button type="submit" class="btn">Enviar consulta</button>
+            </form>
+        </div>
+
+        <div class="contact-info">
+            <h3>Información de Contacto</h3>
+            <div class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <strong>Email:</strong> info@redredsg.com
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-phone"></i>
+                <strong>Teléfono:</strong> +522293255680
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-map-marker-alt"></i>
+                <strong>Dirección:</strong> Calle 6, lote 8, El Conchal, Alvarado, Veracruz, México
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-clock"></i>
+                <strong>Horario de atención:</strong> Lunes a Viernes, 9:00 AM - 6:00 PM (GMT-6)
+            </div>
+        </div>
+
+        <div class="back-link">
+            <a href="/">← Volver a la página principal</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 RedRed. Todos los derechos reservados.</p>
+        <p>RedPet es una aplicación desarrollada por RedRed Soluciones de Gestión</p>
+    </footer>
+
+    <script>
+        document.getElementById('supportForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Mostrar mensaje de confirmación
+            alert('Gracias por contactarnos. Hemos recibido tu consulta y te responderemos en un plazo máximo de 24-48 horas a la brevedad posible.');
+            
+            // Limpiar formulario
+            this.reset();
+        });
+    </script>
+</body>
+</html> 

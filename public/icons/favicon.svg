@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .main-red { fill: #e63946; }
+    .secondary-red { fill: #c1121f; }
+  </style>
+  
+  <!-- Círculo de fondo -->
+  <circle cx="32" cy="32" r="30" fill="#f1faee" stroke="#1d3557" stroke-width="1"/>
+  
+  <!-- Primera R -->
+  <g transform="translate(12, 15) scale(0.4)">
+    <path class="main-red" d="M0,0 L0,70 L15,70 L15,45 L25,45 C40,45 50,35 50,22.5 C50,10 40,0 25,0 Z M15,15 L25,15 C31,15 35,18 35,22.5 C35,27 31,30 25,30 L15,30 Z" />
+    <path class="secondary-red" d="M35,45 L55,70 L40,70 L20,45 Z" />
+  </g>
+  
+  <!-- Segunda R -->
+  <g transform="translate(32, 15) scale(0.4)">
+    <path class="main-red" d="M0,0 L0,70 L15,70 L15,45 L25,45 C40,45 50,35 50,22.5 C50,10 40,0 25,0 Z M15,15 L25,15 C31,15 35,18 35,22.5 C35,27 31,30 25,30 L15,30 Z" />
+    <path class="secondary-red" d="M35,45 L55,70 L40,70 L20,45 Z" />
+  </g>
+  
+  <!-- Texto SG pequeño -->
+  <text x="32" y="48" text-anchor="middle" font-family="Arial Black" fill="#1d3557" font-size="10" font-weight="bold">SG</text>
+</svg> 

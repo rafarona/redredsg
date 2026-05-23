@@ -1,0 +1,7897 @@
+# **Directorio Maestro de Ventas **RedVet** 2026: 25+ Empresas y Correos Personalizados**
+
+Este documento es una herramienta integral de prospección diseñada para Rafael (Fundador de **RedVet**). Contiene la información de contacto y el correo exacto para cada responsable de marketing y comercial de las empresas líderes en México.
+
+## ---
+
+**I. SECTOR LABORATORIOS (Fármacos y Biológicos)**
+
+#### **1\. Zoetis México (Atención México)**
+
+**Enviar a:** zoetismexico@zoetis.com / servicioalclientePAH@zoetis.com **Teléfono para seguimiento:** 55 9628 6270 1 **Idioma:** Español **Asunto:** presencia de Zoetis en RedVetAds
+
+**Nota de validación abril 2026:** El correo rebotó por política DMARC del destinatario, no por dirección inexistente. Reintentar tras corregir autenticación del dominio remitente.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. En el caso de Zoetis, vemos una oportunidad especialmente clara por la fortaleza de su portafolio en animales de compañía, con categorías como vacunas, antiparasitarios y terapias ampliamente reconocidas en clínica diaria, incluyendo marcas como Simparica Trio, Cytopoint y Librela.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de exclusividad por segmento si hace sentido para su equipo.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o producto podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **2\. MSD Animal Health (A Nallely Márquez)**
+
+**Enviar a:** nallely.marquez@merck.com 2 **Teléfono para seguimiento:** (55) 5481 9600 2 **Idioma:** Español **Asunto:** presencia de MSD en RedVetAds
+
+Hola Nallely,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. La propuesta no es un banner genérico, sino una presencia contextual dentro del flujo clínico, especialmente relevante para categorías donde MSD tiene una posición fuerte en animales de compañía, como vacunas y antiparasitarios, con marcas muy presentes en la práctica diaria como Bravecto y Nobivac.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con la posibilidad de trabajar una exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o marca podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **3\. Boehringer Ingelheim (A Andrea Alvarez)**
+
+**Enviar a:** comunicacion.mex@boehringer-ingelheim.com 2 **Teléfono para seguimiento:** (55) 5629 8300 2 **Idioma:** Español **Asunto:** presencia de Boehringer en RedVetAds
+
+Hola Andrea,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. La propuesta no es un banner genérico, sino una presencia contextual dentro del flujo clínico, especialmente relevante para categorías donde Boehringer tiene fortaleza en salud animal, como antiparasitarios y prevención, con referencias muy visibles en el mercado como NexGard Spectra.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con posibilidad de exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o marca podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **4\. Virbac México (A Elena Velasco)**
+
+**Enviar a:** clientes@virbac.com.mx 2 **Teléfono para seguimiento:** (57+1) 2252100 2 **Idioma:** Español **Asunto:** presencia de Virbac en RedVetAds
+
+Hola Elena,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Creemos que Virbac puede encajar especialmente bien en este formato por la relevancia de su portafolio en dermatología y antiparasitarios, áreas donde la marca tiene soluciones bien posicionadas en clínica diaria, como sus líneas dermatológicas y productos como Effitix.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés en esas categorías, con opción de exclusividad por segmento si les resulta atractiva.
+
+Si te parece, puedo enviarte una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o marca podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **5\. Elanco Salud Animal (Atención Comercial)**
+
+**Enviar a:** [Sin correo público verificado para patrocinio. Usar canal oficial de contacto en web y teléfono.] **Teléfono para seguimiento:** 52 3338195534 / 800 000 7387 **Idioma:** Español **Asunto:** presencia de Elanco en RedVetAds
+
+**Nota de validación abril 2026:** El correo general probado para Elanco rebotó. Tras revisar web oficial y HTML público, no aparece un correo general claro para patrocinios en México. Mantener teléfono y formulario como canal operativo. Como referencia pública adicional, aparece Matheus Marinho como Head of Marketing de Elanco México, sin correo visible en fuentes oficiales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario define un tratamiento dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para una compañía como Elanco, este formato puede ser especialmente relevante en categorías como desparasitación, bienestar animal y terapias de uso frecuente, donde marcas como Seresto, Credelio o Advantage ya forman parte de la conversación veterinaria.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de trabajar exclusividad por segmento si lo consideran conveniente.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o producto podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **6\. Biogénesis Bagó (Atención México)**
+
+**Enviar a:** info.mexico@biogenesisbago.com 2 **Teléfono para seguimiento:** (52) 55 8058 7316 2 **Idioma:** Español **Asunto:** presencia de Biogénesis Bagó en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma suma más de **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Biogénesis Bagó, vemos una oportunidad clara en categorías asociadas a biológicos, prevención y salud animal basada en innovación biotecnológica, que es precisamente uno de los espacios donde la marca tiene mayor reconocimiento.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés en esas categorías, con opción de exclusividad por segmento si lo consideran relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién del área comercial o marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **7\. Lapisa Salud Animal (A Alvaro Caratachea)**
+
+**Enviar a:** alvaro.caratachea@lapisa.com **Teléfono para seguimiento:** 352 526 13 00 2 **Idioma:** Español **Asunto:** presencia de Lapisa en RedVetAds
+
+**Nota de seguimiento abril 2026:** Respuesta automática de Luz Adriana Martínez indicando dar seguimiento con `alvaro.caratachea@lapisa.com`.
+
+Hola Alvaro,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Por el posicionamiento de Lapisa en salud animal, tanto en el sector pecuario como en animales de compañía, creemos que este formato puede ser relevante en categorías terapéuticas, biológicos y dermocosmética veterinaria donde la decisión del médico ocurre dentro del flujo clínico.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de exclusividad por segmento si tiene sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **8\. Sanfer Salud Animal (Relaciones Institucionales)**
+
+**Enviar a:** contactoAH@sanfer.com.mx 2 **Teléfono para seguimiento:** (55) 5481-5443 2 **Idioma:** Español **Asunto:** presencia de Sanfer en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Sanfer, vemos una oportunidad clara de presencia contextual en categorías de uso frecuente donde el veterinario toma decisiones terapéuticas durante la consulta, especialmente por la amplitud de su portafolio en antiparasitarios, antibióticos, biológicos y soluciones de salud animal.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de exclusividad por segmento si resulta relevante para su equipo.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **9\. Chinoin Veterinaria (Gerencia Veterinaria)**
+
+**Enviar a:** ventas@chinoin.com **Teléfono para seguimiento:** (55) 5262-3100 2 **Idioma:** Español **Asunto:** presencia de Chinoin en RedVetAds
+
+**Nota de validación abril 2026:** Los correos previos probados para Chinoin rebotaron como usuario desconocido. Mantener `ventas@chinoin.com` como correo operativo.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. En el caso de Chinoin, vemos especial valor en categorías terapéuticas de uso frecuente donde la decisión clínica ocurre dentro de la consulta, especialmente considerando la amplitud de su línea veterinaria en pequeñas especies, antiparasitarios, dermatológicos y antibióticos.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con posibilidad de exclusividad por segmento si resulta relevante para su equipo.
+
+Si te parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o producto podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**II. SECTOR NUTRICIÓN (Alimento para Mascotas)**
+
+#### **10\. Royal Canin México (A Fernanda Aguirre / Iván Morales)**
+
+**Enviar a:** fernanda.aguirre@royalcanin.com / ivan.morales@royalcanin.com **Teléfono para seguimiento:** 800 024 77 64 2 **Idioma:** Español **Asunto:** presencia de Royal Canin en RedVetAds
+
+**Nota de seguimiento abril 2026:** Atención a clientes de Royal Canin respondió indicando que las personas encargadas de revisar esta información son `Fernanda Aguirre` e `Iván Morales`. Mantener `contacto.mex@royalcanin.com` como canal general de respaldo.
+
+Hola Nuria,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Royal Canin, vemos una oportunidad clara de presencia contextual cuando el caso clínico requiere soporte nutricional o una recomendación terapéutica, especialmente por su posición en dietas de prescripción y nutrición veterinaria de precisión.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés en esa categoría, con opción de exclusividad por segmento si les resulta relevante.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **11\. Nestlé Purina (A Diana Guerra)**
+
+**Enviar a:** [Sin correo público verificado para esta persona. Usar formulario oficial Purina México.] **Teléfono para seguimiento:** 800-614-53-15 2 **Idioma:** Español **Asunto:** presencia de Purina en RedVetAds
+
+**Nota de validación abril 2026:** El correo directo probado para Diana Guerra rebotó con acceso denegado. Tras revisar la web pública, no encontré un correo directo verificable para marketing. Usar como canal oficial el teléfono `800-614-53-15`, VetLine `+52 554 963 7160` y, si hiciera falta para asuntos formales, `purina.datos.privacidad@mx.nestle.com` solo como contacto corporativo general, no comercial. Como referencia pública, Diana Guerra sigue apareciendo asociada a comunicación digital/marketing de Purina México, pero sin email visible.
+
+Hola Diana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa una recomendación nutricional o soporte dietético dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Purina, este formato puede ser especialmente valioso porque permite una presencia contextual en el punto de recomendación clínica, no como publicidad aislada, especialmente considerando el peso de su portafolio Pro Plan y de sus dietas veterinarias en la conversación nutricional dentro de clínica.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o marca podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **12\. Nupec (A González Ventura)**
+
+**Enviar a:** ventas@nupec.mx 2 **Teléfono para seguimiento:** 800-926-8732 2 **Idioma:** Español **Asunto:** presencia de Nupec en RedVetAds
+
+Hola González,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Nupec, vemos valor en una presencia contextual dentro del flujo clínico, donde la recomendación nutricional puede influir directamente en la conversación con el propietario, especialmente por su posicionamiento como marca mexicana de nutrición científica y por líneas especializadas como renal, urinary o digestive.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con posibilidad de exclusividad por segmento si lo consideran conveniente.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **13\. Kantek Premium (Atención Socios)**
+
+**Enviar a:** hola@kantekpremium.mx 2 **WhatsApp para seguimiento:** 462 210 4955 2 **Idioma:** Español **Asunto:** presencia de Kantek en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Kantek, este formato puede ser útil para construir recordación y presencia dentro de una audiencia veterinaria altamente segmentada, especialmente por su propuesta de alimento holístico 100% mexicano con enfoque en ingredientes naturales, prebióticos y probióticos.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés en esa categoría, con posibilidad de exclusividad por segmento si resulta atractiva para su equipo.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su área comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **14\. Mars Petcare (A Leilani Mejía)**
+
+**Enviar a:** leilani.mejia@effem.com 2 **Teléfono para seguimiento:** (442) 211 07 00 2 **Idioma:** Español **Asunto:** presencia de Mars Petcare en RedVetAds
+
+Hola Leilani,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Mars y sus marcas del portafolio petcare, vemos una oportunidad clara de presencia contextual dentro del flujo clínico, donde la recomendación del veterinario influye directamente en la decisión del propietario, especialmente considerando marcas con alto reconocimiento como PEDIGREE, WHISKAS, CESAR, IAMS y Royal Canin.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con posibilidad de exclusividad por segmento si resulta relevante para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o alianzas podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **15\. GrandPet (Gerencia de Ventas)**
+
+**Enviar a:** atencionclientes@grandpet.com / bgarcia@nu3.com.mx 2 **Teléfono para seguimiento:** 352 144 0509 2 **Idioma:** Español **Asunto:** presencia de GrandPet en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para GrandPet, vemos valor en una presencia contextual frente a una audiencia veterinaria que ya está inmersa en el flujo clínico y de recomendación, especialmente por su posicionamiento como empresa mexicana enfocada en nutrición, premios y cuidado integral, con líneas como Carne Fresca Force y Natural Gourmet.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si lo consideran relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su área comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**III. SECTOR TECNOLOGÍA Y EQUIPO DIAGNÓSTICO**
+
+#### **16\. IDEXX México (Gerencia Comercial)**
+
+**Enviar a:** comercial-latam@idexx.com **Teléfono para seguimiento:** +55 11 3095-5632 / +55 11 99180-4291 / +52 55 5833 7853 **Idioma:** Español **Asunto:** presencia de IDEXX en RedVetAds
+
+**Nota de validación abril 2026:** El correo rebotó por política DMARC del destinatario, no por dirección inexistente. Reintentar tras corregir autenticación del dominio remitente. En búsqueda pública sí aparece `watermexico@idexx.com`, pero corresponde a la división de agua, no a veterinaria. Como referencia pública adicional, Roberto Isidro Valera aparece como LATAM LPD Distributor Manager de IDEXX, sin correo visible.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa pruebas diagnósticas o herramientas de apoyo clínico.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para IDEXX, vemos una oportunidad clara de presencia contextual dentro del flujo diagnóstico, donde la decisión del veterinario ocurre en tiempo real, especialmente por la relevancia de sus analizadores en clínica, pruebas SNAP y plataformas como VetConnect dentro del día a día veterinario.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si hace sentido para su equipo.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **17\. Veteris \- Mindray Animal Care (Ventas)**
+
+**Enviar a:** ventas@veteris.mx 2 **Teléfono para seguimiento:** (55) 2596-1119 2 **Idioma:** Español **Asunto:** presencia de Veteris en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa estudios, equipos o herramientas de apoyo diagnóstico.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Veteris y el portafolio Mindray, vemos valor en una presencia contextual dentro del flujo diagnóstico, donde la atención del profesional está concentrada en resolver el caso clínico, especialmente en categorías como ultrasonido, laboratorio y equipamiento de apoyo clínico.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si resulta relevante para su equipo.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **18\. Endoshop Vet (A Iñigo González)**
+
+**Enviar a:** [Sin correo público verificado. Usar formulario oficial de contacto Endoshop.] **Teléfono para seguimiento:** 442 112 9851 / 442 240 3347 **Idioma:** Español **Asunto:** presencia de Endoshop Vet en RedVetAds
+
+**Nota de validación abril 2026:** El correo personal probado para Endoshop fue bloqueado por política DMARC del destinatario, pero tras revisar web pública y HTML accesible no encontré un correo oficial visible. Mantener formulario y teléfonos como canal operativo. Como referencia comercial pública encontré a Sandra Orduña en LinkedIn como vendedora especializada, pero sin correo visible.
+
+Hola Iñigo,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa procedimientos, cirugía o equipamiento de apoyo.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Endoshop Vet, vemos una oportunidad clara de presencia contextual dentro de un flujo donde el veterinario ya está trabajando sobre decisiones clínicas y quirúrgicas, especialmente por su especialización en endoscopía veterinaria y cirugía de mínima invasión, además de su componente de capacitación y workshops.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría. Si lo prefieren, también podemos revisar un esquema semestral o anual como los que presentamos en la propuesta comercial.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **19\. Imadine \- Philips/Agfa (A Mercadotecnia)**
+
+**Enviar a:** mercadotecnia@imadine.com.mx 2 **WhatsApp para seguimiento:** (33) 2184 8189 2 **Idioma:** Español **Asunto:** presencia de Imadine en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa estudios, equipos o soluciones de imagenología.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Imadine y su portafolio de imagenología, vemos una oportunidad clara de presencia contextual dentro del flujo diagnóstico y de consulta, especialmente considerando su experiencia en radiología e imagenología con marcas como Philips y Agfa.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con posibilidad de exclusividad por segmento si les resulta relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de mercadotecnia podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**IV. SECTOR SEGUROS VETERINARIOS**
+
+#### **20\. GNP Seguros (A Tatiana Tovar)**
+
+**Enviar a:** tatiana.tovar@gnp.com.mx 2 **Teléfono para seguimiento:** (55) 5227 9000 2 **Idioma:** Español **Asunto:** presencia de GNP Mi Mascota en RedVetAds
+
+Hola Tatiana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra diagnósticos, tratamientos o procedimientos donde una solución financiera o de protección puede ser relevante para el propietario.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para GNP Mi Mascota, vemos una oportunidad clara de presencia contextual dentro del flujo clínico, justo cuando surge la necesidad de cobertura o previsión, especialmente por tratarse de una solución que ya contempla gastos médicos veterinarios, orientación veterinaria y asistencias asociadas al cuidado del paciente.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o alianzas podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **21\. GMX Seguros \- MediPet (Alianzas)**
+
+**Enviar a:** informacion@gmx.com.mx 2 **Teléfono para seguimiento:** (55) 4161 6998 2 **Idioma:** Español **Asunto:** presencia de MediPet en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra diagnósticos, tratamientos o situaciones donde una solución de protección puede ser relevante para el propietario.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para MediPet, vemos una oportunidad clara de presencia contextual dentro del flujo clínico, donde la recomendación del veterinario puede abrir la conversación sobre prevención financiera o cobertura, especialmente por tratarse de una solución que cubre accidentes, enfermedades, responsabilidad civil y asistencias veterinarias preventivas.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con posibilidad de exclusividad por segmento si la consideran relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su área de marketing o alianzas comerciales podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**V. CONTACTOS ADICIONALES DEL DIRECTORIO ESTRATÉGICO**
+
+#### **22\. Nestlé Purina (A Bill Etling)**
+
+**Enviar a:** William.Etling@purina.nestle.com **Teléfono para seguimiento:** (55) 5899-3400 2 **Idioma:** Inglés **Asunto:** presencia de Purina en RedVetAds
+
+**Contacto adicional en español (México):** Diana Guerra - [sin correo directo verificado] **Referencia pública de cargo:** Líder de Comunicación Digital en Purina México **Atención al cliente Purina México:** 800-614-53-15
+
+Dear Bill,
+
+I am Ing. Rafael Rodriguez Nadal, founder of **RedVet**.
+
+I am reaching out because at **RedVet** we are opening sponsorship spaces for brands that want to appear exactly when veterinarians evaluate nutritional recommendations inside the consultation flow.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Today the platform has more than **16,000 professional downloads** and generates around **25,000 visual impressions per month**. For Purina, we see strong potential in contextual visibility at the point of clinical recommendation, especially around professional and therapeutic nutrition, and particularly given the relevance of Pro Plan and Veterinary Diets in the clinical conversation.
+
+I would like to propose a **4-week pilot program** in **RedVet** to evaluate visibility and engagement within that category, with the option to discuss exclusivity by segment if that is relevant for your team.
+
+If helpful, I can send a one-page executive proposal or review it in a brief 10-minute call. Could you point me to the right professional marketing or brand team for Mexico or LatAm to discuss this?
+
+Best regards, Ing. Rafael Rodriguez Nadal.
+
+#### **22A\. Nestlé Purina (A Diana Guerra)**
+
+**Enviar a:** [Sin correo público verificado. Usar formulario oficial Purina México.] **Teléfono para seguimiento:** 800-614-53-15 2 **Idioma:** Español **Asunto:** presencia de Purina en RedVetAds
+
+**Nota de validación abril 2026:** El correo directo probado para Diana Guerra rebotó con acceso denegado. Mantener este texto como borrador reutilizable hasta conseguir un correo directo verificado.
+
+Hola Diana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. En el caso de Purina, vemos una oportunidad especialmente clara por la relevancia de su portafolio Pro Plan y de sus dietas veterinarias dentro de la conversación clínica, además del trabajo que vienen impulsando en comunicación digital en México.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Crees que podríamos verlo contigo o con la persona adecuada dentro del equipo de marca o marketing?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **23\. Hill's Pet Nutrition (Atención Consumidor / Marketing de Canal)**
+
+**Enviar a:** hillsmexico@colpal.com **Teléfono para seguimiento:** (55) 9126 7000 2 **Idioma:** Español **Asunto:** presencia de Hill's en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Hill's, vemos una oportunidad especialmente clara en nutrición terapéutica y soporte clínico, donde la recomendación del veterinario es determinante, especialmente por el peso de Prescription Diet y por sus herramientas orientadas a equipos veterinarios como Quick Reco y los planes nutricionales personalizados.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con posibilidad de exclusividad por segmento si les resulta relevante.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing profesional o comercial podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **24\. Diamond Pet Foods (A Urvet Ventas)**
+
+**Enviar a:** contacto@diamondpet.com.mx **Teléfono para seguimiento:** (33) 36 28 92 92 2 **Idioma:** Español **Asunto:** presencia de Diamond Pet Foods en RedVetAds
+
+**Nota de validación abril 2026:** El correo previo de Diamond rebotó como usuario inexistente. La web oficial pública sí expone `contacto@diamondpet.com.mx`; mantenerlo como correo operativo principal.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario evalúa una recomendación nutricional dentro de la consulta.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Diamond Pet Foods, vemos valor en una presencia contextual frente a una audiencia veterinaria altamente segmentada y activa en su práctica diaria, especialmente por la amplitud de sus líneas Diamond, Naturals y Care dentro del segmento premium.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si resulta conveniente para su equipo.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **25\. Boehringer Ingelheim (A Paola Samperio)**
+
+**Enviar a:** [Sin correo directo verificado para Paola Samperio. Mantener canal corporativo general o buscar nuevo contacto.] **Teléfono para seguimiento:** 55 4916 5109 2 **Idioma:** Español **Asunto:** presencia de Boehringer en RedVetAds
+
+**Nota de validación abril 2026:** El correo directo probado para Paola Samperio devolvió `550 5.1.10 RecipientNotFound`. No usar este correo; mantener como alternativa el canal corporativo general de Boehringer o conseguir un contacto actualizado del área.
+
+Hola Paola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Boehringer, vemos una oportunidad clara de presencia contextual en categorías de alta relevancia clínica, especialmente en terapias y antiparasitarios, en línea con el crecimiento que la división de salud animal tiene en el mercado de mascotas en México.
+
+Me gustaría proponerte un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con posibilidad de exclusividad por segmento si hace sentido para su equipo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo de marketing o marca podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **26\. Dechra México (Atención a clientes)**
+
+**Enviar a:** contacto.mx@dechra.com **Teléfono para seguimiento:** (55) 5651 0047 2 **Idioma:** Español **Asunto:** presencia de Dechra en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Dechra, vemos una oportunidad clara de presencia contextual en categorías terapéuticas donde la decisión clínica ocurre dentro del flujo de consulta, especialmente en áreas como dermatología, endocrinología, cardiología y analgesia, donde la marca ya tiene una propuesta bien definida para animales de compañía.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de exclusividad por segmento si lo consideran relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **27\. Vetoquinol México (Contacto México)**
+
+**Enviar a:** mexico_vetoquinol@vetoquinol.com **Teléfono para seguimiento:** (55) 5262 7540 2 **Idioma:** Español **Asunto:** presencia de Vetoquinol en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Vetoquinol, vemos valor en una presencia contextual dentro del flujo clínico, especialmente en categorías de uso frecuente donde la decisión terapéutica es inmediata, considerando la amplitud de su portafolio en pequeñas especies con productos como Cimalgex, Clavaseptin, Aurizon o Azodyl.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con posibilidad de exclusividad por segmento si hace sentido para su equipo.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su área de marketing o producto podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **28\. Corix Medical (Sales Department)**
+
+**Enviar a:** sales@corix.us **Teléfono para seguimiento:** (55) 5394-1199 2 **Idioma:** Español **Asunto:** presencia de Corix Medical en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran aparecer justo en el momento en que el médico veterinario evalúa estudios, equipos o soluciones de apoyo diagnóstico.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma supera las **16,000 descargas profesionales** y genera cerca de **25,000 impactos visuales al mes**. Para Corix Medical, vemos una oportunidad clara de presencia contextual dentro del flujo diagnóstico, donde el profesional ya está enfocado en resolver el caso clínico, especialmente por su experiencia en radiología veterinaria, rayos X y soluciones para evaluación ósea, dental y de pequeñas especies.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esa categoría, con opción de exclusividad por segmento si lo consideran relevante.
+
+Si les parece, con gusto puedo enviar una propuesta ejecutiva de una página o revisarlo en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **29\. Alpha Chem (Depto. Comercial)**
+
+**Enviar a:** info@alphachem.com.mx **Teléfono para seguimiento:** (55) 5515-5228 2 **Idioma:** Español **Asunto:** presencia de Alpha Chem en RedVetAds
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos abriendo espacios para marcas que quieran tener presencia justo en el momento en que el médico veterinario registra un diagnóstico o define un tratamiento.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Para Alpha Chem, vemos valor en una presencia contextual dentro del flujo clínico, donde la atención del profesional está concentrada en la decisión terapéutica, especialmente por su enfoque en fabricación y distribución de productos veterinarios dentro del mercado mexicano.
+
+Me gustaría proponerles un **piloto de 4 semanas** en **RedVet** para evaluar visibilidad e interés dentro de esas categorías, con opción de exclusividad por segmento si resulta relevante para su equipo.
+
+Si les parece, con gusto envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién de su equipo comercial o de marketing podría verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+#### **30\. AMMVEPE (A MVZ Riad Katrib Mir)**
+
+**Enviar a:** membresias@ammvepe.com.mx **Teléfono para seguimiento:** (55) 1313 7380 / 55 5162 6351 **Idioma:** Español **Asunto:** presencia de AMMVEPE en RedVetAds
+
+**Nota de validación abril 2026:** El correo alterno previo de AMMVEPE rebotó, aunque sigue apareciendo públicamente. Mantener `membresias@ammvepe.com.mx` como correo operativo principal.
+
+Hola MVZ Riad Katrib Mir,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de **RedVet**.
+
+Te escribo porque en **RedVet** estamos explorando alianzas institucionales con actores relevantes del ecosistema veterinario en México.
+
+Puedes ver una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html)
+
+Hoy la plataforma cuenta con más de **16,000 descargas profesionales** y genera alrededor de **25,000 impactos visuales al mes**. Creemos que una colaboración con AMMVEPE podría generar valor en visibilidad, posicionamiento y conexión con la comunidad veterinaria profesional, especialmente por el papel que la asociación tiene en pequeñas especies, formación continua y programas como su Circuito Clínico.
+
+Me gustaría proponer una conversación inicial para revisar una dinámica de colaboración, patrocinio o difusión dentro de **RedVet**, y evaluar si tiene sentido plantear una prueba de 4 semanas o una iniciativa específica.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo revisamos en una llamada breve de 10 minutos. ¿Con quién podríamos verlo?
+
+Gracias, Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**VII. CONTACTOS ADICIONALES LATAM (DEEP RESEARCH ABRIL 2026)**
+
+> Bloque incorporado a partir del informe `deep-research-report.md`. Solo se incluyen entidades con email verificable que no estaban ya en las secciones I–V. Se mantiene el mismo template de correo, ajustado por categoría (farma, nutrición, equipo/diagnóstico, insumos, otros). Cuando el contacto es un buzón comercial general, se conserva el saludo neutro "Hola"; cuando hay nombre validado, se personaliza.
+
+### MÉXICO — Equipo, diagnóstico e insumos
+
+#### **31\. Distribuidora Maico de México (A Yennyfer Urritia Suárez)**
+
+**Enviar a:** informes@maico.cc **Teléfono para seguimiento:** +52 81 8373 6810 **Idioma:** Español **Asunto:** presencia de Maico en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribuidor nacional de tecnología diagnóstica con LinkedIn de Yennyfer como Marketing en Maico de México.
+
+Hola Yennyfer,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Maico, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Maico.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **32\. FUJIFILM de México Healthcare (A Alejandro Giraud)**
+
+**Enviar a:** imagenologia@fujifilm.com.mx / ultrasonido@fujifilm.com.mx **Teléfono para seguimiento:** +52 55 5263 5500 **Idioma:** Español **Asunto:** presencia de FUJIFILM en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Marketing Director Alejandro Giraud, evidencia de empuje veterinario 2025-2026.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de FUJIFILM Healthcare, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de FUJIFILM Healthcare.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **33\. TelVet (A Mary Pavón)**
+
+**Enviar a:** marypavon@telvet.com.mx **Teléfono para seguimiento:** 999 108 4530 / WhatsApp 999 737 4987 **Idioma:** Español **Asunto:** presencia de TelVet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribuidor regional autorizado con amplio portafolio de insumos, medicamentos y equipo.
+
+Hola Mary,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de TelVet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de TelVet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **34\. MederiLab (Atención corporativa)**
+
+**Enviar a:** contacto@mederilab.com **Teléfono para seguimiento:** 331 028 3676 **Idioma:** Español **Asunto:** presencia de MederiLab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Inversión visible en formación y red de distribuidores; perfil técnico.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de MederiLab, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de MederiLab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **35\. Phylax (A Manuel Jova)**
+
+**Enviar a:** contacto@phylax.mx **Teléfono para seguimiento:** 644 413 0088 **Idioma:** Español **Asunto:** presencia de Phylax en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribuidor nacional / Grupo ISA. Manuel Jova como ejecutivo comercial veterinario.
+
+Hola Manuel,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Phylax, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Phylax.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **36\. IMV Integradora de Medicamentos Veterinarios (A Israel Fuentes Esparza)**
+
+**Enviar a:** israel.fuentes@imv.lat **Teléfono para seguimiento:** 55 2595 1440 **Idioma:** Español **Asunto:** presencia de IMV en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. CEO / dirección comercial visible. Distribuidor de farmacéuticos, biológicos y OTC.
+
+Hola Israel,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de IMV, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de IMV.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### MÉXICO — Laboratorios farmacéuticos adicionales
+
+#### **37\. Vetanco México (A Nicolás Fermentini)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +54 11 4709 3330 **Idioma:** Español **Asunto:** presencia de Vetanco en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Country Manager con presencia recurrente en congresos.
+
+Hola Nicolás,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **38\. Andoci (Atención laboratorios)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Idioma:** Español **Asunto:** presencia de Andoci en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Producción nacional de medicamentos genéricos y de marca.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Andoci, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Andoci.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **39\. Astro Nova (Dirección de ventas)**
+
+**Enviar a:** ventas@laboratoriosastronova.com.mx **Idioma:** Español **Asunto:** presencia de Astro Nova en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Expansión en canales clínicos urbanos.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Astro Nova, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Astro Nova.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **40\. Multimin / Axiota (Gerencia comercial)**
+
+**Enviar a:** ventas@multimin.com.mx **Idioma:** Español **Asunto:** presencia de Multimin en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Foco especializado en aditivos y prevención.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Multimin, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Multimin.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **41\. Biofarmex (Ventas institucionales)**
+
+**Enviar a:** ventas@biofarmex.com **Idioma:** Español **Asunto:** presencia de Biofarmex en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Amplia cartera de soluciones médicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Biofarmex, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Biofarmex.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **42\. Biovet (Contacto general)**
+
+**Enviar a:** laboratoriosbiovetdemexico@hotmail.com **Idioma:** Español **Asunto:** presencia de Biovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Pyme con potencial de escalabilidad en canales digitales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Biovet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Biovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **43\. Cheminova (Dirección corporativa)**
+
+**Enviar a:** info@cheminovavet.mx **Idioma:** Español **Asunto:** presencia de Cheminova en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Formulador y distribuidor de nicho.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Cheminova, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Cheminova.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **44\. Comadsa (Contacto corporativo)**
+
+**Enviar a:** info@comadsa.mx **Idioma:** Español **Asunto:** presencia de Comadsa en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Suministro de insumos y aditivos clínicos.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Comadsa, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Comadsa.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **45\. Diprofaq (Contacto general)**
+
+**Enviar a:** diprofaq52@gmail.com **Idioma:** Español **Asunto:** presencia de Diprofaq en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Operaciones químicas y formulaciones magistrales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Diprofaq, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Diprofaq.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **46\. Eco Animal Health (Gerencia comercial)**
+
+**Enviar a:** ecoanimalhealthmex@gmail.com **Idioma:** Español **Asunto:** presencia de Eco Animal Health en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Presencia internacional en salud poblacional.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Eco Animal Health, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Eco Animal Health.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **47\. Ecozoo (Ventas nacionales)**
+
+**Enviar a:** ventas@ecozoo.com.mx **Idioma:** Español **Asunto:** presencia de Ecozoo en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribución nacional de productos veterinarios.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ecozoo, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ecozoo.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **48\. Esteripharma (Gerencia ventas)**
+
+**Enviar a:** agrovet.ventas@esteripharma.com.mx **Idioma:** Español **Asunto:** presencia de Esteripharma en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Presencia continua en ferias y soluciones desinfectantes.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Esteripharma, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Esteripharma.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **49\. Fiori (Gerencia comercial)**
+
+**Enviar a:** ventas@labfiori.com **Idioma:** Español **Asunto:** presencia de Fiori en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Especialistas en terapias dermatológicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Fiori, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Fiori.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **50\. Genopharm (Contacto ventas)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Idioma:** Español **Asunto:** presencia de Genopharm en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Laboratorio de genéricos de alta rotación.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Genopharm, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Genopharm.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **51\. Genovet (Contacto ventas)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Idioma:** Español **Asunto:** presencia de Genovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Medicamentos de primera línea clínica.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Genovet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Genovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **52\. Halvet (Gerencia corporativa)**
+
+**Enviar a:** contacto@halvet.mx **Idioma:** Español **Asunto:** presencia de Halvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Reconocido fabricante en occidente de México.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Halvet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Halvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **53\. Industria Farmacéutica Veterinaria - CAPSA (Atención a clientes)**
+
+**Enviar a:** atencionclientes@capsa-ifv.com **Idioma:** Español **Asunto:** presencia de CAPSA-IFV en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Soluciones inyectables y orales de prescripción.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de CAPSA-IFV, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de CAPSA-IFV.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **54\. Lallemand (A B. Ramirez)**
+
+**Enviar a:** bramirez@lallemand.com **Idioma:** Español **Asunto:** presencia de Lallemand en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Biosoluciones y probióticos de alto nivel.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lallemand, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lallemand.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **55\. Medical Vet (Ventas directas)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Idioma:** Español **Asunto:** presencia de Medical Vet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Especialidades médicas y posquirúrgicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Medical Vet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Medical Vet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **56\. Laboratorios Ordoñez**
+
+**Enviar a:** laboratoriosordonez@gmail.com **Idioma:** Español **Asunto:** presencia de Lab. Ordoñez en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Laboratorio tradicional nacional.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Ordoñez, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Ordoñez.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **57\. Panavet (Contacto central)**
+
+**Enviar a:** panavet@panavet.com.mx **Idioma:** Español **Asunto:** presencia de Panavet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribución farma y biológicos en la república.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Panavet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Panavet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **58\. Riverfarma (Dirección central)**
+
+**Enviar a:** riverfarma@riverfarma.com.mx **Idioma:** Español **Asunto:** presencia de Riverfarma en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Vademécum extenso de uso diario en clínicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Riverfarma, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Riverfarma.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **59\. Ruiland (Gerencia web)**
+
+**Enviar a:** web@ruiland.com.mx **Idioma:** Español **Asunto:** presencia de Ruiland en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Insumos y fármacos de primera necesidad.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ruiland, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ruiland.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **60\. Salud Animal (Dirección técnica)**
+
+**Enviar a:** labsaludanimal@prodigy.net.mx **Idioma:** Español **Asunto:** presencia de Salud Animal en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Desarrollo de soluciones terapéuticas integrales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Salud Animal, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Salud Animal.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **61\. Sehyex (Área de ventas)**
+
+**Enviar a:** ventas@sehyex.com **Idioma:** Español **Asunto:** presencia de Sehyex en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Insumos biológicos y químicos especializados.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Sehyex, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Sehyex.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **62\. Pets Pharma (A E. Santiago)**
+
+**Enviar a:** esantiago@petspharma.com.mx **Idioma:** Español **Asunto:** presencia de Pets Pharma en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Penetración aguda en clínicas especializadas Pets.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Pets Pharma, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Pets Pharma.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **63\. Wildlife Pharmaceuticals México**
+
+**Enviar a:** wildlifepharmamexico@gmail.com **Idioma:** Español **Asunto:** presencia de Wildlife Pharmaceuticals en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Fármacos de restricción y manejo de fauna exótica.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Wildlife Pharmaceuticals, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Wildlife Pharmaceuticals.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### MÉXICO — Nutrición y diagnóstico complementario
+
+#### **64\. APC Proteins (A Diego Sangeado)**
+
+**Enviar a:** diego.sangeado@apcproteins.com **Idioma:** Español **Asunto:** presencia de APC en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Proteínas funcionales y nutrición clínica avanzada.
+
+Hola Diego,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de APC, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de APC.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **65\. Procesadora de Alimentos para Ganado**
+
+**Enviar a:** procalimg@prodigy.net.mx **Idioma:** Español **Asunto:** presencia de Proc. Alim. Ganado en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Formulación de suplementos nutricionales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Procesadora de Alimentos para Ganado, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Procesadora de Alimentos para Ganado.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **66\. Mindray Animal Medical (Gerencia de servicio)**
+
+**Enviar a:** service@mindrayanimal.com **Idioma:** Español **Asunto:** presencia de Mindray Animal en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Alto ticket; capacidad de pagar paquetes premium sin fricción.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Mindray Animal Medical, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Mindray Animal Medical.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **67\. Chison (Gerencia global ventas)**
+
+**Enviar a:** global.sales@chison.com **Teléfono para seguimiento:** +1 425-590-9852 **Idioma:** Español **Asunto:** presencia de Chison en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Fuerte penetración en ecografía Doppler color.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Chison, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Chison.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### MÉXICO — Insumos y veterinarias clínicas locales
+
+#### **68\. Bioterios (A Cesar Limon Martinez)**
+
+**Enviar a:** cesare_01@hotmail.com **Teléfono para seguimiento:** 665 654-8501 **Idioma:** Español **Asunto:** presencia de Bioterios en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Suministro para instalaciones hospitalarias de alto volumen.
+
+Hola Cesar,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Bioterios, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Bioterios.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **69\. Clinica Morris (A Alfredo Felix Cervantes)**
+
+**Enviar a:** morrisvet@hotmail.com **Teléfono para seguimiento:** 6641636321 **Idioma:** Español **Asunto:** presencia de Clínica Morris en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Mayorista de productos de consumo animal e insumos.
+
+Hola Alfredo,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Clínica Morris, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Clínica Morris.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **70\. Veterinaria Ariana (A Ariana Elizabeth Montoya)**
+
+**Enviar a:** mvz.ariana@gmail.com **Teléfono para seguimiento:** 686 244-8722 **Idioma:** Español **Asunto:** presencia de Vet. Ariana en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Nodo de distribución secundaria clínica local.
+
+Hola Ariana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Veterinaria Ariana, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Veterinaria Ariana.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **71\. Veterinaria Arturo Parra (A Arturo Parra Ruelas)**
+
+**Enviar a:** arturo.parra12@hotmail.com **Teléfono para seguimiento:** 664 300-5220 **Idioma:** Español **Asunto:** presencia de Vet. Arturo Parra en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Abastecimiento comercial continuo a consultorios.
+
+Hola Arturo,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Veterinaria Arturo Parra, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Veterinaria Arturo Parra.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **72\. Veterinaria La Espuela (A Luis Juan Gutiérrez)**
+
+**Enviar a:** mvzluisgtz@yahoo.com.mx **Teléfono para seguimiento:** 045 (271) 122 3064 **Idioma:** Español **Asunto:** presencia de La Espuela en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribución inter-estatal de consumibles fungibles.
+
+Hola Luis,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Veterinaria La Espuela, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Veterinaria La Espuela.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### COLOMBIA
+
+#### **73\. Virbac Colombia (A Adrián Camilo Duque Gracia)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +57 1 225 2100 **Idioma:** Español **Asunto:** presencia de Virbac Colombia en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Alta afinidad con derma y companion animal.
+
+Hola Adrián,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Virbac Colombia, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Virbac Colombia.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **74\. Elanco Colombia / LATAM (A Mauricio Blanco)**
+
+**Enviar a:** saclatam@elancoah.com **Teléfono para seguimiento:** 018000 180596 **Idioma:** Español **Asunto:** presencia de Elanco LATAM en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Director de Marketing LATAM / CMO con cobertura regional.
+
+Hola Mauricio,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Elanco, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Elanco.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **75\. Royal Canin Colombia (A Sebastián Triviño Vega)**
+
+**Enviar a:** servicioalconsumidorcolombia@royalcanin.com **WhatsApp para seguimiento:** +57 320 988 9091 **Idioma:** Español **Asunto:** presencia de Royal Canin Colombia en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Dietas veterinarias y canal clínico muy activo.
+
+Hola Sebastián,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Royal Canin Colombia, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Royal Canin Colombia.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **76\. Gabrica (A Nicolás Téllez)**
+
+**Enviar a:** servicioalcliente@gabrica.com.co **Teléfono para seguimiento:** +57 601 519 0040 / WhatsApp +57 317 310 0715 **Idioma:** Español **Asunto:** presencia de Gabrica en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Agregador de marcas top del mercado pet.
+
+Hola Nicolás,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Gabrica, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Gabrica.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **77\. Promedco (Atención comercial)**
+
+**Enviar a:** r.medina@promedco.com **Teléfono para seguimiento:** +57 601 464 4004 / WhatsApp +57 317 518 0079 **Idioma:** Español **Asunto:** presencia de Promedco en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribuidor Mindray con contacto comercial directo.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Promedco, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Promedco.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **78–95. Laboratorios ERMA (Colombia) — Red zonal**
+
+**Nota de origen:** Deep research abril 2026. ERMA mantiene una red zonal con decisores comerciales por departamento. Conviene tratar como clúster: enviar correo personalizado al promotor de cada zona y, en paralelo, abrir una conversación corporativa central. Asunto sugerido: "presencia de Laboratorios ERMA en RedVetAds".
+
+**Cuerpo recomendado (mismo template de la sección VII, adaptado por zona):**
+
+> Hola [Nombre],
+>
+> Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+> Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+> **RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+> **RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+> **RedTPV**, que cubre la parte financiera y de caja.
+>
+> Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+> Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+>
+> Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+>
+> En el caso de Laboratorios ERMA, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta. Específicamente para su zona [Zona], podemos reforzar visibilidad de marca dentro de las clínicas que ya operan en **RedVet**.
+>
+> Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laboratorios ERMA.
+>
+> En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+>
+> Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+>
+> Quedo atento.
+>
+> Saludos,
+> Ing. Rafael Rodriguez Nadal.
+
+| # | Sede / Zona | Contacto | Email | Teléfono |
+|---|---|---|---|---|
+| 78 | Sede Meta | Omar Gabriel Rodriguez | ogrodriguez@laberma.com | 3152577021 |
+| 79 | Casanare | Promotoría Zonal | promotorz1@laberma.com | 3102505666 |
+| 80 | Antioquia | Juan David Atehortua | jatehortua@laberma.com | 3117478487 |
+| 81 | Medellín | Claudia Yanet Betancur | cybetancur@laberma.com | 3145461243 |
+| 82 | Santander | Juan Pablo Ospina | jpospina@laberma.com | 3176421651 |
+| 83 | Caldas | Santiago Gomez | [rebotó] | 3176443157 |
+| 84 | Córdoba | John Edison Henao | comercialz6@laberma.com | 3218314460 |
+| 85 | Valle | Monica Alejandra Bañol | comercialz14@laberma.com | 3024206923 |
+| 86 | Huila | Maryely Caterine Rodriguez | comercialz10@laberma.com | 3133569959 |
+| 87 | Cesar | Elvis Alfonso Barbosa | [rebotó] | 3174346732 |
+| 88 | Bogotá | Dario Fernando Fuertes | dffuertes@laberma.com | 3108216336 |
+| 89 | Caquetá | Cesar Augusto Silva | casilva@laberma.com | 3186531592 |
+| 90 | Pets Medellín | Maria Fernanda Torres | [rebotó] | 3197054734 |
+| 91 | Pasto | Omar Ricardo Guerrero | [rebotó] | 3176421649 |
+| 92 | Sucre | Lina Marcela Coronado | comercialz16@laberma.com | 3178947695 |
+| 93 | Boyacá | Wilmer Javier Pedraza | comercialz18@laberma.com | 3118949692 |
+| 94 | Atlántico | Carlos Arturo Iriarte | ciriarte@laberma.com | 3162297899 |
+| 95 | Pets Bogotá | Jessica Bibiana Vega | jvega@laberma.com | 3168758993 |
+
+### ARGENTINA
+
+#### **96\. Zoetis Argentina (A Federica Pastor)**
+
+**Enviar a:** zoetisargentina@zoetis.com **Teléfono para seguimiento:** +54 11 6090 1800 **Idioma:** Español **Asunto:** presencia de Zoetis Argentina en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Doble valor: pharma + diagnóstico.
+
+Hola Federica,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Zoetis Argentina, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Zoetis Argentina.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **97\. Elanco Argentina (A Juan Pablo Zingoni)**
+
+**Enviar a:** pedidoselanco@elanco.com **Teléfono para seguimiento:** 0800-777-352626 **Idioma:** Español **Asunto:** presencia de Elanco Cono Sur en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Responsable de operación Cono Sur.
+
+Hola Juan Pablo,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Elanco Cono Sur, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Elanco Cono Sur.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **98\. Ruminal / Virbac Argentina (A Matías Lahoz)**
+
+**Enviar a:** info@ruminal.com.ar **Teléfono para seguimiento:** +54 11 4730 1750 / WhatsApp +54 9 11 7827 2188 **Idioma:** Español **Asunto:** presencia de Ruminal-Virbac Arg. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Decisor comercial visible y canal abierto.
+
+Hola Matías,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ruminal-Virbac, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ruminal-Virbac.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **99\. Royal Canin Argentina (A Agustina Díaz Roldán)**
+
+**Enviar a:** sac@royalcanin.com **Teléfono para seguimiento:** 0-800-333-76925 **Idioma:** Español **Asunto:** presencia de Royal Canin Argentina en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Cuenta top para clínicos y dietas veterinarias.
+
+Hola Agustina,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Royal Canin Argentina, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Royal Canin Argentina.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **100\. Vetanco S.A. Argentina (A Martín Cardaci)**
+
+**Enviar a:** mcardaci@vetanco.com **Teléfono para seguimiento:** +54 11 4709-3330 **Idioma:** Español **Asunto:** presencia de Vetanco en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Gte. Negocios Internacionales; coordina presupuestos hemisféricos.
+
+Hola Martín,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **101\. Richmond Vet Pharma (A Silvina Gonzalez)**
+
+**Enviar a:** silvina.gonzalez@richmondvet.com.ar **Teléfono para seguimiento:** +54 11 6426 4351 **Idioma:** Español **Asunto:** presencia de Richmond Vet Pharma en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Alta especialización en companion animal y dermatología (línea Dermapet).
+
+Hola Silvina,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Richmond Vet Pharma, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Richmond Vet Pharma.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **102\. Laboratorio John Martin (Contacto corporativo)**
+
+**Enviar a:** info@john-martin.com.ar **Teléfono para seguimiento:** +54 11 4687 6128 **Idioma:** Español **Asunto:** presencia de John Martin en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Laboratorio tradicional con fuerte presencia B2B.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. John Martin, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. John Martin.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **103\. Zoovet (Ceva) Argentina**
+
+**Enviar a:** info.argentina@ceva.com **Teléfono para seguimiento:** 0800 888 9668 **Idioma:** Español **Asunto:** presencia de Zoovet (Ceva) en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Marca adquirida por multinacional Ceva, amplio presupuesto.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Zoovet (Ceva), vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Zoovet (Ceva).
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **104\. Centro Diagnóstico Veterinario S.A. (A Dra. Susana Conigliaro)**
+
+**Enviar a:** cdvsa@cdvsa.com.ar **Idioma:** Español **Asunto:** presencia de CDV S.A. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Fuerte presencia en desarrollos biológicos e investigación.
+
+Hola Dra. Conigliaro,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de CDV S.A., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de CDV S.A..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **105\. Co Panacea S.A. (A Alejandra Arce)**
+
+**Enviar a:** alejandra.arce@panacea.com.ar **Teléfono para seguimiento:** 4715-8450 **Idioma:** Español **Asunto:** presencia de Co Panacea en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Mobiliario, equipos complementarios y suturas.
+
+Hola Alejandra,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Co Panacea, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Co Panacea.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **106\. Distribuidora Muñoz (CABA)**
+
+**Enviar a:** info@munozvet.com.ar **Teléfono para seguimiento:** +54 11 6184 9660 **Idioma:** Español **Asunto:** presencia de Dist. Muñoz en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribuidor consolidado para CABA.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Distribuidora Muñoz, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Distribuidora Muñoz.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **107\. Distribuidora Rao**
+
+**Enviar a:** raovet@fibertel.com.ar **Idioma:** Español **Asunto:** presencia de Dist. Rao en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Insumos descartables, instrumental y laboratorio.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Distribuidora Rao, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Distribuidora Rao.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **108\. Morchon Hnos**
+
+**Enviar a:** ventas@morchonhnos.com.ar **Teléfono para seguimiento:** +54 11 5841 6175 **Idioma:** Español **Asunto:** presencia de Morchon Hnos en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Mayorista de insumos clínicos de alta rotación.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Morchon Hnos, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Morchon Hnos.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **109\. Arandu**
+
+**Enviar a:** arandupv@arnet.com.ar **Teléfono para seguimiento:** +54 11 4508 9993 **Idioma:** Español **Asunto:** presencia de Arandu en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Proveedor estratégico en el Gran Buenos Aires.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Arandu, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Arandu.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **110\. Distribuidora JB SRL (Rosario)**
+
+**Enviar a:** distribuidora@jbsrl.com.ar **Teléfono para seguimiento:** +54 341 439 5718 **Idioma:** Español **Asunto:** presencia de Dist. JB en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Cobertura en zona metropolitana de Rosario.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Distribuidora JB, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Distribuidora JB.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **111\. Distribuidora Arana (A Diego Arana)**
+
+**Enviar a:** aranadiego@gmail.com **Teléfono para seguimiento:** 0221-4863278 **Idioma:** Español **Asunto:** presencia de Dist. Arana en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Capilaridad extrema en área metropolitana de Buenos Aires.
+
+Hola Diego,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Distribuidora Arana, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Distribuidora Arana.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **112\. Vetify (Seguros mascotas Argentina)**
+
+**Enviar a:** info@vetify.com.ar **Teléfono para seguimiento:** +54 9 11 5823 3864 **Idioma:** Español **Asunto:** presencia de Vetify en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Startup de seguros y medicina prepaga para mascotas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetify, vemos una oportunidad clara porque la decisión puede activarse en dos momentos: en **RedVet** cuando el médico registra un tratamiento o procedimiento de costo relevante, y en **RedPet** cuando el propietario evalúa cobertura o protección para su mascota.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetify.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **113\. Alitas al Cielo (Servicios funerarios)**
+
+**Enviar a:** info@alitasalcielo.com **Idioma:** Español **Asunto:** presencia de Alitas al Cielo en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Líder en cremaciones en CABA y GBA.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Alitas al Cielo, vemos una oportunidad muy específica porque el acompañamiento de fin de vida suele iniciarse dentro del flujo clínico. En **RedVet** podemos estar presentes cuando el equipo médico necesita ofrecer una opción digna y profesional, y en **RedPet** acompañar al propietario en ese proceso.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Alitas al Cielo.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **114\. CAPROVE (Cámara de la Industria)**
+
+**Enviar a:** vet2@caprove.com.ar **Idioma:** Español **Asunto:** presencia de CAPROVE en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Aglutina presupuestos corporativos del sector.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de CAPROVE, vemos una oportunidad clara como actor institucional del sector: en **RedVet** podríamos articular comunicación dirigida a la comunidad clínica, y en **RedPet** apoyar campañas de educación o awareness hacia el propietario.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de CAPROVE.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### URUGUAY
+
+#### **115\. Irdenco S.A. / Vetanco Uruguay (A José Luis Bruzzone)**
+
+**Enviar a:** jlbruzzone@vetanco.com **Idioma:** Español **Asunto:** presencia de Vetanco Uruguay en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Gerente país, control y autorización de pautas.
+
+Hola José Luis,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco Uruguay, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco Uruguay.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### CHILE
+
+#### **116\. Agrovet S.P.A. / Vetanco Chile (A Cristian Lembach → redirigido a Ignacio Aeschlimann)**
+
+**Enviar a:** clembach@agrovet.cl _(deprecated — ya no pertenece a la compañía)_ **Idioma:** Español **Asunto:** presencia de Agrovet-Vetanco Chile en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Jefatura de línea con fuerte injerencia en congresos.
+
+**Seguimiento abril 2026:**
+- 20-abr: envío inicial a `clembach@agrovet.cl` → OOO automático "Christian Lembach ya no pertenece a la compañía, contactar a Ignacio Aeschlimann, `iaeschlimann@agrovet.cl`".
+- 20-abr: re-envío limpio dirigido a Ignacio Aeschlimann (Gerente Unidad de Negocios Pet Salud), msg `19db0430c04cf4e4`.
+- 21-abr: Ignacio responde pidiendo (a) propuesta en USD/CLP y (b) datos específicos de Chile, no globales.
+- 21-abr: follow-up enviado con datos reales de Chile vía GA4 (183 usuarios, 57 activos/mes, 20 ciudades), tabla de planes en USD + equivalente CLP al TC del día, explicación de "a medida fundador" (flexibilidad de composición dentro del rango), piloto 4 semanas, mecanismo de KPI de espera como fallback, CTA a Meet la próxima semana (esta semana estoy en el congreso de Puebla). Msg Gmail `19db0cd6779961ce`, thread `19db0430c04cf4e4`.
+- 23-abr: Ignacio responde descartando por ahora la inversión. Motivo explícito: **"Aun el tráfico es muy bajo"**. Mantiene tono cordial y deja abierta la puerta a revisarlo más adelante cuando Chile tenga más masa crítica.
+- 23-abr: reply corto enviado desde nuestra cuenta pidiéndole un **umbral concreto** para reactivar el contacto sin insistencia innecesaria: `X` usuarios activos mensuales, `X` descargas acumuladas, `X` ciudades cubiertas, o cualquier KPI equivalente que Agrovet considere suficiente. El objetivo es dejarlo en lista silenciosa y volver únicamente cuando Chile alcance ese margen.
+
+**Contacto activo:** Ignacio Alberto Aeschlimann Del Rio — `iaeschlimann@agrovet.cl` — Gerente Unidad de Negocios Pet Salud — AGROVET, Lo Echevers #381, Quilicura, Santiago.
+
+**Próximo paso esperado:** que Ignacio comparta el **KPI mínimo de entrada** (usuarios activos, descargas, ciudades u otro umbral). Si no responde, dejar el hilo en pausa sin perseguirlo y reabrir solo cuando Chile tenga una mejora material de escala.
+
+Hola Cristian,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrovet-Vetanco Chile, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrovet-Vetanco Chile.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **117\. Laboratorio Eximerk Ltda**
+
+**Enviar a:** laboratorio@eximerk.cl **Teléfono para seguimiento:** +56 2 2094063 **Idioma:** Español **Asunto:** presencia de Eximerk en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Importador exclusivo y desarrollador comercial.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Eximerk, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Eximerk.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **118\. Monteverde (Nutrición animal Chile)**
+
+**Enviar a:** monteverde@monte-verde.cl **Teléfono para seguimiento:** (56-43) 2630340 **Idioma:** Español **Asunto:** presencia de Monteverde en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Nutrición animal especializada y diseño de dietas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Monteverde, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Monteverde.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **119\. Laboratorio Patología UACH (A Mirela Noro)**
+
+**Enviar a:** labvetuach@gmail.com **Teléfono para seguimiento:** 063-221457 **Idioma:** Español **Asunto:** presencia de UACH Patología en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Institución crítica formadora de opinión clínica.
+
+Hola Mirela,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de el Laboratorio de Patología UACH, vemos una oportunidad clara como actor institucional del sector: en **RedVet** podríamos articular comunicación dirigida a la comunidad clínica, y en **RedPet** apoyar campañas de educación o awareness hacia el propietario.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de el Laboratorio de Patología UACH.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **120\. Laboratorio Virología U. de Chile (A María Celedón)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** 02-9785519 **Idioma:** Español **Asunto:** presencia de Virología UChile en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Validación de protocolos biológicos en el país.
+
+Hola María,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de el Laboratorio de Virología UChile, vemos una oportunidad clara como actor institucional del sector: en **RedVet** podríamos articular comunicación dirigida a la comunidad clínica, y en **RedPet** apoyar campañas de educación o awareness hacia el propietario.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de el Laboratorio de Virología UChile.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **121\. Insufarma (Distribuidor Chile)**
+
+**Enviar a:** contactoweb@insufarma.cl **Teléfono para seguimiento:** +56 9 5418 5033 **Idioma:** Español **Asunto:** presencia de Insufarma en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Canal de distribución troncal que consolida catálogos masivos.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Insufarma, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Insufarma.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PERÚ
+
+#### **122\. Phartec SAC / Vetanco Perú (Igor Pelaez → Francesco Wong, Jefe de Marketing)**
+
+**Enviar a:** ipelaez@phartecperu.com **Idioma:** Español **Asunto:** presencia de Phartec-Vetanco Perú en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Gerente Divisional con P&L propio y presupuesto de marketing.
+
+**Seguimiento abril 2026:**
+- 20-abr: envío inicial a Igor Pelaez (`ipelaez@phartecperu.com`), thread `19dabbce60693880`.
+- 20-abr: Igor responde reenviando con CC a **Francesco Wong** (`fwong@phartecperu.com`), Jefe de Marketing, "a fin que canalice la respuesta sobre nuestro interés". Msg Outlook `<CPUP152MB45699604A77F0A16575AE4BDB02F2@CPUP152MB4569.LAMP152.PROD.OUTLOOK.COM>`.
+- 21-abr: primer reply enviado solo a Igor (sin Francesco) pidiendo correo directo de Francesco — *error mío*, Francesco ya estaba en CC. Msg Gmail `19db042f99bfd85b`.
+- 21-abr: follow-up **reply-all con Francesco en TO e Igor en CC**, pitch adaptado para Jefe de Marketing: modelo país-por-país, "momento de decisión" (superficies ligadas al workflow clínico), reporte semanal accionable. Datos GA4 reales PE: **681 usuarios acumulados, 670 descargas, 180 MV activos/28d, 308 sesiones, 2,414 eventos, ~25 ciudades** (Trujillo 92 / Arequipa 38 / Cusco 25 / Chiclayo 24 / Piura 20 / Cerro Colorado 19 / Huancayo 17 / Juliaca 17 / Ica 15 / Cajamarca 14 / Tacna 11 / Iquitos 10 / Puno 10 + cobertura en Pucallpa, Ayacucho, Moquegua, Puerto Maldonado, Jaén, Pisco, Huaral, Lambayeque). Posicionamiento: **Perú = 9º mercado global** (top 5 LATAM), momentum sostenido desde ene-26 (130-300 activos/mes sin adquisición local). Tarifas USD (Bronce 120 → Diamante 1,170; exclusividad +585). "Socio fundador Perú" = flexibilidad de composición por categoría (antiparasitarios, biológicos, nutricionales, diagnóstico, dermatológicos). Piloto 4 semanas. CTA Meet 15 min la próxima semana (esta estoy en el congreso de Puebla). Msg Gmail `19db0e6478a4a7e9`, thread `19dabbce60693880`.
+
+**Contactos activos:**
+- Francesco Wong — `fwong@phartecperu.com` — Jefe de Marketing, Phartec SAC / Vetanco Perú (interlocutor principal ahora).
+- Ing. Igor Pelaez Cáceres — `ipelaez@phartecperu.com` — Gerente División Veterinaria (canalizador, mantener en CC).
+
+**Próximo paso esperado:** respuesta de Francesco agendando Meet la próxima semana. Si no responde en 5-7 días, reforzar por teléfono Phartec +51 1 271 7616 / WhatsApp Igor +51 981 468 177.
+
+Hola Igor,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Phartec-Vetanco Perú, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Phartec-Vetanco Perú.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **123\. Laboratorios Labet (Perú)**
+
+**Enviar a:** ventas@laboratorioslabet.com.pe **Teléfono para seguimiento:** +51 922 639 908 **Idioma:** Español **Asunto:** presencia de Labet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Competidor nacional con red propia de promotores zonales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Labet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Labet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **124\. Farmavet (Perú)**
+
+**Enviar a:** farmavetcentraldelivery@gmail.com **Teléfono para seguimiento:** +51 915 144 712 **Idioma:** Español **Asunto:** presencia de Farmavet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Abastecimiento de clínicas con promesas logísticas ágiles.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Farmavet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Farmavet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### ECUADOR
+
+#### **125\. Biofeed Cía Ltda (A Viviana Parra)**
+
+**Enviar a:** viviana.parra@biofeed.com.ec **Teléfono para seguimiento:** (02) 600-2817 **Idioma:** Español **Asunto:** presencia de Biofeed en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Representación de farmacológicos y suplementos alimenticios.
+
+Hola Viviana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Biofeed, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Biofeed.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **126\. Bitrodiagnostico (A Carlos Benalcazar)**
+
+**Enviar a:** carlosbc@interactive.net.ec **Teléfono para seguimiento:** 022435401 **Idioma:** Español **Asunto:** presencia de Bitrodiagnostico en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Kits de diagnóstico rápido y pruebas in-vitro veterinarias.
+
+Hola Carlos,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Bitrodiagnostico, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Bitrodiagnostico.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **127\. Ecuafarvet (Jefatura de fármacos)**
+
+**Enviar a:** farmacos@ecuafarvet.com.ec **Idioma:** Español **Asunto:** presencia de Ecuafarvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Distribución hiper-acelerada de consumibles y fungibles.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ecuafarvet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ecuafarvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **128\. Insucampo (Ecuador)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** (593) 2485050 **Idioma:** Español **Asunto:** presencia de Insucampo en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Socio estratégico B2B para multinacionales.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Insucampo, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Insucampo.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### COSTA RICA
+
+#### **129\. Vetanco Costa Rica (A Carlos Zamora)**
+
+**Enviar a:** czamora@vetanco.com **Idioma:** Español **Asunto:** presencia de Vetanco Costa Rica en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Director Técnico Comercial con poder decisorio.
+
+Hola Carlos,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco Costa Rica, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco Costa Rica.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **130\. Grupo SIRE (Costa Rica)**
+
+**Enviar a:** info@gruposire.com **Idioma:** Español **Asunto:** presencia de Grupo SIRE en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Mayorista de equipamiento y material médico/veterinario.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Grupo SIRE, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Grupo SIRE.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **131\. Agrocentro America S.A. (Costa Rica)**
+
+**Enviar a:** agrocentrocr@outlook.com **Teléfono para seguimiento:** +506 2244 9285 **Idioma:** Español **Asunto:** presencia de Agrocentro America en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Representante logístico clave para farmacéuticas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrocentro America, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrocentro America.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PANAMÁ
+
+#### **132\. Avifarm S.A. / Vetanco Panamá (A Adriana Monroy)**
+
+**Enviar a:** amonroy@avifarmpanama.com **Idioma:** Español **Asunto:** presencia de Avifarm-Vetanco Panamá en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Hub logístico vital para CA y Caribe.
+
+Hola Adriana,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Avifarm-Vetanco Panamá, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Avifarm-Vetanco Panamá.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **133\. Farmina Pet Foods**
+
+**Enviar a:** contacto@farmina.com **Idioma:** Español **Asunto:** presencia de Farmina en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Fuerte en dietas libres de grano (N&D).
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Farmina, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Farmina.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **134\. Agrocentro America S.A. (Panamá)**
+
+**Enviar a:** jr.masagro@gmail.com **Teléfono para seguimiento:** +507 6070 3830 **Idioma:** Español **Asunto:** presencia de Agrocentro Panamá en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Ingreso de mercancía por Canal de Panamá; alto volumen.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrocentro America, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrocentro America.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### REPÚBLICA DOMINICANA
+
+#### **135\. Mallen Veterinaria / Vetanco RD (A Dayibe Morales)**
+
+**Enviar a:** dmorales@vetanco.com **Teléfono para seguimiento:** +1 809 456 6700 **Idioma:** Español **Asunto:** presencia de Vetanco RD en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Dirección Técnica de la isla, ejecuta presupuesto cooperativo.
+
+Hola Dayibe,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco RD, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco RD.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **136\. EW Nutrition (RD)**
+
+**Enviar a:** info@ew-nutrition.com **Idioma:** Español **Asunto:** presencia de EW Nutrition en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Soluciones prebióticas y aditivos para salud intestinal.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de EW Nutrition, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de EW Nutrition.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **137\. LAVECEN (RD)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** (809) 564-7700 **Idioma:** Español **Asunto:** presencia de LAVECEN en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Laboratorio central de control y validación de pruebas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de LAVECEN, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de LAVECEN.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **138\. Lab García y García (RD)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** 809-575-9025 **Idioma:** Español **Asunto:** presencia de Lab García en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Patología clínica y diagnósticos de referencia.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. García y García, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. García y García.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **139\. Laboratorio Analisa (RD)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** 809-373-0748 **Idioma:** Español **Asunto:** presencia de Analisa en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Análisis biomédicos externalizados.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Laboratorio Analisa, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laboratorio Analisa.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **140\. Laboratorio Herrera Khoury (RD)**
+
+**Enviar a:** info@labherrera.com **Teléfono para seguimiento:** 809-588-2618 **Idioma:** Español **Asunto:** presencia de Lab Herrera en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Pruebas clínicas paramédicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Herrera Khoury, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Herrera Khoury.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **141\. Instituto de Especialidades (RD)**
+
+**Enviar a:** esperanzamre2512@hotmail.com **Teléfono para seguimiento:** 809-296-2002 **Idioma:** Español **Asunto:** presencia de Inst. Especialidades en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Centro referencial de patología.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de el Instituto de Especialidades, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de el Instituto de Especialidades.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **142\. Centro Médico San Rafael (RD)**
+
+**Enviar a:** tusalud.sanrafael@gmail.com **Teléfono para seguimiento:** 809-587-8050 **Idioma:** Español **Asunto:** presencia de San Rafael en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Imagenología y pruebas paraclínicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de el Centro Médico San Rafael, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de el Centro Médico San Rafael.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **143\. Laboratorios Referencia (RD) (A Dianny C.)**
+
+**Enviar a:** diannyc@labreferencia.com **Teléfono para seguimiento:** 809-221-5545 **Idioma:** Español **Asunto:** presencia de Lab Referencia en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Una de las redes de diagnóstico más fuertes de la isla.
+
+Hola Dianny,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Laboratorios Referencia, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laboratorios Referencia.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **144\. Lab Cortina González (RD)**
+
+**Enviar a:** lab@cortinagonzalez.com **Teléfono para seguimiento:** 809-333-7878 **Idioma:** Español **Asunto:** presencia de Lab Cortina González en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Pruebas hematológicas y químicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Cortina González, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Cortina González.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **145\. Lab Patria Rivas (RD)**
+
+**Enviar a:** info@patriarivas.com.do **Teléfono para seguimiento:** 809-200-3000 **Idioma:** Español **Asunto:** presencia de Patria Rivas en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Institución tradicional de pruebas diagnósticas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Patria Rivas, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Patria Rivas.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **146\. Lab Cruz Ramirez (RD)**
+
+**Enviar a:** laboratoriocruzramirez@hotmail.com **Teléfono para seguimiento:** 809-686-9754 **Idioma:** Español **Asunto:** presencia de Cruz Ramirez en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Servicios laboratoriales para clínicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Cruz Ramirez, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Cruz Ramirez.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **147\. Lab Dr. Jiménez Dajer (RD)**
+
+**Enviar a:** labjimenezdajer@gmail.com **Teléfono para seguimiento:** 809-686-5577 **Idioma:** Español **Asunto:** presencia de Jiménez Dajer en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Referencia para pruebas inmunológicas.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Dr. Jiménez Dajer, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Dr. Jiménez Dajer.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **148\. Lab Puerto Plata (RD)**
+
+**Enviar a:** laboplata@gmail.com **Teléfono para seguimiento:** 809-586-3030 **Idioma:** Español **Asunto:** presencia de Lab Puerto Plata en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Nodo analítico en zona norte.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Puerto Plata, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Puerto Plata.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **149\. Lab Bio Solutions / Vanter (RD) (A M. Valdez)**
+
+**Enviar a:** mvaldez@vanter.com.do **Teléfono para seguimiento:** 809-221-9115 **Idioma:** Español **Asunto:** presencia de Bio Solutions en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Pruebas de última generación y biotecnología.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lab. Bio Solutions, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lab. Bio Solutions.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### VENEZUELA
+
+#### **150\. Agrodistribuidora Venezolana (A Hector José Fourcade)**
+
+**Enviar a:** pepefourcade@gmail.com **Idioma:** Español **Asunto:** presencia de Agrodistribuidora Venezolana en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Gerencia general; responsable del blindaje comercial ante inflación.
+
+Hola Hector,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrodistribuidora Venezolana, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrodistribuidora Venezolana.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **151\. INGAVENCA (Venezuela)**
+
+**Enviar a:** ingavenca@gmail.com **Teléfono para seguimiento:** +58 0424 7510277 **Idioma:** Español **Asunto:** presencia de INGAVENCA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Asegura suministro de líneas vitales en occidente (Táchira).
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de INGAVENCA, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de INGAVENCA.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### CENTROAMÉRICA
+
+#### **152\. Vetanco Guatemala (A Estuardo Fuentes)**
+
+**Enviar a:** estuardofuentes@vetanco.com **Idioma:** Español **Asunto:** presencia de Vetanco Guatemala en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Cobertura regional CA: HND, SLV, NIC.
+
+Hola Estuardo,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetanco Guatemala, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetanco Guatemala.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **153\. Induvet (Honduras) (A Aida)**
+
+**Enviar a:** aida@induvet.com **Teléfono para seguimiento:** +504 236 5902 **Idioma:** Español **Asunto:** presencia de Induvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Aliado para internar medicamentos al país.
+
+Hola Aida,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Induvet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Induvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **154\. LBV Centroamérica (El Salvador)**
+
+**Enviar a:** contacto@lbvcentroamerica.com **Teléfono para seguimiento:** +503 2255 4080 **Idioma:** Español **Asunto:** presencia de LBV CA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Cobertura regional: SLV, GTM, HND, NIC.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de LBV Centroamérica, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de LBV Centroamérica.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **155\. Revetsa S.A. (Nicaragua) (A Walter)**
+
+**Enviar a:** revetsa.walter@hotmail.com **Teléfono para seguimiento:** +505 2220 4042 **Idioma:** Español **Asunto:** presencia de Revetsa en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Representante logístico y comercial.
+
+Hola Walter,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Revetsa, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Revetsa.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### BOLIVIA
+
+#### **156\. Centrex SRL (A Julian Peredo)**
+
+**Enviar a:** info@centrexbolivia.com **Teléfono para seguimiento:** 4026594 **Idioma:** Español **Asunto:** presencia de Centrex en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Suministro de infraestructura IT/comunicaciones para macro-clínicas.
+
+Hola Julian,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Centrex, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Centrex.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PARAGUAY
+
+#### **157\. Univet (A Sergio)**
+
+**Enviar a:** sergio@lupasunivet.com **Teléfono para seguimiento:** +52 5532 682455 **Idioma:** Español **Asunto:** presencia de Univet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026. Especialista en lupas quirúrgicas, odontología y óptica de alta precisión.
+
+Hola Sergio,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Univet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Univet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**VIII. CONTACTOS ADICIONALES LATAM (DEEP RESEARCH ABRIL 2026 - PARTE 2)**
+
+
+> Bloque incorporado a partir del informe `docs_infos/deep-research-report (1).md`. Solo se incluyen entidades con email verificable que no estaban ya en las secciones I–V o VII. Se mantiene el mismo template de correo de la sección VII, ajustado por categoría (farma, insumos, equipo/diagnóstico, nutrición, institucional). Cuando el contacto es un buzón comercial general, se conserva el saludo neutro "Hola"; cuando hay nombre validado, se personaliza.
+
+### MÉXICO
+
+#### **158\. Agro Salud Animal**
+
+**Enviar a:** administracion@agrosaludanimal.com **Teléfono para seguimiento:** +52 33 3656 4009 / WA +52 33 1062 2085 **Idioma:** Español **Asunto:** presencia de Agro Salud Animal en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn0search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agro Salud Animal, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agro Salud Animal.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **159\. Starpet**
+
+**Enviar a:** atencionaclientes@starpet.com.mx **Teléfono para seguimiento:** +52 55 5824 2521 / WA +52 55 4496 3773 **Idioma:** Español **Asunto:** presencia de Starpet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn19search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Starpet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Starpet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **160\. Interchembio**
+
+**Enviar a:** ventas@interchembio.com / servicioalcliente@interchembio.com **Teléfono para seguimiento:** +52 33 1306 4743 / +52 33 3612 1216 **Idioma:** Español **Asunto:** presencia de Interchembio en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn19search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Interchembio, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Interchembio.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **161\. Ardos Laboratorio Veterinario**
+
+**Enviar a:** contacto@ardoslab.com **Teléfono para seguimiento:** +52 55 1552 0358 **Idioma:** Español **Asunto:** presencia de Ardos Laboratorio Veterinario en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn19search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ardos Laboratorio Veterinario, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ardos Laboratorio Veterinario.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **162\. INVETT**
+
+**Enviar a:** ventas@invett.com **Teléfono para seguimiento:** +52 33 3826 5160 / +52 55 6235 4867 **Idioma:** Español **Asunto:** presencia de INVETT en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn0search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de INVETT, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de INVETT.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **163\. Odrik [PRIORIDAD ALTA]**
+
+**Enviar a:** hola@odrik.mx **Teléfono para seguimiento:** +52 55 9816 0122 / WA +52 55 6184 6190 **Idioma:** Español **Asunto:** presencia de Odrik en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn19search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Odrik, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Odrik.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **164\. EMPABE**
+
+**Enviar a:** empabe2019@gmail.com **Teléfono para seguimiento:** +52 55 5859 2240 / +52 55 1984 4359 **Idioma:** Español **Asunto:** presencia de EMPABE en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: BAJO. Origen: citeturn10search13.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de EMPABE, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de EMPABE.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **165\. Lobo Lab**
+
+**Enviar a:** lobovetlab@gmail.com **Teléfono para seguimiento:** +52 56 2399 1783 / +52 55 7265 9025 **Idioma:** Español **Asunto:** presencia de Lobo Lab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: BAJO. Origen: citeturn10search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lobo Lab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lobo Lab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### GUATEMALA
+
+#### **166\. Innvet**
+
+**Enviar a:** info@innvet.com **Teléfono para seguimiento:** +502 2293 1081 **Idioma:** Español **Asunto:** presencia de Innvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn1search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Innvet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Innvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **167\. DAVETSA GT**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +502 7889 6334 **Idioma:** Español **Asunto:** presencia de DAVETSA GT en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn1search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de DAVETSA GT, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de DAVETSA GT.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **168\. Animal Scan**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +502 2251 6793 / WA +502 3023 1306 **Idioma:** Español **Asunto:** presencia de Animal Scan en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn1search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Animal Scan, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Animal Scan.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **169\. Agro-Superiores (A B. Mazariegos)**
+
+**Enviar a:** bmazariegos@agrosuperiores.com **Teléfono para seguimiento:** +502 2232 9003 / +502 3175 0546 **Idioma:** Español **Asunto:** presencia de Agro-Superiores en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn1search11.
+
+Hola Mazariegos,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agro-Superiores, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agro-Superiores.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **170\. GLOBALVET (A Carlos Obando)**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +502 2234 5507 **Idioma:** Español **Asunto:** presencia de GLOBALVET en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn15search1.
+
+Hola Carlos,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de GLOBALVET, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de GLOBALVET.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **171\. Monteco S.A. (A Julio Valenzuela)**
+
+**Enviar a:** juliovalenzuela@montecogt.com **Teléfono para seguimiento:** +502 4149 2318 **Idioma:** Español **Asunto:** presencia de Monteco S.A. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: ALTO. Origen: citeturn15search1.
+
+Hola Julio,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Monteco S.A., vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Monteco S.A..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### HONDURAS
+
+#### **172\. Realva**
+
+**Enviar a:** info@realva.net **Teléfono para seguimiento:** +504 2236 5531 / +504 2552 9466 **Idioma:** Español **Asunto:** presencia de Realva en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn2search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Realva, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Realva.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **173\. Inversiones Mundo Animal IMASA**
+
+**Enviar a:** mercadeo.imasa@imasahonduras.com **Teléfono para seguimiento:** +504 9443 0112 **Idioma:** Español **Asunto:** presencia de Inversiones Mundo Animal IMASA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn2search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Inversiones Mundo Animal IMASA, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Inversiones Mundo Animal IMASA.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **174\. DISNA de Honduras**
+
+**Enviar a:** servicioalcliente@disna.com.hn **Teléfono para seguimiento:** +504 3158 1450 / +504 2559 4527 / WA +504 3177 2682 **Idioma:** Español **Asunto:** presencia de DISNA de Honduras en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn2search9.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de DISNA de Honduras, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de DISNA de Honduras.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **175\. Farvet Honduras**
+
+**Enviar a:** info@farvet.hn **Teléfono para seguimiento:** +504 9328 3435 **Idioma:** Español **Asunto:** presencia de Farvet Honduras en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn2search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Farvet Honduras, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Farvet Honduras.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **176\. Pharma Internacional Veterinaria**
+
+**Enviar a:** info@pharmaintveterinaria.com **Teléfono para seguimiento:** +504 2234 8989 **Idioma:** Español **Asunto:** presencia de Pharma Internacional Veterinaria en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn2search11.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Pharma Internacional Veterinaria, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Pharma Internacional Veterinaria.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **177\. Tecnología Agrícola S. de R.L. (A Raul Rojas)**
+
+**Enviar a:** rrojas@tecnologiaagricolahn.com **Teléfono para seguimiento:** +504 2556 6679 **Idioma:** Español **Asunto:** presencia de Tecnología Agrícola S. de R.L. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn16search1.
+
+Hola Raul,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Tecnología Agrícola S. de R.L., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Tecnología Agrícola S. de R.L..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### EL SALVADOR
+
+#### **178\. Mallo**
+
+**Enviar a:** ventas@grupomallo.com **Teléfono para seguimiento:** +503 2207 7210 / +503 2207 7216 **Idioma:** Español **Asunto:** presencia de Mallo en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn3search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Mallo, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Mallo.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **179\. DISNA El Salvador**
+
+**Enviar a:** info@disna.com.sv **Teléfono para seguimiento:** +503 2525 8222 / WA +503 7850 5217 **Idioma:** Español **Asunto:** presencia de DISNA El Salvador en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn3search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de DISNA El Salvador, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de DISNA El Salvador.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **180\. Inzoovet**
+
+**Enviar a:** info@inzoovet.com **Teléfono para seguimiento:** +503 6112 1616 **Idioma:** Español **Asunto:** presencia de Inzoovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn3search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Inzoovet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Inzoovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **181\. Monteco Animal Health El Salvador (A Krisia Uceda)**
+
+**Enviar a:** krissiauceda@montecosv.com **Teléfono para seguimiento:** +503 7156 9844 **Idioma:** Español **Asunto:** presencia de Monteco Animal Health El Salvador en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn15search6.
+
+Hola Krisia,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Monteco Animal Health El Salvador, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Monteco Animal Health El Salvador.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **182\. OhMyDog**
+
+**Enviar a:** ohmydog.sv.info@gmail.com **Teléfono para seguimiento:** WA +503 7015 2761 **Idioma:** Español **Asunto:** presencia de OhMyDog en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: BAJO. Origen: citeturn3search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de OhMyDog, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de OhMyDog.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### NICARAGUA
+
+#### **183\. Veterinaria Antares**
+
+**Enviar a:** atencionclientes@invantares.com **Teléfono para seguimiento:** +505 2233 0636 / +505 8364 7487 **Idioma:** Español **Asunto:** presencia de Veterinaria Antares en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn23search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Veterinaria Antares, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Veterinaria Antares.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **184\. Canela**
+
+**Enviar a:** info@canela.vet **Teléfono para seguimiento:** +505 7852 5921 **Idioma:** Español **Asunto:** presencia de Canela en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría actor institucional / referencia sectorial. Confianza fuente: MEDIO. Origen: citeturn23search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Canela, vemos una oportunidad clara como actor institucional del sector: en **RedVet** podríamos articular comunicación dirigida a la comunidad clínica, y en **RedPet** apoyar campañas de educación o awareness hacia el propietario.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Canela.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **185\. Scientific Instruments Nicaragua**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +505 2277 0945 **Idioma:** Español **Asunto:** presencia de Scientific Instruments Nicaragua en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn23search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Scientific Instruments Nicaragua, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Scientific Instruments Nicaragua.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **186\. Lion Brand**
+
+**Enviar a:** info@lionbrand.com.ni **Teléfono para seguimiento:** +505 2255 7720 / WA +505 8768 4339 **Idioma:** Español **Asunto:** presencia de Lion Brand en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn23search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Lion Brand, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Lion Brand.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **187\. Agrovet Market Nicaragua (A Isaac Chavarria)**
+
+**Enviar a:** isaac.chavarria@agrovetmarket.com **Teléfono para seguimiento:** +505 2224 4563 **Idioma:** Español **Asunto:** presencia de Agrovet Market Nicaragua en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn15search0.
+
+Hola Isaac,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrovet Market Nicaragua, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrovet Market Nicaragua.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **188\. COVETSA**
+
+**Enviar a:** covetgerencia@hotmail.com **Teléfono para seguimiento:** +505 8855 3304 **Idioma:** Español **Asunto:** presencia de COVETSA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: BAJO. Origen: citeturn23search9.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de COVETSA, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de COVETSA.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### COSTA RICA
+
+#### **189\. Vetecsa**
+
+**Enviar a:** info@vetecsa.com **Teléfono para seguimiento:** +506 2557 3400 **Idioma:** Español **Asunto:** presencia de Vetecsa en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn11search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetecsa, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetecsa.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **190\. Inversiones Monteco de Cartago (A Esteban Montero)**
+
+**Enviar a:** emontero@montecocr.com **Teléfono para seguimiento:** +506 2573 4065 **Idioma:** Español **Asunto:** presencia de Inversiones Monteco de Cartago en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn16search2.
+
+Hola Esteban,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Inversiones Monteco de Cartago, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Inversiones Monteco de Cartago.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **191\. Azoo Costa Rica / Tukego**
+
+**Enviar a:** info@tugeko.com **Teléfono para seguimiento:** +506 2296 2371 **Idioma:** Español **Asunto:** presencia de Azoo Costa Rica / Tukego en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn11search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Azoo Costa Rica / Tukego, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Azoo Costa Rica / Tukego.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **192\. IMGEVETSA**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +506 2430 6170 **Idioma:** Español **Asunto:** presencia de IMGEVETSA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn11search10.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de IMGEVETSA, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de IMGEVETSA.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **193\. Koken**
+
+**Enviar a:** infokokenai@gmail.com **Teléfono para seguimiento:** no visible **Idioma:** Español **Asunto:** presencia de Koken en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: BAJO. Origen: citeturn11search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Koken, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Koken.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PANAMÁ
+
+#### **194\. Insuvet [PRIORIDAD ALTA]**
+
+**Enviar a:** ventas@insuvet.com.pa **Teléfono para seguimiento:** +507 233 3861 / +507 233 0944 **Idioma:** Español **Asunto:** presencia de Insuvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn12search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Insuvet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Insuvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **195\. Farmacia Veterinaria Neuman**
+
+**Enviar a:** info@farvetpanama.com **Teléfono para seguimiento:** +507 233 0195 / +507 264 7971 **Idioma:** Español **Asunto:** presencia de Farmacia Veterinaria Neuman en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn12search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Farmacia Veterinaria Neuman, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Farmacia Veterinaria Neuman.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **196\. JOVLA PET**
+
+**Enviar a:** info@jovlapet.com **Teléfono para seguimiento:** +507 385 6598 / +507 6671 2000 **Idioma:** Español **Asunto:** presencia de JOVLA PET en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn12search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de JOVLA PET, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de JOVLA PET.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **197\. Terreros Lab**
+
+**Enviar a:** info@terreroslab.com **Teléfono para seguimiento:** +507 208 8804 / +507 6747 7042 **Idioma:** Español **Asunto:** presencia de Terreros Lab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn12search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Terreros Lab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Terreros Lab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **198\. Revetsa Animal Health S.A. (A Andrés Granados)**
+
+**Enviar a:** agranados@revetsapa.com **Teléfono para seguimiento:** +507 390 3979 **Idioma:** Español **Asunto:** presencia de Revetsa Animal Health S.A. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn12search7.
+
+Hola Andrés,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Revetsa Animal Health S.A., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Revetsa Animal Health S.A..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **199\. Empresas Melo (A Federico Quintero)**
+
+**Enviar a:** fquintero@grupomelo.com **Teléfono para seguimiento:** +507 277 3375 **Idioma:** Español **Asunto:** presencia de Empresas Melo en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn12search7.
+
+Hola Federico,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Empresas Melo, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Empresas Melo.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### CUBA
+
+#### **200\. Registro Cubano de Mascotas**
+
+**Enviar a:** contacto@mascotascuba.com **Teléfono para seguimiento:** +53 5 463 06 03 / +53 51001000 **Idioma:** Español **Asunto:** presencia de Registro Cubano de Mascotas en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría actor institucional / referencia sectorial. Confianza fuente: MEDIO. Origen: citeturn10search11.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Registro Cubano de Mascotas, vemos una oportunidad clara como actor institucional del sector: en **RedVet** podríamos articular comunicación dirigida a la comunidad clínica, y en **RedPet** apoyar campañas de educación o awareness hacia el propietario.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Registro Cubano de Mascotas.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **201\. De Cuba Son (A Emilia HS)**
+
+**Enviar a:** emiliahs90@nauta.cu **Teléfono para seguimiento:** 05 2928499 **Idioma:** Español **Asunto:** presencia de De Cuba Son en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: BAJO. Origen: citeturn17search9.
+
+Hola Emilia,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de De Cuba Son, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de De Cuba Son.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### REPÚBLICA DOMINICANA
+
+#### **202\. SALU División Veterinaria [PRIORIDAD ALTA]**
+
+**Enviar a:** salusrldv@gmail.com **Teléfono para seguimiento:** +1 809 442 0017 **Idioma:** Español **Asunto:** presencia de SALU División Veterinaria en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: BAJO. Origen: citeturn24search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de SALU División Veterinaria, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de SALU División Veterinaria.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **203\. Savanto SRL**
+
+**Enviar a:** info@savanto.com.do **Teléfono para seguimiento:** +1 809 222 5737 **Idioma:** Español **Asunto:** presencia de Savanto SRL en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn24search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Savanto SRL, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Savanto SRL.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **204\. Sonapec (A Rubén Rodriguez)**
+
+**Enviar a:** info@sonapec.com **Teléfono para seguimiento:** +1 809 566 1188 **Idioma:** Español **Asunto:** presencia de Sonapec en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn16search11.
+
+Hola Rubén,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Sonapec, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Sonapec.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **205\. Dopharma Dominicana**
+
+**Enviar a:** info@dopharmadominicana.com **Teléfono para seguimiento:** +1 809 580 9707 **Idioma:** Español **Asunto:** presencia de Dopharma Dominicana en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn24search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Dopharma Dominicana, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Dopharma Dominicana.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **206\. Petmarket.do**
+
+**Enviar a:** info@petmarket.do **Teléfono para seguimiento:** +1 809 793 9888 **Idioma:** Español **Asunto:** presencia de Petmarket.do en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn24search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Petmarket.do, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Petmarket.do.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### COLOMBIA
+
+#### **207\. AndVet [PRIORIDAD ALTA]**
+
+**Enviar a:** info@andvet.com **Teléfono para seguimiento:** (601) 610 1025 / 319 703 5642 **Idioma:** Español **Asunto:** presencia de AndVet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn7search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de AndVet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de AndVet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **208\. Paisagro S.A.S.**
+
+**Enviar a:** atencionalcliente@paisagro.com.co **Teléfono para seguimiento:** (601) 212 4715 / (606) 323 6030 **Idioma:** Español **Asunto:** presencia de Paisagro S.A.S. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn7search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Paisagro S.A.S., vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Paisagro S.A.S..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **209\. Veterlab**
+
+**Enviar a:** veterlab@veterlab.com.co **Teléfono para seguimiento:** (604) 322 1333 **Idioma:** Español **Asunto:** presencia de Veterlab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn7search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Veterlab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Veterlab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **210\. Laboratorio IDC Sanidad Veterinaria**
+
+**Enviar a:** administracion@laboratorioidc.com / gerencia@laboratorioidc.com **Teléfono para seguimiento:** +57 (601) 479 7519 / +57 314 297 2662 **Idioma:** Español **Asunto:** presencia de Laboratorio IDC Sanidad Veterinaria en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn7search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Laboratorio IDC Sanidad Veterinaria, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laboratorio IDC Sanidad Veterinaria.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **211\. Wild Nation [PRIORIDAD ALTA]**
+
+**Enviar a:** ventas@wildnation.com.co **Teléfono para seguimiento:** WA +57 317 092 1595 **Idioma:** Español **Asunto:** presencia de Wild Nation en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn5search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Wild Nation, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Wild Nation.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **212\. LMV SAS**
+
+**Enviar a:** info@lmv.com.co **Teléfono para seguimiento:** +57 (1) 746 7100 / +57 310 218 0757 **Idioma:** Español **Asunto:** presencia de LMV SAS en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn7search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de LMV SAS, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de LMV SAS.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **213\. Biodan Colombia**
+
+**Enviar a:** ventas@biodancolombia.com **Teléfono para seguimiento:** +57 1 821 8349 / +57 310 248 4308 **Idioma:** Español **Asunto:** presencia de Biodan Colombia en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn7search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Biodan Colombia, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Biodan Colombia.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **214\. Zoolab Colombia**
+
+**Enviar a:** sac@zoolabcolombia.com **Teléfono para seguimiento:** +57 313 377 6385 / (601) 704 4879 **Idioma:** Español **Asunto:** presencia de Zoolab Colombia en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn7search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Zoolab Colombia, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Zoolab Colombia.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### VENEZUELA
+
+#### **215\. DIVETECA (Representante exclusivo Vetco en Venezuela) — Kelly Echenagucia**
+
+**Enviar a:** info@diveteca.com **Teléfono para seguimiento:** +58 424 612 0568 / +58 424 230 6174 **Idioma:** Español **Asunto:** presencia de DIVETECA en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn25search0.
+
+**Seguimiento abril 2026:**
+- 20-abr: envío inicial a `info@diveteca.com`, thread `19dabc12ec1a0c5a`.
+- 21-abr: respuesta de **Kelly Echenagucia** (DIVETECA) redirigiendo a corporativo Vetco con CC a **Maryolie Nelson** (Sales Manager Vetco, `maryonelson@vetco-supply.com`) y **Yuri Benitez** (Finanzas/Management, `finanzas@management-corp.com`). Interpretaba RedVetAds como publicidad **global** y por eso lo escalaba fuera de Venezuela.
+- 21-abr: follow-up **reply-all** (Kelly TO; Maryolie + Yuri CC) aclarando el modelo **país por país** (DIVETECA solo pauta y paga Venezuela, sin derrame regional), datos reales VE vía GA4 (**5,252 usuarios acumulados, 5,183 descargas, 1,042 activos en 28 días, 1,962 sesiones, 14k+ eventos clínicos, 25+ ciudades** — peso en Caracas 1,506 / Valencia 644 / Maracaibo 360 / Barquisimeto 276). Posicionamiento: Venezuela = **~26% de la base global**, **segundo mercado después de México**. Tarifas en USD (Bronce 120 → Diamante 1,170; exclusividad +585), "socio fundador Venezuela" = flexibilidad de composición de superficies y categorías, piloto 4 semanas con reporte semanal por ciudad. Puerta abierta para Maryolie/Yuri a conversación multi-país (MX, CO, CL, PE, EC, AR). Msg Gmail `19db0d99aec75411`, thread `19dabc12ec1a0c5a`.
+
+**Contactos activos:**
+- Kelly Echenagucia — `info@diveteca.com` — DIVETECA, Venezuela (interlocutor principal local).
+- Maryolie Nelson — `maryonelson@vetco-supply.com` — Sales Manager, Vetco (corporativo regional, en CC).
+- Yuri Benitez — `finanzas@management-corp.com` — Finanzas / Management Vetco (en CC).
+
+**Próximo paso esperado:** respuesta de Kelly agendando Meet la próxima semana (esta estoy en el congreso de Puebla) o reacción de Maryolie/Yuri abriendo conversación multi-país. Si Kelly no responde en 5-7 días, reforzar por WhatsApp +58 424 612 0568.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de DIVETECA, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de DIVETECA.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **216\. Fess Food**
+
+**Enviar a:** ventas@fessfood.com **Teléfono para seguimiento:** +58 412 457 3097 **Idioma:** Español **Asunto:** presencia de Fess Food en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn25search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Fess Food, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Fess Food.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **217\. Agrodanca**
+
+**Enviar a:** info@agrodanca.com **Teléfono para seguimiento:** +58 414 758 1909 / +58 412 641 1355 **Idioma:** Español **Asunto:** presencia de Agrodanca en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn25search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agrodanca, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agrodanca.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **218\. Mediveb**
+
+**Enviar a:** info@mediveb.com **Teléfono para seguimiento:** +58 414 562 7696 / +58 414 562 7926 **Idioma:** Español **Asunto:** presencia de Mediveb en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn25search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Mediveb, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Mediveb.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **219\. Farmacéutica Mundial de Venezuela**
+
+**Enviar a:** administracion@farmuvenca.com **Teléfono para seguimiento:** 0241 8717406 / 0414 9493220 **Idioma:** Español **Asunto:** presencia de Farmacéutica Mundial de Venezuela en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn13search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Farmacéutica Mundial de Venezuela, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Farmacéutica Mundial de Venezuela.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### ECUADOR
+
+#### **220\. IMPOVET [PRIORIDAD ALTA]**
+
+**Enviar a:** info@impovet.com / ventas@impovet.com **Teléfono para seguimiento:** +593 9 9854 57733 / +593 2 247 2454 **Idioma:** Español **Asunto:** presencia de IMPOVET en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn5search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de IMPOVET, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de IMPOVET.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **221\. Vetelab**
+
+**Enviar a:** programacion@vetelab.com.ec / info@vetelab.com.ec **Teléfono para seguimiento:** +593 99 554 7496 / (02) 2316 722 **Idioma:** Español **Asunto:** presencia de Vetelab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn20search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetelab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetelab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **222\. Patvetec**
+
+**Enviar a:** patvetec.laboratoriovet@gmail.com **Teléfono para seguimiento:** +593 99 531 4403 **Idioma:** Español **Asunto:** presencia de Patvetec en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: BAJO. Origen: citeturn20search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Patvetec, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Patvetec.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **223\. Impvet**
+
+**Enviar a:** info@impvet.com.ec **Teléfono para seguimiento:** +593 4 602 0410 / +593 98 398 5102 **Idioma:** Español **Asunto:** presencia de Impvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn5search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Impvet, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Impvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **224\. InteAgroLands (A B. Mayorga)**
+
+**Enviar a:** bmayorga@inte-agrolands.com **Teléfono para seguimiento:** +593 98 543 1370 **Idioma:** Español **Asunto:** presencia de InteAgroLands en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn20search5.
+
+Hola Mayorga,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de InteAgroLands, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de InteAgroLands.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **225\. Senda**
+
+**Enviar a:** ventas@senda.ec **Teléfono para seguimiento:** (07) 287 0301 / 0984591445 **Idioma:** Español **Asunto:** presencia de Senda en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn20search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Senda, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Senda.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **226\. Diagnovet**
+
+**Enviar a:** info@diagnovet.com.ec **Teléfono para seguimiento:** 042 400 000 **Idioma:** Español **Asunto:** presencia de Diagnovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn20search9.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Diagnovet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Diagnovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **227\. GR Pharma Ecuador**
+
+**Enviar a:** grpharmaec@gmail.com **Teléfono para seguimiento:** (02) 242 4191 / (02) 242 1555 **Idioma:** Español **Asunto:** presencia de GR Pharma Ecuador en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: BAJO. Origen: citeturn20search10.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de GR Pharma Ecuador, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de GR Pharma Ecuador.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PERÚ
+
+#### **228\. ANIKLAB**
+
+**Enviar a:** laboratorio@aniklabperu.com **Teléfono para seguimiento:** +51 981 384 757 / 620 7925 **Idioma:** Español **Asunto:** presencia de ANIKLAB en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn8search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de ANIKLAB, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de ANIKLAB.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **229\. GMT [PRIORIDAD ALTA]**
+
+**Enviar a:** comercial@gmt.com.pe **Teléfono para seguimiento:** +51 941 569 391 **Idioma:** Español **Asunto:** presencia de GMT en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn8search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de GMT, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de GMT.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **230\. Inmunovet**
+
+**Enviar a:** informes@inmunovet.com.pe **Teléfono para seguimiento:** +51 923 320 888 **Idioma:** Español **Asunto:** presencia de Inmunovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn8search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Inmunovet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Inmunovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **231\. Imperlac**
+
+**Enviar a:** imperlac@imperlac.com **Teléfono para seguimiento:** +51 947 928 909 **Idioma:** Español **Asunto:** presencia de Imperlac en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn8search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Imperlac, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Imperlac.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **232\. Intervet.pe**
+
+**Enviar a:** servicioalcliente@intervet.pe **Teléfono para seguimiento:** +51 925 074 860 **Idioma:** Español **Asunto:** presencia de Intervet.pe en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn5search10.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Intervet.pe, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Intervet.pe.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **233\. Otarcruz S.A.**
+
+**Enviar a:** info@geneticaperuanasuperior.com **Teléfono para seguimiento:** +51 54 219490 / +51 959374855 **Idioma:** Español **Asunto:** presencia de Otarcruz S.A. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn8search11.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Otarcruz S.A., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Otarcruz S.A..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **234\. Pets and Rock**
+
+**Enviar a:** petsandrock@gmail.com **Teléfono para seguimiento:** 964 31 0600 **Idioma:** Español **Asunto:** presencia de Pets and Rock en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: BAJO. Origen: citeturn8search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Pets and Rock, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Pets and Rock.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### BOLIVIA
+
+#### **235\. PetLab**
+
+**Enviar a:** petlab.bo@gmail.com **Teléfono para seguimiento:** 65178501 / 70155990 **Idioma:** Español **Asunto:** presencia de PetLab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: BAJO. Origen: citeturn14search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de PetLab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de PetLab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **236\. Servi Insumos Bolivia Import Export**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +591 3 351 9952 / +591 708 31767 **Idioma:** Español **Asunto:** presencia de Servi Insumos Bolivia Import Export en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn14search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Servi Insumos Bolivia Import Export, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Servi Insumos Bolivia Import Export.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **237\. Agroservet**
+
+**Enviar a:** agservet@agroservet.com **Teléfono para seguimiento:** +591 62063104 **Idioma:** Español **Asunto:** presencia de Agroservet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn14search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Agroservet, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Agroservet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **238\. ISV - Insumos y Sanidad Veterinaria (A Grover Antonio Bilbao Briddy)**
+
+**Enviar a:** abilbao.isv@gmail.com **Teléfono para seguimiento:** +591 4 4752371 **Idioma:** Español **Asunto:** presencia de ISV - Insumos y Sanidad Veterinaria en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn14search6.
+
+Hola Grover,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de ISV - Insumos y Sanidad Veterinaria, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de ISV - Insumos y Sanidad Veterinaria.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **239\. Univet S.R.L. (A Ingrid Katherine Salvatierra Gutiérrez)**
+
+**Enviar a:** ingrid.salvatierra@univet.com.bo **Teléfono para seguimiento:** +591 3 3476853 **Idioma:** Español **Asunto:** presencia de Univet S.R.L. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn14search6.
+
+Hola Ingrid,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Univet S.R.L., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Univet S.R.L..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **240\. Vetplus S.R.L. (A Jhonny Jorge Ortiz Jaldin)**
+
+**Enviar a:** jorge.ortiz@vetplus.com.bo **Teléfono para seguimiento:** +591 4 4222428 **Idioma:** Español **Asunto:** presencia de Vetplus S.R.L. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: ALTO. Origen: citeturn14search6.
+
+Hola Jhonny,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Vetplus S.R.L., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Vetplus S.R.L..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### CHILE
+
+#### **241\. Citovet**
+
+**Enviar a:** contacto@citovet.cl **Teléfono para seguimiento:** +56 22 225 5695 / +56 22 274 8926 **Idioma:** Español **Asunto:** presencia de Citovet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn9search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Citovet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Citovet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **242\. Sedivet**
+
+**Enviar a:** contacto@sedivet.cl **Teléfono para seguimiento:** +56 9 7898 7848 / +56 2 2984 9633 **Idioma:** Español **Asunto:** presencia de Sedivet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn9search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Sedivet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Sedivet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **243\. Animalab**
+
+**Enviar a:** contacto@animalab.cl / administracion@animalab.cl **Teléfono para seguimiento:** (2) 2241 8556 / +56 9 9298 5156 **Idioma:** Español **Asunto:** presencia de Animalab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn9search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Animalab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Animalab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **244\. Analitica Lab**
+
+**Enviar a:** info@analiticalab.cl **Teléfono para seguimiento:** +56 9 73874523 / +56 9 76149480 **Idioma:** Español **Asunto:** presencia de Analitica Lab en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn9search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Analitica Lab, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Analitica Lab.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **245\. Induquimp**
+
+**Enviar a:** ventas@induquimp.cl **Teléfono para seguimiento:** +56 9 44341462 **Idioma:** Español **Asunto:** presencia de Induquimp en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn9search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Induquimp, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Induquimp.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **246\. Cafra**
+
+**Enviar a:** laboratorio@cafra.cl **Teléfono para seguimiento:** 65 2422930 / +56 9 9289 7925 **Idioma:** Español **Asunto:** presencia de Cafra en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn9search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Cafra, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Cafra.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### ARGENTINA
+
+#### **247\. Arcuri**
+
+**Enviar a:** info@arcurisa.com.ar **Teléfono para seguimiento:** 0810 222 0606 **Idioma:** Español **Asunto:** presencia de Arcuri en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn6search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Arcuri, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Arcuri.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **248\. Krönen**
+
+**Enviar a:** ventas@kronenvet.com.ar **Teléfono para seguimiento:** 0810 666 1155 / WA (221) 15 637 4218 **Idioma:** Español **Asunto:** presencia de Krönen en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn6search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Krönen, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Krönen.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **249\. Proagro**
+
+**Enviar a:** info@proagrolab.com.ar **Teléfono para seguimiento:** +54 341 4561001 / 4569944 **Idioma:** Español **Asunto:** presencia de Proagro en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn18search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Proagro, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Proagro.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **250\. FACYT**
+
+**Enviar a:** ventas@facyt.com.ar **Teléfono para seguimiento:** (0342) 489 9888 / (0342) 489 1410 **Idioma:** Español **Asunto:** presencia de FACYT en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn18search9.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de FACYT, vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de FACYT.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **251\. Equipavet**
+
+**Enviar a:** equipavetbaires@gmail.com **Teléfono para seguimiento:** +54 11 5765 3802 **Idioma:** Español **Asunto:** presencia de Equipavet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: BAJO. Origen: citeturn18search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Equipavet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Equipavet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **252\. BIOVET**
+
+**Enviar a:** contacto@biovet.site **Teléfono para seguimiento:** +54 9 291 5271587 / +54 9 291 5237784 **Idioma:** Español **Asunto:** presencia de BIOVET en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn18search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de BIOVET, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de BIOVET.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **253\. Argento Pet**
+
+**Enviar a:** argentopet@gmail.com **Teléfono para seguimiento:** +54 9 11 7610 4957 **Idioma:** Español **Asunto:** presencia de Argento Pet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: BAJO. Origen: citeturn18search2.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Argento Pet, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Argento Pet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **254\. ANIMALS**
+
+**Enviar a:** ventas@animals.com.ar **Teléfono para seguimiento:** +54 9 11 6027 8839 **Idioma:** Español **Asunto:** presencia de ANIMALS en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn18search4.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de ANIMALS, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de ANIMALS.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### URUGUAY
+
+#### **255\. MedicalVet [PRIORIDAD ALTA]**
+
+**Enviar a:** comercial@medicalvet.com.uy **Teléfono para seguimiento:** +598 2628 1916 / +598 98 142256 **Idioma:** Español **Asunto:** presencia de MedicalVet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn22search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de MedicalVet, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de MedicalVet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **256\. Laika Uruguay**
+
+**Enviar a:** info@laika.com.uy **Teléfono para seguimiento:** 093 708 800 **Idioma:** Español **Asunto:** presencia de Laika Uruguay en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn22search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Laika Uruguay, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laika Uruguay.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **257\. Deribal**
+
+**Enviar a:** admvtas@deribal.com.uy **Teléfono para seguimiento:** 0800 8575 / WA 092 567 486 **Idioma:** Español **Asunto:** presencia de Deribal en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn22search3.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Deribal, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Deribal.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **258\. TRM Pet Uruguay**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** 095 764 038 **Idioma:** Español **Asunto:** presencia de TRM Pet Uruguay en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn22search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de TRM Pet Uruguay, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de TRM Pet Uruguay.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **259\. Laboratorio Uruguay S.A.**
+
+**Enviar a:** info@laburuguay.com.uy **Teléfono para seguimiento:** +598 2 6192945 **Idioma:** Español **Asunto:** presencia de Laboratorio Uruguay S.A. en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría laboratorio farmacéutico. Confianza fuente: MEDIO. Origen: citeturn13search6.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Laboratorio Uruguay S.A., vemos una oportunidad clara porque no toda la comunicación encaja en el mismo canal. En **RedPet** podríamos trabajar recordatorios y mensajes preventivos hacia el propietario, mientras que en **RedVet** la línea más clínica y de prescripción se activa justo cuando el médico define el tratamiento dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Laboratorio Uruguay S.A..
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **260\. Servivet**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** 2208 3333 **Idioma:** Español **Asunto:** presencia de Servivet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: BAJO. Origen: citeturn22search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Servivet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Servivet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+### PARAGUAY
+
+#### **261\. Nuvetec**
+
+**Enviar a:** nuvetec@nuvetec.com.py **Teléfono para seguimiento:** +595 983 500542 **Idioma:** Español **Asunto:** presencia de Nuvetec en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn21search0.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Nuvetec, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Nuvetec.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **262\. Ruralvet**
+
+**Enviar a:** info@ruralvet.com.py **Teléfono para seguimiento:** +595 972 680 021 **Idioma:** Español **Asunto:** presencia de Ruralvet en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn21search7.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Ruralvet, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Ruralvet.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **263\. VetSolutions**
+
+**Enviar a:** [Sin correo válido — rebotó 2026-04-20] **Teléfono para seguimiento:** +595 981160024 **Idioma:** Español **Asunto:** presencia de VetSolutions en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: MEDIO. Origen: citeturn21search1.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de VetSolutions, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de VetSolutions.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **264\. VetLab Paraguay**
+
+**Enviar a:** info@vetlab.com.py **Teléfono para seguimiento:** 0982319373 **Idioma:** Español **Asunto:** presencia de VetLab Paraguay en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría equipo médico y diagnóstico. Confianza fuente: MEDIO. Origen: citeturn13search5.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de VetLab Paraguay, vemos una oportunidad clara dentro de **RedVet**, justo en el momento en que el médico evalúa equipos, pruebas o herramientas de apoyo diagnóstico, donde la decisión de inversión la toma directamente la clínica. En **RedPet** podemos reforzar la confianza del propietario cuando el resultado o procedimiento se comparte con él.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de VetLab Paraguay.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **265\. Paraguay Insumos**
+
+**Enviar a:** py.insumos@gmail.com **Teléfono para seguimiento:** +595 21 647022 / 647457 **Idioma:** Español **Asunto:** presencia de Paraguay Insumos en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría insumos clínicos / distribución. Confianza fuente: BAJO. Origen: citeturn21search9.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Paraguay Insumos, vemos una oportunidad clara dentro de **RedVet**, cuando el responsable de compras o el médico están decidiendo sobre abastecimiento e insumos del día a día clínico, con presencia directa en el punto donde se toman esas decisiones.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Paraguay Insumos.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+#### **266\. Cat Chow Paraguay**
+
+**Enviar a:** atencion.alconsumidor@py.nestle.com **Teléfono para seguimiento:** WA 0992 208090 **Idioma:** Español **Asunto:** presencia de Cat Chow Paraguay en RedVetAds
+
+**Nota de origen:** Deep research abril 2026 (parte 2). Categoría alimentos y nutrición. Confianza fuente: MEDIO. Origen: citeturn21search8.
+
+Hola,
+
+Soy el Ing. Rafael Rodriguez Nadal, fundador de RedRed.
+Desarrollamos un ecosistema para la gestión de clínicas veterinarias multiplataforma.
+**RedVet**, la app para clínicas veterinarias donde se registran consultas, vacunas, pruebas, diagnósticos, cirugías e historial clínico.
+**RedPet**, la app para propietarios de mascotas donde tienen todo el historial y lo pueden compartir con otras clínicas de la red.
+**RedTPV**, que cubre la parte financiera y de caja.
+
+Hoy ya contamos con una base real de uso y medición publicitaria dentro de la plataforma, con más de **18,000 descargas profesionales** y alrededor de **25,000 impactos visuales al mes**.
+Por nuestro rápido crecimiento estamos tomando una decisión estratégica: evolucionar de una lógica de publicidad general, como la que hoy existe, hacia una publicidad más especializada para el ecosistema veterinario y mucho más alineada al tipo de marca que queremos integrar.
+
+Lo que estamos construyendo para marcas no es publicidad genérica, sino una presencia directa en la clínica justo en el momento de decisiones en el tratamiento.
+
+En el caso de Cat Chow Paraguay, vemos una oportunidad especialmente interesante porque no todo el portafolio tendría que comunicarse igual. En **RedPet** puede ser el alimento de mantenimiento dirigido al propietario, mientras que en **RedVet** lo natural sería trabajar las líneas medicadas y especializadas que el médico recomienda dentro de la consulta.
+
+Queremos explorar con ustedes un piloto fundador de 4 semanas, no como un paquete rígido, sino como una primera configuración construida sobre nuestra base comercial actual y adaptada a las necesidades de Cat Chow Paraguay.
+
+En [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) puedes revisar una información más detallada y los paquetes que hoy tenemos para que te puedas dar una idea.
+
+Si te parece, con gusto puedo enviarte una propuesta ejecutiva muy breve o, si lo prefieres, retomamos una llamada de 10 minutos cuando te acomode.
+
+Quedo atento.
+
+Saludos,
+Ing. Rafael Rodriguez Nadal.
+
+## ---
+
+**VI. SEGUIMIENTO ESTRATÉGICO (DÍA 3\)**
+
+### **Follow-up por Correo (Respuesta al primer mail)**
+
+**Asunto:** Re: \[Mismo asunto anterior\]
+
+Hola,
+
+Solo quería dar seguimiento a mi correo anterior sobre la posibilidad de trabajar una presencia de marca dentro de **RedVet**.
+
+Actualmente estamos organizando los espacios para los **pilotos de 4 semanas** por categoría y pensé que podría ser relevante para su equipo revisarlo a tiempo.
+
+Si te parece, con gusto te envío una propuesta ejecutiva de una página o lo vemos en una llamada breve de 10 minutos.
+
+Quedo pendiente,  
+Ing. Rafael Rodriguez Nadal.
+
+### **WhatsApp de Seguimiento (Día 3 o 4\)**
+
+**Utilizar el número de teléfono indicado en los encabezados.**
+
+"Hola **\[Nombre\]**, soy el Ing. Rafael Rodriguez Nadal de **RedVet**. Te escribí un correo con una propuesta para que **\[Marca\]** tenga presencia dentro del flujo de decisión clínica de nuestra plataforma. Hoy **RedVet** suma más de 16,000 descargas profesionales en México. Te comparto una explicación rápida aquí: [https://redredsg.com/redvet-ads.html](https://redredsg.com/redvet-ads.html) Si te parece, te envío una propuesta breve o lo vemos en una llamada de 10 minutos. Saludos."2
+
+## ---
+
+**VII. PENDIENTES ACTIVOS (snapshot 21-abr-2026)**
+
+Pendientes operativos abiertos tras la sesión de 21-abr-2026. Revisar al retomar el flujo comercial.
+
+### **1. Wildlife Pharmaceuticals — descartar formalmente**
+
+- **Motivo:** tras revisión de perfil, **no aplica al target de RedVetAds**. Su portafolio es principalmente de fauna silvestre / vida salvaje, no clínica veterinaria de compañía que es el núcleo de RedVet/RedPet. No tiene sentido sostener la prospección ni un follow-up.
+- **Acción pendiente:** marcar la entrada correspondiente en este directorio como `DESCARTADO — fuera de target (fauna silvestre)` en la fila/entrada de Wildlife Pharmaceuticals (si existe listada; si no, omitir).
+- **Estado:** no enviar nada. No re-abrir sin un cambio de portafolio por su parte.
+
+### **2. Recordatorios 5-7 días — auto-tickets sin respuesta humana**
+
+Empresas que respondieron con ticket automático o acuse, sin intervención humana posterior. Si al vencer el plazo no hay respuesta real, reforzar por canal alternativo (teléfono/WhatsApp/formulario web).
+
+| Empresa | Contacto | Último contacto | Vence (5-7d) | Canal de refuerzo |
+|---|---|---|---|---|
+| ERMA (Argentina) | Daniel — auto-ticket | ~20-abr | 26-abr a 28-abr | Teléfono / WhatsApp registrado en ficha ERMA |
+| Nestlé Paraguay | Auto-ticket | ~20-abr | 26-abr a 28-abr | Canal comercial corporativo Nestlé PY |
+| Farmina Pet Care | Auto-ticket | ~20-abr | 26-abr a 28-abr | Formulario web + LinkedIn marketing regional |
+| Gabrica (Colombia) | `servicioalcliente@gabrica.com.co` | ~20-abr | 26-abr a 28-abr | WhatsApp +57 317 310 0715 |
+| Royal Canin Argentina | Auto-ticket SAC | ~20-abr | 26-abr a 28-abr | 0-800-333-76925 / LinkedIn marketing AR |
+| Royal Canin Chile | Auto-ticket SAC | ~20-abr | 26-abr a 28-abr | Canal SAC CL / LinkedIn marketing CL |
+
+**Acción:** en la próxima sesión, revisar la bandeja para estas 6 empresas. Si siguen sin respuesta humana al día 5-7, ejecutar el refuerzo por el canal indicado.
+
+### **3. Vetco corporativo — conversación multi-país (opcional, en cola)**
+
+- **Contexto:** en el hilo reply-all enviado a DIVETECA/Venezuela el 21-abr (ver entry #215), quedó abierta la puerta a **Maryolie Nelson** (Sales Manager Vetco, `maryonelson@vetco-supply.com`) y **Yuri Benitez** (Finanzas/Management, `finanzas@management-corp.com`) para un plan regional multi-país (MX, CO, CL, PE, EC, AR).
+- **Estado:** no accionar en caliente. Si Maryolie responde al hilo de Kelly pidiendo la conversación regional, se abre un hilo aparte con propuesta multi-país agregada. Si no hay reacción en ~2 semanas, evaluar enviar ping proactivo con datos globales.
+- **Acción pendiente:** *no tomar acción unilateral ahora*. Monitorear el hilo `19dabc12ec1a0c5a`.
+
+### **4. Fix técnico — stream RedVet mal configurado (bloqueador de reporting por app)**
+
+- **Contexto:** GA4 actualmente mezcla eventos de RedVet dentro del stream `redpet` (ver `accesoAnalytics.md`, sección advertencia). Por eso en los correos comerciales (Ignacio/Chile, Kelly/Venezuela, Francesco/Perú) hablamos de "usuarios / descargas profesionales" a nivel genérico, sin split RedVet vs RedPet.
+- **Acción pendiente (lado Flutter):** corregir la configuración Firebase en el build de RedVet para que sus eventos vayan al stream correcto:
+  - Android: `11412248515`
+  - iOS: `11412267911`
+- **Impacto comercial:** hasta que se corrija, no podemos vender paquetes que diferencien "solo MVs" vs "solo propietarios" con datos limpios. Los reportes semanales del piloto fundador se entregan a nivel app genérico.
+- **Estado:** tarea técnica, no comercial.
+
+### **5. Follow-ups programados — estado**
+
+- **Dianny Rodríguez (Lab. Referencia, VE):** follow-up programado vía `launchd` para **4-mayo-2026 10:00**. Script en `Marketing and Email/_scheduled/sendFollowUpDianny.py`, agente `~/Library/LaunchAgents/com.redredsg.followup-dianny.plist`. Auto-unload tras éxito. Ver también `seguimientoRebotesAbril2026.md`.
+
+---
+
+**Nota de cierre de sesión (21-abr-2026):** todos los correos de alta prioridad del batch de abril están enviados. El flujo queda pausado hasta retomar — ver esta sección para recuperar el estado exacto en la próxima sesión.
+
+#### **Obras citadas**
+
+1. Zoetis Releases New Implant Applicator Exact10, fecha de acceso: abril 5, 2026, [https://www.zoetisus.com/news-and-media/zoetis-releases-new-implant-applicator-exact10.aspx](https://www.zoetisus.com/news-and-media/zoetis-releases-new-implant-applicator-exact10.aspx)  
+2. propuesta patrocinadores 2026 v1.pdf

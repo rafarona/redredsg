@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soporte Técnico RedRed Soluciones de Gestión</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+        
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+            border-bottom: 1px solid #dce4ef;
+            backdrop-filter: blur(10px);
+        }
+        
+        @media (max-width: 768px) {
+            header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+        
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+        
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+        
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        nav ul li a:hover {
+            color: var(--secondary-color);
+        }
+        
+        .support-page {
+            padding: 6rem 0 2.5rem;
+        }
+
+        .support-shell {
+            width: min(1180px, 92%);
+            margin: 0 auto;
+        }
+
+        .support-hero {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 18px;
+            box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
+            padding: 2rem 1.5rem;
+            text-align: center;
+            margin-bottom: 1.2rem;
+        }
+
+        .support-hero h1 {
+            font-size: clamp(2rem, 3.5vw, 3rem);
+            line-height: 1.05;
+            letter-spacing: -0.03em;
+            margin-bottom: 0.8rem;
+            color: #0f172a;
+        }
+
+        .support-hero p {
+            color: #475569;
+            font-size: 1.05rem;
+            max-width: 840px;
+            margin: 0.55rem auto;
+        }
+
+        .support-channels {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .channel-card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 16px;
+            box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);
+            padding: 1.2rem;
+        }
+
+        .channel-card h3 {
+            font-size: 1.35rem;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.45rem;
+            color: #0f172a;
+        }
+
+        .channel-card p {
+            color: #475569;
+            margin-bottom: 0.7rem;
+        }
+
+        .channel-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
+            text-decoration: none;
+            font-weight: 700;
+            border-radius: 10px;
+            padding: 0.6rem 0.9rem;
+            border: 1px solid #cdd9ea;
+            background: #f8fbff;
+            color: #0f172a;
+        }
+
+        .channel-link:hover {
+            border-color: #dc1a22;
+            background: #fff5f5;
+        }
+
+        .channel-link.whatsapp { color: #1d7f42; border-color: #b8e5c8; background: #f3fff7; }
+        .channel-link.whatsapp:hover { border-color: #25d366; background: #eafff1; }
+
+        .support-qr {
+            margin-top: 0.9rem;
+            width: 150px;
+            height: 150px;
+            border-radius: 10px;
+            border: 1px solid #e2e8f0;
+            background: #ffffff;
+            padding: 6px;
+            display: block;
+        }
+
+        .support-faq {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .faq-card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 16px;
+            box-shadow: 0 12px 26px rgba(15, 23, 42, 0.06);
+            padding: 1.2rem;
+        }
+
+        .faq-card h4 {
+            color: #dc1a22;
+            margin-bottom: 0.45rem;
+            font-size: 1.15rem;
+        }
+
+        .faq-card p {
+            color: #475569;
+            line-height: 1.6;
+        }
+        
+        .support-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background-color: rgba(255, 255, 255, 0.92);
+            border-radius: 14px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        
+        .support-header h1 {
+            font-size: 2.5rem;
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .support-header .app-logo {
+            margin: 0 auto 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .support-header .app-logo img {
+            max-width: 80px;
+            height: auto;
+        }
+        
+        .support-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .support-card {
+            background-color: rgba(255, 255, 255, 0.92);
+            padding: 2rem;
+            border-radius: 14px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: transform 0.3s;
+        }
+        
+        .support-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .support-card h3 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+        
+        .support-card .icon {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .contact-form {
+            background-color: rgba(255, 255, 255, 0.92);
+            padding: 2rem;
+            border-radius: 14px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        .form-container {
+            overflow: hidden;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        .form-container iframe {
+            border-radius: 10px;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: opacity 0.3s ease;
+            min-height: 1200px;
+            border: none;
+            height: 1200px;
+        }
+        
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 0.8rem;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+        
+        .form-group input:focus,
+        .form-group textarea:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+        
+        .form-group textarea {
+            height: 120px;
+            resize: vertical;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            background-color: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s;
+            font-size: 1rem;
+        }
+        
+        .btn:hover {
+            background-color: #c1121f;
+            transform: translateY(-2px);
+        }
+        
+        .contact-info {
+            background-color: var(--light-color);
+            padding: 2rem;
+            border-radius: 14px;
+            text-align: center;
+        }
+        
+        .contact-info h3 {
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .contact-item {
+            margin: 1rem 0;
+            font-size: 1.1rem;
+        }
+        
+        .contact-item i {
+            color: var(--primary-color);
+            margin-right: 0.5rem;
+        }
+        
+        footer {
+            background-color: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 3rem;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+        
+        .back-link {
+            text-align: center;
+            margin: 2rem 0;
+        }
+        
+        .back-link a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+            
+            nav ul {
+                margin-top: 1rem;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+            
+            nav ul li {
+                margin: 0.5rem 0.8rem;
+            }
+            
+            .support-header {
+                padding-top: 12rem;
+            }
+            
+            .support-header h1 {
+                font-size: 2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .support-header p {
+                font-size: 1rem;
+                line-height: 1.6;
+            }
+            
+            .support-page {
+                padding: 7rem 0 2rem;
+            }
+            .support-channels,
+            .support-faq {
+                grid-template-columns: 1fr;
+            }
+            
+            .support-cards {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .support-card {
+                padding: 1.5rem;
+            }
+            
+            .form-container {
+                padding: 0;
+                margin: 0;
+                width: 100%;
+            }
+            
+            .form-container iframe {
+                height: 950px;
+                border-radius: 0;
+                width: 100%;
+                display: block;
+            }
+            
+            .contact-form {
+                padding: 1rem 0;
+                margin: 0;
+                width: 100%;
+            }
+            
+            .form-group {
+                margin-bottom: 1.5rem;
+            }
+            
+            .contact-info {
+                padding: 1.5rem;
+            }
+        }
+        
+        /* Pantallas grandes (Desktop) */
+        @media (min-width: 1024px) {
+            .form-container iframe {
+                height: 1400px;
+                min-height: 1400px;
+            }
+        }
+        
+        /* Pantallas extra pequeñas */
+        @media (max-width: 480px) {
+            .support-page {
+                padding: 7rem 0 2rem;
+            }
+            
+            .contact-form {
+                padding: 0.5rem 0;
+                border-radius: 0;
+                width: 100vw;
+                margin: 0;
+                box-sizing: border-box;
+            }
+            
+            .form-container {
+                padding: 0;
+                width: 100%;
+                margin: 0;
+            }
+            
+            .form-container iframe {
+                height: 1100px;
+                border-radius: 0;
+                width: 100%;
+                margin: 0;
+                padding: 0;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <main class="support-page">
+      <div class="support-shell">
+        <section class="support-hero">
+          <h1><span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span> Soporte</h1>
+          <p>Soporte para <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>, <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> y <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span>.</p>
+          <p>Si quieres una respuesta rápida, escríbenos por WhatsApp. Si prefieres, también te atendemos por email.</p>
+        </section>
+
+        <section class="support-channels">
+          <article class="channel-card">
+            <h3><i class="fab fa-whatsapp"></i> WhatsApp (respuesta rápida)</h3>
+            <p>Atención directa para incidencias, dudas operativas y seguimiento de casos.</p>
+            <a class="channel-link whatsapp" href="https://wa.me/522298882617" target="_blank" rel="noopener">WhatsApp +52 229 888 2617</a>
+            <img class="support-qr" src="/images/landing-nueva/contacto-whatsapp-qr.png" alt="QR WhatsApp Soporte RedRed">
+          </article>
+
+          <article class="channel-card">
+            <h3><i class="fas fa-envelope"></i> Email</h3>
+            <p>Para consultas detalladas, documentos o solicitudes no urgentes.</p>
+            <a class="channel-link" href="mailto:info@redredsg.com">info@redredsg.com</a>
+          </article>
+        </section>
+
+        <section class="support-faq">
+          <article class="faq-card">
+            <h4>Preguntas frecuentes</h4>
+            <p>Te ayudamos con acceso, sincronización, cuentas, funcionalidades y configuración inicial.</p>
+          </article>
+          <article class="faq-card">
+            <h4>Problemas técnicos</h4>
+            <p>Si detectas errores en la app o comportamiento inesperado, envíanos capturas y pasos para reproducir.</p>
+          </article>
+          <article class="faq-card">
+            <h4>Privacidad y seguridad</h4>
+            <p>Resolvemos dudas sobre gestión de datos, permisos, seguridad y políticas de privacidad.</p>
+          </article>
+          <article class="faq-card">
+            <h4>Sugerencias de mejora</h4>
+            <p>Escuchamos tu feedback para seguir mejorando el ecosistema de productos en cada versión.</p>
+          </article>
+        </section>
+
+      </div>
+    </main>
+
+      <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        // Header scroll behavior for mobile devices
+        let lastScrollTop = 0;
+        const header = document.querySelector('header');
+        const scrollThreshold = 100; // Minimum scroll distance to trigger hide/show
+
+        function handleScroll() {
+            // Only apply on mobile devices
+            if (window.innerWidth <= 768) {
+                const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                // Only trigger after minimum scroll
+                if (Math.abs(scrollTop - lastScrollTop) > 5) {
+                    if (scrollTop > lastScrollTop && scrollTop > scrollThreshold) {
+                        // Scrolling down - hide header
+                        header.classList.add('header-hidden');
+                    } else {
+                        // Scrolling up - show header
+                        header.classList.remove('header-hidden');
+                    }
+                }
+                
+                lastScrollTop = scrollTop;
+            } else {
+                // Always show header on desktop
+                header.classList.remove('header-hidden');
+            }
+        }
+
+        // Add scroll event listener with throttling
+        let ticking = false;
+        window.addEventListener('scroll', function() {
+            if (!ticking) {
+                requestAnimationFrame(handleScroll);
+                ticking = true;
+            }
+            ticking = false;
+        });
+
+        // Handle resize events
+        window.addEventListener('resize', function() {
+            if (window.innerWidth > 768) {
+                header.classList.remove('header-hidden');
+            }
+        });
+
+        // Cookie banner
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function() {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    </script>
+</body>
+</html> 

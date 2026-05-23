@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía para digitalizar una clínica veterinaria en 2026 | RedRed SG</title>
+    <meta name="description" content="Guía práctica para digitalizar una clínica veterinaria en 2026: pasos recomendados, herramientas, errores frecuentes y plan de implantación gradual.">
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--primary-color);
+        }
+
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+
+        .logo h1 {
+            font-size: 1.6rem;
+            margin-left: 0.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 1.5rem 4rem;
+        }
+
+        h1 {
+            font-size: 2.4rem;
+            margin-bottom: 1rem;
+            color: var(--secondary-color);
+            text-align: center;
+        }
+
+        .article-intro {
+            font-size: 1.1rem;
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            text-align: justify;
+        }
+
+        h2 {
+            font-size: 1.7rem;
+            margin: 2.5rem 0 1rem;
+            color: var(--secondary-color);
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            margin: 1.8rem 0 0.6rem;
+            color: var(--primary-color);
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin: 0 0 1.5rem 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        .highlight-box {
+            background: #ffffff;
+            border-left: 4px solid var(--primary-color);
+            padding: 1.2rem 1.4rem;
+            margin: 2rem 0;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        footer {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        footer a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+
+            nav ul {
+                margin-top: 0.5rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            nav ul li {
+                margin: 0.3rem 0.8rem;
+            }
+
+            main {
+                padding: 9rem 1rem 3rem;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+<main>
+    <h1>Guía para digitalizar una clínica veterinaria en 2026</h1>
+    <p class="article-intro">
+        Digitalizar una clínica veterinaria ya no es una opción “para más adelante”, sino una necesidad para seguir siendo
+        competitivos, ofrecer una buena experiencia a los propietarios y garantizar la trazabilidad de la información clínica.
+        Esta guía reúne pasos prácticos y ejemplos concretos para ayudarte a planificar la transformación digital de tu centro,
+        evitando errores habituales y aprovechando mejor tus recursos.
+    </p>
+
+    <h2>1. Por qué merece la pena digitalizar tu clínica</h2>
+    <p>
+        Muchas clínicas siguen trabajando con una mezcla de papel, hojas de cálculo y programas antiguos que no se hablan entre sí.
+        A corto plazo puede parecer más sencillo “seguir como siempre”, pero a medio plazo se traduce en problemas claros:
+        pérdida de tiempo buscando datos, errores en cobros, dificultad para analizar resultados y una experiencia irregular
+        para los propietarios de las mascotas.
+    </p>
+    <p>
+        La digitalización bien planteada aporta beneficios en tres frentes:
+    </p>
+    <ul>
+        <li><strong>Eficiencia interna:</strong> menos procesos manuales repetitivos y más tiempo para la parte clínica.</li>
+        <li><strong>Calidad asistencial:</strong> historiales completos, accesibles y legibles que facilitan mejores decisiones médicas.</li>
+        <li><strong>Relación con el cliente:</strong> recordatorios, comunicación fluida y confianza al ver que la clínica está organizada.</li>
+    </ul>
+
+    <div class="highlight-box">
+        <p><strong>Idea clave:</strong> digitalizar no es “poner un programa nuevo en recepción”, sino revisar el flujo completo
+            desde que el cliente pide una cita hasta que sale con su factura y el plan de seguimiento claro.</p>
+    </div>
+
+    <h2>2. Analiza cómo funciona hoy tu clínica</h2>
+    <p>
+        Antes de elegir herramientas, conviene entender cómo trabajáis actualmente. Un pequeño “mapa de procesos” te ayudará
+        a detectar los cuellos de botella y decidir qué digitalizar primero.
+    </p>
+
+    <h3>2.1 Recepción y agenda</h3>
+    <p>
+        Anota cómo se registran las citas: ¿por teléfono en una libreta?, ¿en una hoja de cálculo?, ¿en un calendario compartido?.
+        ¿Se confirman las citas? ¿Se pierden huecos porque alguien olvidó llamar a un cliente? Esta parte es clave porque es la
+        puerta de entrada de la clínica.
+    </p>
+
+    <h3>2.2 Consulta y registro clínico</h3>
+    <p>
+        Revisa cómo se anotan los motivos de consulta, exploraciones, diagnósticos, tratamientos y pruebas. Si parte de la
+        información está en papel y otra parte en archivos dispersos, la digitalización te permitirá unificarla en un historial
+        estructurado, fácil de revisar y de compartir con el propietario cuando sea necesario.
+    </p>
+
+    <h3>2.3 Cobro y facturación</h3>
+    <p>
+        Evalúa cómo se gestionan los cobros, qué herramientas se utilizan para facturas, si se registran todas las ventas y si
+        es sencillo saber cuánto se ha facturado en un periodo concreto. Un buen sistema de punto de venta evita fugas de
+        facturación y da visibilidad sobre los servicios que más valor aportan.
+    </p>
+
+    <h2>3. Elegir las herramientas adecuadas</h2>
+    <p>
+        Una vez que tienes claro qué procesos quieres mejorar, llega el momento de seleccionar las herramientas. No se trata
+        de tener “muchas apps”, sino de escoger soluciones que cubran bien necesidades concretas y puedan trabajar juntas.
+    </p>
+
+    <h3>3.1 Gestión clínica</h3>
+    <p>
+        Necesitarás una plataforma que permita registrar historiales clínicos completos, gestionar citas, vacunas y
+        tratamientos, y trabajar cómodamente con todo el equipo. Una herramienta como RedVet está pensada precisamente para
+        este tipo de flujo, con campos adaptados al entorno veterinario y opciones de colaboración entre profesionales.
+    </p>
+
+    <h3>3.2 Punto de venta e inventario</h3>
+    <p>
+        La parte económica de la clínica no puede quedar desconectada de la información clínica. Un TPV específico para
+        entornos sanitarios, como RedTPV, ayuda a registrar ventas de servicios y productos, controlar el stock y obtener
+        informes de facturación sin necesidad de hojas de cálculo externas.
+    </p>
+
+    <h3>3.3 Comunicación con propietarios</h3>
+    <p>
+        Cada vez más clientes esperan poder consultar la información de sus mascotas desde el móvil. Aplicaciones como RedPet
+        facilitan que el propietario lleve su propio registro y comparta datos con la clínica de forma segura, mejorando la
+        adherencia a tratamientos y citas.
+    </p>
+
+    <h2>4. Errores frecuentes al digitalizar una clínica</h2>
+    <p>
+        La digitalización puede fracasar si no se planifica bien. Algunos errores habituales son:
+    </p>
+    <ul>
+        <li><strong>Intentar cambiarlo todo a la vez:</strong> genera rechazo en el equipo y sensación de caos.</li>
+        <li><strong>No implicar al personal:</strong> si solo una persona entiende el sistema, se convierte en un cuello de botella.</li>
+        <li><strong>No limpiar los datos antiguos:</strong> migrar información desordenada hace que el nuevo sistema parezca confuso desde el primer día.</li>
+        <li><strong>No asignar responsables:</strong> sin alguien que lidere cada área (agenda, clínica, TPV) es fácil que el proyecto se diluya.</li>
+    </ul>
+
+    <div class="highlight-box">
+        <p><strong>Recomendación:</strong> empieza con un área concreta (por ejemplo, la gestión de citas) y consolida el uso
+            antes de pasar al siguiente módulo. Es mejor avanzar por fases que intentar abarcar todo de golpe.</p>
+    </div>
+
+    <h2>5. Diseña un plan de implantación gradual</h2>
+    <p>
+        Un plan sencillo en fases te ayudará a mantener el rumbo y medir resultados. Un ejemplo podría ser:
+    </p>
+    <ol>
+        <li><strong>Fase 1 – Agenda y recepción:</strong> formar al personal de recepción, migrar la agenda, establecer reglas de uso y revisar la satisfacción del equipo.</li>
+        <li><strong>Fase 2 – Historiales clínicos:</strong> comenzar a registrar todas las consultas nuevas en el sistema, dejando los historiales antiguos en papel pero accesibles.</li>
+        <li><strong>Fase 3 – TPV e inventario:</strong> configurar artículos, impuestos y categorías, y empezar a registrar las ventas del día a día en el TPV.</li>
+        <li><strong>Fase 4 – Conexión con propietarios:</strong> ofrecer a los clientes la posibilidad de usar una app como RedPet y explicarles los beneficios.</li>
+    </ol>
+
+    <h2>6. Formación y seguimiento del equipo</h2>
+    <p>
+        Ninguna herramienta funciona bien sin personas que la entiendan y la utilicen con confianza. Reserva tiempo para
+        formar a tu equipo, prepara pequeños manuales internos y anima a que compartan dudas y sugerencias. Establecer
+        revisiones periódicas (por ejemplo, cada mes durante los primeros seis meses) permitirá ajustar procesos y detectar
+        mejoras.
+    </p>
+    <p>
+        Recuerda que la transformación digital es un proceso continuo: a medida que tu clínica crece y cambian las
+        necesidades, podrás incorporar nuevas funcionalidades o integrar soluciones adicionales sin perder lo que ya has
+        construido.
+    </p>
+
+    <h2>7. Conclusión</h2>
+    <p>
+        Digitalizar una clínica veterinaria en 2026 es una inversión en tiempo, organización y calidad asistencial. Al
+        analizar tus procesos, elegir herramientas adecuadas y avanzar por fases, puedes reducir el estrés diario, ofrecer
+        un mejor servicio a los propietarios y contar con información fiable para tomar decisiones. El objetivo final no es
+        “tenerlo todo en una pantalla”, sino que la tecnología trabaje a tu favor y te permita centrarte en lo que realmente
+        importa: el bienestar de tus pacientes.
+    </p>
+</main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+<div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner-content">
+        <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+        <button type="button" id="cookieAccept">Aceptar</button>
+    </div>
+</div>
+<script>
+    (function(){
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function () {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    })();
+</script>
+</body>
+</html>
+

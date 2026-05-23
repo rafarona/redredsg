@@ -1,0 +1,405 @@
+{
+  "summary": {
+    "total_inbox": 12,
+    "positive": 5,
+    "negative": 1,
+    "out_of_office": 2,
+    "neutral": 4,
+    "threads_with_self_reply": 29
+  },
+  "positive": [
+    {
+      "id": "19dacde3eeb06950",
+      "threadId": "19dabbb50e76d5bb",
+      "date": "Mon, 20 Apr 2026 21:48:55 +0000 (UTC)",
+      "from": "<dffuertes@laberma.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Re: presencia de Laboratorios ERMA en RedVetAds",
+      "snippet": "Ing muy buen di te agardezco la info Obtener Outlook para Android De: Ing. Rafael Rodriguez Nadal &lt;info@redredsg.com&gt; Enviado: lunes, abril 20, 2026 11:31:16 am Para: dffuertes@laberma.com &lt;",
+      "category": "pos",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dacc957de9c9a9",
+      "threadId": "19dabbce60693880",
+      "date": "Mon, 20 Apr 2026 21:25:57 +0000",
+      "from": "Igor Pelaez <ipelaez@phartecperu.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "RE: presencia de Phartec-Vetanco Perú en RedVetAds",
+      "snippet": "Hola buenas tardes, remito correo a Francesco Wong, nuestro Jefe de marketing, a fin que canalice la respuesta sobre nuestro interés. Atte. Ing. Igor Pelaez Cáceres Gerente Division Veterinaria ( +01",
+      "category": "pos",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dac55467147d72",
+      "threadId": "19dabbc29c238de4",
+      "date": "Mon, 20 Apr 2026 16:19:06 -0300",
+      "from": "Fernando <fernando@munozvet.com.ar>",
+      "to": "\"'Ing. Rafael Rodriguez Nadal'\" <info@redredsg.com>",
+      "subject": "RE: presencia de Dist. Muñoz en RedVetAds",
+      "snippet": "Buenas tardes Rafael. En principio me emociono mucho que me escriba Rafa Nadal, Jaja. Se ve interesante. ¿Qué descarga de MV tienen en Argentina? ¿Cuántos usuarios activos? ¿tienen la posibilidad de",
+      "category": "pos",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabce88f80f057",
+      "threadId": "19dabbff0bbd513a",
+      "date": "Mon, 20 Apr 2026 16:52:10 +0000",
+      "from": "Ramon Mejia Campos <covetgerencia@hotmail.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Re: presencia de COVETSA en RedVetAds",
+      "snippet": "Buen día, gracias, no manejamos clínicas, somos importadores y distribuimos atraves de mayoristas, de nueva cuenta agradezco su oferta Enviado desde mi Samsung Mobile de Claro Enviado desde Outlook",
+      "category": "pos",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabc3d8affc61b",
+      "threadId": "19dabba240379cdb",
+      "date": "Mon, 20 Apr 2026 10:40:17 -0600",
+      "from": "Ivonne Cassaigne <wildlifepharmamexico@gmail.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Re: presencia de Wildlife Pharmaceuticals en RedVetAds",
+      "snippet": "Gracias pero nosotros solo manejamos anestésicos por lo que no sé recetan y no entrarían en su esquema. En cuanto al banner, de momento no está dentro de nuestros proyectos de mercadotecnia ya que",
+      "category": "pos",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    }
+  ],
+  "negative": [
+    {
+      "id": "19dac64bb68d62f0",
+      "threadId": "19dac64bb68d62f0",
+      "date": "Mon, 20 Apr 2026 19:36:13 +0000 (UTC)",
+      "from": "\"Lenovo México\" <lenovo@ecomm.lenovo.com>",
+      "to": "info@redredsg.com",
+      "subject": "¡Tus compras se han vuelto fútbol! ⚽",
+      "snippet": "La Copa Mundial de la FIFA 26™ arranca en el Estadio Azteca y tú puedes estar ahí ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",
+      "category": "neg",
+      "labels": [
+        "CATEGORY_PROMOTIONS",
+        "UNREAD",
+        "INBOX"
+      ]
+    }
+  ],
+  "out_of_office": [
+    {
+      "id": "19dabbe5fe31464e",
+      "threadId": "19dabbe5fe31464e",
+      "date": "Mon, 20 Apr 2026 16:34:30 +0000",
+      "from": "Dianny De La Cruz <diannyc@labreferencia.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Respuesta automática: presencia de Lab Referencia en RedVetAds",
+      "snippet": "Buen día, Me encuentro fuera de oficina, para cualquier solicitud o información favor comunicarse al 809-221-5545 ext. 2100, 2101, 2104 o al correo autorizacionplancia@labreferencia.com Saludos, Dianny",
+      "category": "ooo",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabbcd19361278",
+      "threadId": "19dabbcd19361278",
+      "date": "Mon, 20 Apr 2026 16:32:50 +0000",
+      "from": "Cristian Lembach R <clembach@agrovet.cl>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Respuesta automática: presencia de Agrovet-Vetanco Chile en RedVetAds",
+      "snippet": "Estimados/as Se informa que Christian Lembach ya no pertenece a la compañia favor comunicarse con IGNACIO AESCHLIMANN , correo iaeschlimann@agrovet.cl si requiere información sobre productos Agrovet.",
+      "category": "ooo",
+      "labels": [
+        "UNREAD",
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    }
+  ],
+  "neutral": [
+    {
+      "id": "19dac36b9ef9185a",
+      "threadId": "19dac36b9ef9185a",
+      "date": "Mon, 20 Apr 2026 18:45:59 +0000 (UTC)",
+      "from": "Canva <marketing@engage.canva.com>",
+      "to": "info@redredsg.com",
+      "subject": "Anota las mejores ideas en pizarras online",
+      "snippet": "Trabaja en conjunto, haz lluvias de ideas y planifica con facilidad ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏",
+      "category": "neutral",
+      "labels": [
+        "CATEGORY_PROMOTIONS",
+        "UNREAD",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabc3b8ae2e422",
+      "threadId": "19dabc3b8ae2e422",
+      "date": "Mon, 20 Apr 2026 16:40:23 +0000 (GMT)",
+      "from": "\"Nestlé Servicios al Consumidor Paraguay\" <atencion.alconsumidor@py.nestle.com>",
+      "to": "\"info@redredsg.com\" <info@redredsg.com>",
+      "subject": "Tu caso ha sido creado con éxito ✅",
+      "snippet": "Hola, ¡Gracias por escribirnos! Tu número de caso es 56913710 En Nestlé valoramos mucho tu contacto. Queremos que sepas que ya recibimos tu mensaje y en breve te estaremos respondiendo. Para poder",
+      "category": "neutral",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabbd98e3d0b9b",
+      "threadId": "19dabbd98e3d0b9b",
+      "date": "Mon, 20 Apr 2026 16:33:42 +0000",
+      "from": "Farmina Pet Care <support@farmina-co.zendesk.com>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "[Solicitud recibida]",
+      "snippet": "Estimado Ing. Rafael Rodriguez Nadal, Número de ticket: 3792997 Mejor, Nutricionista de mascotas de Farmina Amamos cuidar de tu mascota Ing. Rafael Rodriguez Nadal, ¿Necesitas ayuda? Contáctanos:",
+      "category": "neutral",
+      "labels": [
+        "UNREAD",
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "19dabbd08d9e72a9",
+      "threadId": "19dabbd08d9e72a9",
+      "date": "Mon, 20 Apr 2026 16:32:58 +0000",
+      "from": "info_gabrica <info_gabrica@gabrica.com.co>",
+      "to": "\"Ing. Rafael Rodriguez Nadal\" <info@redredsg.com>",
+      "subject": "Radicación Ticket No. 000000093126 con asunto:presencia de Gabrica en RedVetAds asociado al contacto:Ing. Rafael Rodriguez Nadal",
+      "snippet": "Gracias por ponerse en contacto con Gabrica Ing. Rafael Rodriguez Nadal Nos complace informarte que tu solicitud ha sido recibida por nuestro Centro de Experiencia y se ha generado un radicado bajo el",
+      "category": "neutral",
+      "labels": [
+        "IMPORTANT",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    }
+  ],
+  "self_replied": [
+    {
+      "threadId": "19dabbdb33c0f970",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabba9d6ca601d",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabb9946448af1",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabc35341eae67",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabc2135775ff1",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbb44d60e446",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabb8ec17cfa6e",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbb50e76d5bb",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbfccbb63353",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbda674415d9",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbc29c238de4",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbef4975e171",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbb746cbcc5f",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbd2fab3c3e7",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbff0bbd513a",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbf01867b5a1",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabb9c44dd702e",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabb8f96d1ebf7",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbd9a7e8fc76",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbce60693880",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabba240379cdb",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 3
+    },
+    {
+      "threadId": "19dabbcd1dd62a79",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbf185c92bdf",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabc32f7195f83",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbb15ddf0d46",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabbc34cf8cbca",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabb98973c14bf",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabc02368be859",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    },
+    {
+      "threadId": "19dabc317e91516d",
+      "counterparty": "",
+      "subject": "",
+      "count_self_sent": 0,
+      "count_messages": 2
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RedTPV - Punto de Venta | RedRed Soluciones de Gestión</title>
+    <meta name="description" content="RedTPV: Sistema de punto de venta para clínicas y consultorios. Cobros, facturas, inventario y control financiero con integración al ecosistema RedRed.">
+    <meta name="keywords" content="RedTPV, punto de venta, POS, facturación, inventario, RedRed SG">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <style>
+        :root {
+            --brand-red: #dc1a22;
+            --brand-red-dark: #a80909;
+            --brand-accent: #217d04;
+            --bg: #f4f7fb;
+            --surface: #ffffff;
+            --surface-soft: #f8fbff;
+            --line: #dce4ef;
+            --text: #0f172a;
+            --text-soft: #475569;
+            --shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.65;
+            color: var(--text);
+            background: radial-gradient(circle at top, #ffffff 0%, var(--bg) 58%);
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(10px);
+            color: var(--brand-red);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid var(--line);
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        @media (max-width: 768px) {
+            header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+        }
+
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: var(--text-soft);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.25s ease;
+        }
+
+        nav ul li a:hover {
+            color: var(--brand-accent);
+        }
+
+        .main-content {
+            padding: 8rem 2rem 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .app-hero {
+            text-align: center;
+            background: #ffffff;
+            color: #0f172a;
+            padding: 4rem 2rem;
+            border-radius: 24px;
+            margin-bottom: 3rem;
+            box-shadow: 0 0 0 2px rgba(220, 26, 34, 0.22), 0 18px 40px rgba(220, 26, 34, 0.28);
+            border: 1px solid rgba(220, 26, 34, 0.18);
+        }
+
+        .app-hero-content {
+            max-width: 860px;
+            margin: 0 auto;
+        }
+
+        .app-logo {
+            width: 220px;
+            margin: 0 auto 1.2rem;
+            display: block;
+        }
+
+        .app-logo img {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+        }
+
+        .app-hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+        }
+
+        .app-hero .subtitle {
+            margin: 0 auto 2rem;
+            max-width: 820px;
+            background: #ffffff;
+            color: #0f172a;
+            border-radius: 16px;
+            padding: 1rem 1.15rem;
+            font-style: normal;
+            box-shadow: 0 12px 26px rgba(15, 23, 42, 0.18);
+        }
+        .subtitle-main {
+            display: block;
+            font-size: 1.1rem;
+            font-weight: 900;
+            line-height: 1.08;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.35rem;
+        }
+        .subtitle-detail {
+            display: block;
+            font-size: 0.78rem;
+            line-height: 1.34;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle-highlight {
+            display: block;
+            font-size: 1.025rem;
+            font-weight: 900;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
+            color: #217d04;
+        }
+
+        .download-section {
+            margin: 3rem 0;
+        }
+
+        .download-buttons {
+            display: flex;
+            gap: 1.2rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 260px;
+            min-height: 88px;
+            padding: 0.95rem 1.15rem;
+            background: #f8fbff;
+            border: 1px solid #cdd9ea;
+            border-radius: 14px;
+            color: #0f172a;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.05rem;
+            transition: all 0.25s ease;
+            box-shadow: 0 10px 22px rgba(15, 23, 42, 0.1);
+        }
+
+        .download-btn:hover {
+            background: #eef9ea;
+            border-color: #217d04;
+            transform: translateY(-2px);
+            box-shadow: 0 12px 24px rgba(33, 125, 4, 0.18);
+        }
+
+        .download-btn.disabled {
+            pointer-events: none;
+        }
+
+        .download-btn i {
+            font-size: 1.5rem;
+            margin-right: 0.8rem;
+            color: #dc1a22;
+        }
+
+        .download-btn .store-info {
+            text-align: left;
+        }
+
+        .download-btn .store-name {
+            display: block;
+            font-size: 0.86rem;
+            color: #475569;
+        }
+
+        .download-btn .store-platform {
+            display: block;
+            font-size: 1.16rem;
+            font-weight: 700;
+        }
+
+        .web-only {
+            display: inline-flex;
+        }
+
+        .coming-soon-notice {
+            background: rgba(255, 255, 255, 0.14);
+            border-radius: 10px;
+            padding: 1rem;
+            margin: 1rem 0;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .content-section {
+            background: var(--surface);
+            border-radius: 18px;
+            padding: 2.5rem;
+            margin: 2rem 0;
+            border: 1px solid var(--line);
+            box-shadow: var(--shadow);
+        }
+
+        .section-title {
+            color: var(--brand-red);
+            font-size: 2rem;
+            margin-bottom: 1.2rem;
+            text-align: center;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+        }
+
+        .section-content {
+            font-size: 1.08rem;
+            line-height: 1.8;
+            color: var(--text-soft);
+            text-align: justify;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.2rem;
+            margin: 1.5rem 0;
+        }
+
+        .feature-item {
+            background: var(--surface-soft);
+            padding: 1.6rem;
+            border-radius: 14px;
+            border: 1px solid #e6edf7;
+            border-left: 4px solid var(--brand-red);
+        }
+
+        .feature-item h4 {
+            color: var(--brand-red);
+            margin-bottom: 0.8rem;
+            font-size: 1.16rem;
+        }
+
+        .feature-item p {
+            color: var(--text-soft);
+            line-height: 1.6;
+        }
+
+        .advantages-list {
+            list-style: none;
+            margin: 1.4rem 0;
+        }
+
+        .advantages-list li {
+            padding: 1rem;
+            margin: 0.55rem 0;
+            background: var(--surface-soft);
+            border-radius: 10px;
+            border: 1px solid #e6edf7;
+            border-left: 4px solid var(--brand-accent);
+            position: relative;
+            padding-left: 3rem;
+        }
+
+        .advantages-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 1rem;
+            color: var(--brand-accent);
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+
+        footer {
+            background: #0f172a;
+            color: #d1d9e8;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        footer a {
+            color: #c3d4ff;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            color: #f8fafc;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: var(--brand-red);
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .cookie-banner button:hover {
+            background: var(--brand-red-dark);
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                padding: 1rem;
+                flex-direction: column;
+                text-align: center;
+            }
+
+            nav ul {
+                flex-wrap: wrap;
+                justify-content: center;
+                margin-top: 1rem;
+            }
+
+            nav ul li {
+                margin: 0.45rem 0.75rem;
+            }
+
+            .main-content {
+                padding: 15rem 1rem 2rem;
+            }
+
+            .app-hero {
+                padding: 3rem 1rem;
+                margin-bottom: 2rem;
+            }
+
+            .app-hero h1 {
+                font-size: 2.35rem;
+            }
+
+            .app-hero .subtitle {
+                padding: 0.85rem 0.8rem;
+            }
+            .subtitle-main {
+                font-size: 0.775rem;
+            }
+            .subtitle-detail {
+                font-size: 0.65rem;
+            }
+            .subtitle-highlight {
+                font-size: 0.75rem;
+            }
+
+            .download-buttons {
+                gap: 0.9rem;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .download-btn {
+                width: 100%;
+                max-width: 260px;
+                min-height: 88px;
+                justify-content: center;
+            }
+
+            .web-only {
+                display: none;
+            }
+
+            .content-section {
+                padding: 1.9rem 1rem;
+                margin: 1.5rem 0;
+            }
+
+            .section-title {
+                font-size: 1.75rem;
+            }
+
+            .section-content {
+                font-size: 1rem;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+                gap: 0.95rem;
+            }
+
+            .feature-item {
+                padding: 1.3rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .main-content {
+                padding: 15rem 0.5rem 2rem;
+            }
+
+            .app-hero {
+                padding: 2rem 1rem;
+            }
+
+            .app-hero h1 {
+                font-size: 2rem;
+            }
+
+            .content-section {
+                padding: 1.4rem 0.95rem;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <main class="main-content">
+        <section class="app-hero">
+            <div class="app-hero-content">
+                <div class="app-logo">
+                    <img src="/branding/icons/redtpv/redtpv-symbol-256.png" alt="Logo completo RedTPV">
+                </div>
+                <p class="subtitle">
+                    <span class="subtitle-main">App de punto de venta que pertenece al ecosistema <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> y <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>.</span>
+                    <span class="subtitle-detail">Integra ventas, artículos, inventario, proveedores, saldos, cierres, estadísticas...</span>
+                    <span class="subtitle-highlight">¡ Todo sincronizado: clínica, ventas y atención al cliente !</span>
+                </p>
+
+                <div class="download-section">
+                    <div class="download-buttons">
+                        <a href="https://play.google.com/store/apps/details?id=com.redredsg.redtpv&pcampaignid=web_share" target="_blank" class="download-btn" style="cursor: pointer; opacity: 1;">
+                            <i class="fab fa-google-play"></i>
+                            <div class="store-info">
+                                <span class="store-name">Disponible en</span>
+                                <span class="store-platform">Google Play</span>
+                            </div>
+                        </a>
+                        
+                        <a href="https://apps.apple.com/us/app/redtpv-sg/id6751099368" target="_blank" class="download-btn" style="cursor: pointer; opacity: 1;">
+                            <i class="fab fa-app-store-ios"></i>
+                            <div class="store-info">
+                                <span class="store-name">Descarga en</span>
+                                <span class="store-platform">App Store</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+                    <a href="/redtpv-guia.html" target="_blank" rel="noopener" class="download-btn" style="cursor: pointer; opacity: 1;">
+                        <i class="fas fa-book"></i>
+                        <span style="font-weight: bold;">Guía de usuario</span>
+                    </a>
+                    <a href="/redtpv-app/" target="_blank" rel="noopener" class="download-btn web-only" style="cursor: pointer; opacity: 1;">
+                        <i class="fas fa-desktop"></i>
+                        <span style="font-weight: bold;">Abrir versión web</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Descripción General</h2>
+            <div class="section-content">
+                <p><strong><span style="color: #DC1A22;">Red</span><span style="color: #217D04;">TPV</span></strong> es un sistema de punto de venta diseñado para clínicas y consultorios veterinarios que quieren tener un control real de lo que ocurre en el mostrador. Permite gestionar cobros, emitir facturas, controlar inventario y llevar un seguimiento financiero claro, conectando la parte administrativa con el trabajo clínico diario.</p>
+                <p>Forma parte del ecosistema <strong><span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span> SG</strong>, por lo que está pensado para trabajar de forma coordinada con otras aplicaciones, evitando duplicar información y reduciendo errores en el registro de productos, servicios y clientes.</p>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Funcionalidades Principales</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <h4><i class="fas fa-credit-card"></i> Cobros rápidos y flexibles</h4>
+                    <p>Procesamiento ágil con múltiples métodos de pago (efectivo, tarjeta, transferencias, etc.), registro de deudas y abonos, y posibilidad de combinar varios tipos de pago en una misma venta.</p>
+                </div>
+                <div class="feature-item">
+                    <h4><i class="fas fa-file-invoice"></i> Facturación y tickets profesionales</h4>
+                    <p>Generación de facturas y recibos personalizados con impuestos, descuentos y datos fiscales de la clínica, listos para ser entregados al cliente o integrados en tus procesos contables.</p>
+                </div>
+                <div class="feature-item">
+                    <h4><i class="fas fa-boxes"></i> Inventario conectado</h4>
+                    <p>Control de stock en tiempo real, alertas de bajo inventario, trazabilidad de entradas desde proveedores y relación directa con los artículos vendidos en el TPV.</p>
+                </div>
+                <div class="feature-item">
+                    <h4><i class="fas fa-chart-line"></i> Visión financiera</h4>
+                    <p>Resumenes de ventas por periodo, por tipo de producto o servicio y por forma de pago, para que puedas entender de un vistazo cómo evoluciona la facturación de tu centro.</p>
+                </div>
+                <div class="feature-item">
+                    <h4><i class="fas fa-plug"></i> Integración con otras soluciones</h4>
+                    <p>Conexión con otras aplicaciones <strong><span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span></strong> para flujos más eficientes, minimizando el uso de hojas de cálculo aisladas y reduciendo errores de transcripción.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">¿Para quién está pensado RedTPV?</h2>
+            <div class="section-content">
+                <p>La solución está orientada a clínicas veterinarias, consultorios y centros que venden tanto servicios como productos (piensos, antiparasitarios, complementos, etc.). Es especialmente útil para:</p>
+                <ul>
+                    <li>Centros que quieren separar mejor la parte clínica de la parte de ventas, pero manteniendo los datos conectados.</li>
+                    <li>Clínicas que todavía gestionan el cobro con cajas registradoras básicas o hojas de cálculo y necesitan dar un paso adelante.</li>
+                    <li>Equipos que desean tener visibilidad sobre qué servicios o productos generan más ingresos y cuáles necesitan revisión.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Cómo encaja RedTPV en el día a día de tu clínica</h2>
+            <div class="section-content">
+                <p>El TPV es el punto de conexión entre lo que ocurre en consulta y la facturación real. Un flujo de trabajo habitual con <strong><span style="color: #DC1A22;">Red</span><span style="color: #217D04;">TPV</span></strong> podría ser:</p>
+                <ol>
+                    <li><strong>Configuración inicial:</strong> se crean las categorías de artículos (fármacos, alimentación, servicios, etc.) y se registran proveedores y tipos de impuestos.</li>
+                    <li><strong>Alta de productos y servicios:</strong> cada artículo se define con su precio, impuestos, proveedor y categoría, de manera que luego sea fácil encontrarlo en el momento del cobro.</li>
+                    <li><strong>Registro de la venta:</strong> desde el mostrador se añaden los conceptos al ticket, se aplican descuentos si corresponde y se selecciona la forma de pago.</li>
+                    <li><strong>Actualización de inventario:</strong> el stock se descuenta automáticamente, evitando desajustes entre lo que figura en la estantería y en el sistema.</li>
+                    <li><strong>Revisión de caja:</strong> al final del día se puede revisar el cierre de caja, comprobar ventas por usuario y detectar incidencias.</li>
+                </ol>
+                <p>Trabajar de esta forma ayuda a reducir errores manuales, asegurar que se cobran todos los servicios prestados y disponer de información útil para la toma de decisiones.</p>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Guía rápida para empezar con RedTPV</h2>
+            <div class="section-content">
+                <p>Si es la primera vez que configuras un TPV específico para tu clínica, estos pasos te servirán como checklist inicial:</p>
+                <ol>
+                    <li><strong>Define impuestos y tipos de moneda:</strong> revisa la configuración fiscal para que cada venta se registre con los tipos impositivos correctos.</li>
+                    <li><strong>Crea tus categorías de productos y servicios:</strong> por ejemplo “Consultas”, “Vacunas”, “Cirugías”, “Alimentación”, “Complementos”, etc.</li>
+                    <li><strong>Registra tus principales proveedores:</strong> así podrás vincular las compras y controlar mejor el margen de cada producto.</li>
+                    <li><strong>Da de alta los artículos más vendidos:</strong> comienza por los productos y servicios que usas a diario para notar el impacto desde el primer momento.</li>
+                    <li><strong>Forma al equipo de recepción:</strong> dedica unos minutos a que el personal que cobra al cliente conozca el flujo de venta y el cierre de caja.</li>
+                </ol>
+                <p>Una vez completados estos pasos, tu TPV estará listo para trabajar de manera fluida y podrás ir incorporando nuevas funcionalidades a tu ritmo.</p>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Casos de uso habituales</h2>
+            <div class="section-content">
+                <p>Algunos ejemplos concretos donde <strong><span style="color: #DC1A22;">Red</span><span style="color: #217D04;">TPV</span></strong> puede marcar la diferencia:</p>
+                <ul>
+                    <li><strong>Control del stock de farmacia:</strong> detectar a tiempo qué medicamentos se están agotando y cuáles se mueven menos para ajustar tus compras.</li>
+                    <li><strong>Campañas de vacunación:</strong> registrar de forma masiva servicios similares, aplicando precios especiales sin perder el control de los márgenes.</li>
+                    <li><strong>Venta de productos asociados a tratamientos:</strong> facilitar que, tras la consulta, el cliente salga con el alimento o complemento que el veterinario ha recomendado.</li>
+                    <li><strong>Análisis de ingresos por línea de negocio:</strong> distinguir cuánto facturas en consultas, cirugías, productos de tienda, etc.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Seguridad y control de accesos</h2>
+            <div class="section-content">
+                <p>El manejo de cobros y datos económicos requiere medidas de seguridad específicas. Por eso, <strong><span style="color: #DC1A22;">Red</span><span style="color: #217D04;">TPV</span></strong> incorpora controles pensados para el entorno de una clínica:</p>
+                <ul>
+                    <li>Usuarios con permisos diferenciados para venta, administración y consulta de informes.</li>
+                    <li>Registro de operaciones clave (anulaciones, devoluciones, cierres de caja) para facilitar auditorías internas.</li>
+                    <li>Separación entre la información utilizada en el TPV y los datos clínicos, que se gestionan desde soluciones complementarias.</li>
+                </ul>
+                <p>De este modo, puedes delegar el uso diario del TPV en tu equipo manteniendo una supervisión clara sobre lo que sucede en la caja.</p>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2 class="section-title">Preguntas frecuentes sobre RedTPV</h2>
+            <div class="section-content">
+                <p>Resolvemos algunas dudas habituales que surgen antes de implantar un TPV especializado:</p>
+                <h3>¿Necesito un hardware concreto para usar RedTPV?</h3>
+                <p>No. Puedes utilizarlo en un ordenador estándar con navegador moderno. Si utilizas impresoras de tickets o lectores de código de barras, podrán integrarse según el modelo.</p>
+                <h3>¿Puedo usarlo solo para algunos servicios al principio?</h3>
+                <p>Sí. Muchas clínicas empiezan registrando solo ciertos servicios o productos y, cuando el equipo se siente cómodo, migran toda la facturación al sistema.</p>
+                <h3>¿Cómo me ayuda con la contabilidad?</h3>
+                <p>Los informes de ventas por periodos, impuestos y métodos de pago facilitan enormemente la comunicación con tu asesoría contable, reduciendo tiempo y errores.</p>
+                <h3>¿Dispongo de ayuda para la configuración inicial?</h3>
+                <p>Además de la <a href="/redtpv-guia.html">guía de usuario detallada</a>, puedes apoyarte en el soporte y en los materiales de ayuda para configurar el sistema paso a paso.</p>
+            </div>
+        </section>
+    </main>
+
+      <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        let lastScrollTop = 0; const header = document.getElementById('header');
+        window.addEventListener('scroll', function() {
+            if (window.innerWidth <= 768) {
+                let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                if (scrollTop > lastScrollTop && scrollTop > 100) { header.classList.add('header-hidden'); }
+                else { header.classList.remove('header-hidden'); }
+                lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
+            }
+        });
+
+        // Cookie banner
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function() {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    </script>
+</body>
+</html>
+
+

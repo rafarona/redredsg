@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos de Servicio - RedRed</title>
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+        
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+            transition: transform 0.3s ease-in-out;
+            border-bottom: 1px solid #dce4ef;
+            backdrop-filter: blur(10px);
+        }
+        
+        @media (max-width: 768px) {
+            header.header-hidden {
+                transform: translateY(-100%);
+            }
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            background-color: transparent;
+        }
+        
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+        
+        .logo h1 {
+            font-size: 1.8rem;
+            margin-left: 0.5rem;
+        }
+        
+        .logo-icon {
+            font-size: 2rem;
+            color: white;
+        }
+        
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+        
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        nav ul li a:hover {
+            color: var(--secondary-color);
+        }
+        
+        .main-content {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 120px 2rem 4rem;
+        }
+        
+        .terms-title {
+            color: var(--secondary-color);
+            font-size: 2.2rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .terms-date {
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            font-style: italic;
+        }
+        
+        .terms-intro {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .section {
+            margin-bottom: 2.5rem;
+        }
+        
+        .section-title {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .terms-list {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .terms-list li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .contact-details {
+            background-color: #f1f5f9;
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 2rem 0;
+        }
+        
+        .back-to-home {
+            display: inline-block;
+            margin-top: 2rem;
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .back-to-home i {
+            margin-right: 0.5rem;
+        }
+        
+        .back-to-home:hover {
+            color: var(--primary-color);
+        }
+        
+        footer {
+            background-color: #0f172a;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+            
+            nav ul {
+                margin-top: 1rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            
+            nav ul li {
+                margin: 0.5rem 0.8rem;
+            }
+            
+            .main-content {
+                padding: 15rem 1rem 2rem;
+                margin-top: 0;
+            }
+            
+            .terms-title {
+                font-size: 1.8rem;
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .main-content h2 {
+                font-size: 1.5rem;
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+            }
+            
+            .main-content h3 {
+                font-size: 1.2rem;
+                margin-top: 1.5rem;
+                margin-bottom: 0.8rem;
+            }
+            
+            .main-content p, .main-content li {
+                font-size: 0.9rem;
+                line-height: 1.6;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+      <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+    <div class="main-content">
+                    <h1 class="terms-title">Términos y Condiciones de Uso del Ecosistema <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span></h1>
+        <p class="terms-date">Fecha de Entrada en Vigor: 18/05/2025 | Última Actualización: 18/05/2025</p>
+
+        <div class="terms-intro">
+            <p>Bienvenido al ecosistema <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span>, que incluye las aplicaciones <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>, <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>, <span style="color: #DC1A22;">Red</span><span style="color: #217D04;">TPV</span>, RedStore, RedMed, RedDent y otras aplicaciones relacionadas, en adelante denominadas colectivamente como "los Servicios". Estos Servicios son proporcionados por <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span> (en adelante, "nosotros", "nuestro/a" o "la Compañía").</p>
+            <p style="margin-top: 1rem;">Al acceder o utilizar nuestros Servicios, usted acepta estar sujeto a estos Términos y Condiciones (en adelante, "Términos"). Por favor, lea detenidamente estos Términos antes de utilizar los Servicios. Si no está de acuerdo con alguna parte de estos Términos, no debe utilizar los Servicios.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">1. Aceptación de los Términos</h2>
+            <p>Al descargar, instalar, acceder o utilizar los Servicios, usted acepta quedar legalmente vinculado por estos Términos y todas las condiciones incorporadas por referencia. Si no está de acuerdo con estos Términos, no está autorizado a acceder o utilizar los Servicios.</p>
+            <p style="margin-top: 1rem;">Estos Términos constituyen un acuerdo legal entre usted y <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span>. Nos reservamos el derecho de modificar estos Términos en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación en los Servicios. Su uso continuado de los Servicios después de cualquier modificación constituye su aceptación de los Términos modificados.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">2. Servicios y Cuentas de Usuario</h2>
+            <p>Los Servicios de <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span> están diseñados para facilitar la gestión de información médica y operativa en sectores como la medicina general, odontología y veterinaria, tanto para usuarios finales como para profesionales.</p>
+            
+            <p style="margin-top: 1rem;"><strong>Creación de Cuenta:</strong> Para utilizar ciertas funciones de los Servicios, es posible que deba crear una cuenta. Al crear una cuenta, usted garantiza que la información proporcionada es precisa y completa. Es su responsabilidad mantener la confidencialidad de las credenciales de su cuenta y es totalmente responsable de todas las actividades que ocurran bajo su cuenta.</p>
+            
+            <p style="margin-top: 1rem;"><strong>Tipos de Cuentas:</strong> Dependiendo del Servicio específico, puede registrarse como Cliente (usuario de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span> o RedHealth), como Profesional Sanitario o Personal de Clínica (usuario de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>, RedMed, RedDent, etc.), o con otros roles administrativos. Cada tipo de cuenta tiene accesos y funcionalidades específicas dentro del ecosistema.</p>
+            
+            <p style="margin-top: 1rem;"><strong>Relaciones entre Usuarios:</strong> Los Servicios permiten establecer relaciones entre diferentes tipos de usuarios, como la autorización por parte de un Cliente (usuario de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Pet</span>) para que una Clínica/Veterinario específico (usuario de <span style="color: #dc1a22;">Red</span><span style="color: #1d89e4;">Vet</span>) acceda a la información de sus mascotas. Estas relaciones requieren consentimiento explícito y pueden ser revocadas según se describe en estos Términos y en nuestro Aviso de Privacidad.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">3. Licencia de Uso</h2>
+            <p>Sujeto a estos Términos, <span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span> le otorga una licencia limitada, no exclusiva, no transferible, no sublicenciable y revocable para descargar, instalar y utilizar los Servicios para su uso personal o profesional, según corresponda al tipo de cuenta que haya registrado.</p>
+            
+            <p style="margin-top: 1rem;">Esta licencia no le permite:</p>
+            <ul class="terms-list">
+                <li>Modificar, descompilar, realizar ingeniería inversa o desensamblar los Servicios.</li>
+                <li>Eliminar avisos de derechos de autor, marca registrada u otros avisos de propiedad de los Servicios.</li>
+                <li>Utilizar los Servicios de manera que viole cualquier ley aplicable.</li>
+                <li>Utilizar los Servicios para cualquier fin que no sea el expresamente permitido por estos Términos.</li>
+                <li>Alquilar, arrendar, prestar, revender, sublicenciar, distribuir o transferir los Servicios a terceros.</li>
+                <li>Utilizar los Servicios para crear productos o servicios competitivos.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">4. Propiedad Intelectual</h2>
+            <p>Los Servicios, incluyendo todo su contenido, características y funcionalidad (incluyendo pero no limitado a todo el texto, gráficos, logotipos, iconos, imágenes, clips de audio, videos, datos y software), son propiedad de RedRed o de nuestros licenciantes y están protegidos por las leyes de derechos de autor, marcas registradas, patentes, secretos comerciales y otras leyes de propiedad intelectual.</p>
+            
+            <p style="margin-top: 1rem;">Nada en estos Términos le otorga ningún derecho, título o interés en o sobre los Servicios o cualquier contenido, características o funcionalidades de los mismos, excepto por la licencia limitada expresamente establecida en estos Términos.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">5. Contenido del Usuario</h2>
+            <p>Los Servicios permiten a los usuarios introducir, cargar, publicar o transmitir información y contenido ("Contenido del Usuario"). Usted retiene todos los derechos sobre el Contenido del Usuario que proporciona a través de los Servicios.</p>
+            
+            <p style="margin-top: 1rem;">Al proporcionar Contenido del Usuario a través de los Servicios, usted otorga a RedRed una licencia mundial, no exclusiva, libre de regalías, sublicenciable y transferible para usar, reproducir, modificar, adaptar, publicar, traducir, crear obras derivadas, distribuir y mostrar dicho Contenido del Usuario en conexión con la operación y provisión de los Servicios.</p>
+            
+            <p style="margin-top: 1rem;">Usted declara y garantiza que:</p>
+            <ul class="terms-list">
+                <li>Posee o tiene los derechos necesarios para proporcionar el Contenido del Usuario.</li>
+                <li>El Contenido del Usuario no infringe los derechos de propiedad intelectual de terceros.</li>
+                <li>El Contenido del Usuario no viola ninguna ley o regulación aplicable.</li>
+                <li>El Contenido del Usuario no es difamatorio, obsceno, ofensivo, fraudulento o de otra manera objetable.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">6. Responsabilidades y Garantías</h2>
+            <p><strong>Precisión de la Información:</strong> Usted es responsable de la precisión y completitud de la información que proporciona a través de los Servicios. Esto es especialmente importante en el contexto de información médica relacionada con personas o mascotas.</p>
+            
+            <p style="margin-top: 1rem;"><strong>Uso Profesional:</strong> Si utiliza los Servicios como profesional sanitario o como parte del personal de una clínica, usted es responsable de asegurarse de que su uso cumple con todas las leyes, regulaciones y estándares profesionales aplicables.</p>
+            
+            <p style="margin-top: 1rem;"><strong>No Sustituye Asesoramiento Profesional:</strong> Los Servicios están diseñados para facilitar la gestión de información y operaciones, pero no sustituyen el asesoramiento, diagnóstico o tratamiento médico profesional. En caso de emergencia médica, contacte inmediatamente con los servicios de emergencia.</p>
+            
+            <p style="margin-top: 1rem;"><strong>Sin Garantías:</strong> Los Servicios se proporcionan "tal cual" y "según disponibilidad", sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizamos que los Servicios sean ininterrumpidos, oportunos, seguros o libres de errores, ni que los resultados que puedan obtenerse del uso de los Servicios sean precisos o confiables.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">6.1 Publicidad, cookies y tecnologías de terceros</h2>
+            <p>En nuestros sitios web podemos mostrar anuncios y utilizar tecnologías de medición proporcionadas por terceros, como Google AdSense y Meta Pixel. Estas tecnologías pueden usar cookies e identificadores para mostrar anuncios, medir el rendimiento y limitar la frecuencia.</p>
+            <p>Al utilizar nuestros sitios, usted acepta el uso de estas tecnologías conforme a nuestra <a href="/privacy.html">Política de Privacidad</a>. Puede gestionar cookies desde la configuración de su navegador y revisar las preferencias de anuncios de Google en <a href="https://adssettings.google.com/" target="_blank" rel="noopener">https://adssettings.google.com/</a>.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">7. Limitación de Responsabilidad</h2>
+            <p>En la medida máxima permitida por la ley aplicable, RedRed, sus directores, empleados, socios, agentes, proveedores o afiliados no serán responsables por:</p>
+            <ul class="terms-list">
+                <li>Cualquier daño indirecto, incidental, especial, consecuente o punitivo, incluyendo sin limitación, pérdida de beneficios, datos, uso, buena voluntad u otras pérdidas intangibles.</li>
+                <li>Cualquier daño relacionado con el acceso, uso o imposibilidad de acceder o usar los Servicios.</li>
+                <li>Cualquier conducta o contenido de terceros en los Servicios, incluyendo sin limitación, cualquier conducta difamatoria, ofensiva o ilegal.</li>
+                <li>Acceso no autorizado, uso o alteración de sus transmisiones o contenido.</li>
+            </ul>
+            <p style="margin-top: 1rem;">Esta limitación de responsabilidad se aplicará independientemente de si los daños surgen de incumplimiento de contrato, agravio (incluyendo negligencia) o cualquier otra teoría legal, incluso si RedRed ha sido informado de la posibilidad de tales daños.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">8. Indemnización</h2>
+            <p>Usted acepta indemnizar, defender y mantener indemne a RedRed, sus afiliados, funcionarios, directores, empleados, agentes, licenciantes y proveedores de servicios de y contra cualquier reclamo, responsabilidad, daño, juicio, premio, pérdida, costo, gasto o tarifa (incluyendo honorarios razonables de abogados) que surjan de o estén relacionados con su violación de estos Términos, o su uso de los Servicios, incluyendo, sin limitación, cualquier uso de los contenidos, servicios o productos de los Servicios que no sean los expresamente autorizados en estos Términos, o su uso de cualquier información obtenida de los Servicios.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">9. Terminación</h2>
+            <p>Podemos terminar o suspender su acceso a los Servicios inmediatamente, sin previo aviso o responsabilidad, por cualquier motivo, incluyendo, sin limitación, si incumple estos Términos.</p>
+            <p style="margin-top: 1rem;">Tras la terminación, su derecho a utilizar los Servicios cesará inmediatamente. Si desea terminar su cuenta, puede simplemente dejar de utilizar los Servicios o seguir el procedimiento de eliminación de cuenta disponible en los Servicios.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">10. Ley Aplicable y Resolución de Disputas</h2>
+            <p>Estos Términos se regirán e interpretarán de acuerdo con las leyes de México, sin dar efecto a cualquier principio de conflictos de leyes.</p>
+            <p style="margin-top: 1rem;">Cualquier disputa legal que surja de o en conexión con estos Términos o los Servicios estará sujeta a la jurisdicción exclusiva de los tribunales de Veracruz, México.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">11. Disposiciones Generales</h2>
+            <p><strong>Acuerdo Completo:</strong> Estos Términos constituyen el acuerdo completo entre usted y RedRed con respecto a los Servicios y sustituyen todas las comunicaciones y propuestas anteriores o contemporáneas, ya sean electrónicas, orales o escritas, entre usted y RedRed con respecto a los Servicios.</p>
+            <p style="margin-top: 1rem;"><strong>Divisibilidad:</strong> Si alguna disposición de estos Términos es considerada inválida o inaplicable, dicha disposición se interpretará de manera consistente con la ley aplicable para reflejar, en la medida de lo posible, las intenciones originales de las partes, y las disposiciones restantes permanecerán en pleno vigor y efecto.</p>
+            <p style="margin-top: 1rem;"><strong>Renuncia:</strong> El hecho de que RedRed no ejerza o haga cumplir cualquier derecho o disposición de estos Términos no constituirá una renuncia a dicho derecho o disposición.</p>
+            <p style="margin-top: 1rem;"><strong>Modificaciones:</strong> Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos Términos en cualquier momento. Le notificaremos cualquier cambio publicando los nuevos Términos en esta página y actualizando la fecha de "Última Actualización" en la parte superior. Su uso continuado de los Servicios después de cualquier cambio constituye su aceptación de los nuevos Términos.</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">12. Contacto</h2>
+            <p>Si tiene alguna pregunta sobre estos Términos, por favor contáctenos en:</p>
+            
+            <div class="contact-details">
+                <p><strong><span style="color: #dc1a22;">Red</span><span style="color: #a80909;">Red</span></strong></p>
+                <p>Calle 6, lote 8, El Conchal, Alvarado, Veracruz, México</p>
+                <p>info@redredsg.com</p>
+            </div>
+        </div>
+
+        <a href="/" class="back-to-home"><i class="fas fa-arrow-left"></i> Volver a la página de inicio</a>
+    </div>
+
+      <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-banner-content">
+            <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+            <button type="button" id="cookieAccept">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        // Header scroll behavior for mobile devices
+        let lastScrollTop = 0;
+        const header = document.querySelector('header');
+        const scrollThreshold = 100; // Minimum scroll distance to trigger hide/show
+
+        function handleScroll() {
+            // Only apply on mobile devices
+            if (window.innerWidth <= 768) {
+                const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                // Only trigger after minimum scroll
+                if (Math.abs(scrollTop - lastScrollTop) > 5) {
+                    if (scrollTop > lastScrollTop && scrollTop > scrollThreshold) {
+                        // Scrolling down - hide header
+                        header.classList.add('header-hidden');
+                    } else {
+                        // Scrolling up - show header
+                        header.classList.remove('header-hidden');
+                    }
+                }
+                
+                lastScrollTop = scrollTop;
+            } else {
+                // Always show header on desktop
+                header.classList.remove('header-hidden');
+            }
+        }
+
+        // Add scroll event listener with throttling
+        let ticking = false;
+        window.addEventListener('scroll', function() {
+            if (!ticking) {
+                requestAnimationFrame(handleScroll);
+                ticking = true;
+            }
+            ticking = false;
+        });
+
+        // Handle resize events
+        window.addEventListener('resize', function() {
+            if (window.innerWidth > 768) {
+                header.classList.remove('header-hidden');
+            }
+        });
+
+        // Cookie banner
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function() {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    </script>
+</body>
+</html> 

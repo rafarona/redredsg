@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cómo explicar RedPet a tus clientes de la clínica | RedRed SG</title>
+    <meta name="description" content="Guía práctica para explicar RedPet a los clientes de tu clínica veterinaria: mensajes clave, ejemplos de uso, objeciones frecuentes y buenas prácticas.">
+    <link rel="icon" href="images/logo-oficial.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #dc1a22;
+            --secondary-color: #0f172a;
+            --light-color: #f8fbff;
+            --accent-color: #a80909;
+            --text-color: #0f172a;
+            --text-light: #475569;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: #f4f7fb;
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.92);
+            color: var(--primary-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--primary-color);
+        }
+
+        .logo img {
+            object-fit: scale-down;
+            width: 40px;
+            height: 50px;
+        }
+
+        .logo h1 {
+            font-size: 1.6rem;
+            margin-left: 0.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 8rem 1.5rem 4rem;
+        }
+
+        h1 {
+            font-size: 2.4rem;
+            margin-bottom: 1rem;
+            color: var(--secondary-color);
+            text-align: center;
+        }
+
+        .article-intro {
+            font-size: 1.1rem;
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            text-align: justify;
+        }
+
+        h2 {
+            font-size: 1.7rem;
+            margin: 2.5rem 0 1rem;
+            color: var(--secondary-color);
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            margin: 1.8rem 0 0.6rem;
+            color: var(--primary-color);
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin: 0 0 1.5rem 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        .highlight-box {
+            background: #ffffff;
+            border-left: 4px solid var(--primary-color);
+            padding: 1.2rem 1.4rem;
+            margin: 2rem 0;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        footer {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        footer a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #111827;
+            color: #f9fafb;
+            padding: 1rem 1.5rem;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        }
+
+        .cookie-banner-content {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .cookie-banner p {
+            margin: 0;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .cookie-banner a {
+            color: #93c5fd;
+            text-decoration: none;
+        }
+
+        .cookie-banner a:hover {
+            text-decoration: underline;
+        }
+
+        .cookie-banner button {
+            background: #dc1a22;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .cookie-banner button:hover {
+            background: #a80909;
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                padding: 1rem;
+            }
+
+            nav ul {
+                margin-top: 0.5rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            nav ul li {
+                margin: 0.3rem 0.8rem;
+            }
+
+            main {
+                padding: 9rem 1rem 3rem;
+            }
+        }
+
+    /* RedRed shared header/footer */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid #e2e8f0;
+      padding: 0;
+      box-shadow: none;
+      color: inherit;
+    }
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 0;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .brand img {
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: #dc1a22;
+      transition: transform 0.22s ease;
+    }
+    nav a:hover {
+      color: #dc1a22;
+    }
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    footer {
+      border-top: 1px solid #e2e8f0;
+      background: #fff;
+      padding: 0;
+    }
+    .footer-wrap {
+      min-height: 72px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      width: min(1180px, 92%);
+      margin: 0 auto;
+      padding: 1.1rem 0;
+      color: #64748b;
+    }
+    .footer-wrap p { margin: 0; }
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+    }
+    .footer-links a {
+      color: #475569;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer-links a:hover {
+      color: #dc1a22;
+    }
+
+    @media (max-width: 980px) {
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="/branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="/#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="/#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="/#nosotros">Nosotros</a></li>
+          <li><a href="/#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+<main>
+    <h1>Cómo explicar RedPet a tus clientes de la clínica</h1>
+    <p class="article-intro">
+        RedPet está pensada para que los propietarios tengan la información de sus mascotas organizada y siempre disponible.
+        Sin embargo, muchos clientes no descargarán la aplicación si nadie se la explica bien. En este artículo encontrarás
+        ideas concretas para presentar RedPet en consulta, responder dudas frecuentes y convertirla en una herramienta que
+        mejore la relación entre la clínica y los propietarios.
+    </p>
+
+    <h2>1. Empieza por el “para qué”, no por el “qué”</h2>
+    <p>
+        Cuando presentamos una nueva app a un cliente, es fácil caer en el discurso técnico: funciones, menús, pantallas...
+        Pero la mayoría de propietarios solo se preguntan una cosa: <strong>“¿En qué me ayuda a mí y a mi mascota?”</strong>.
+    </p>
+    <p>
+        Una buena forma de empezar es con un mensaje simple:
+    </p>
+    <div class="highlight-box">
+        <p><em>“Con RedPet tendrás siempre a mano el historial de tu mascota, sus vacunas y próximos recordatorios,
+            y podrás compartir esa información con nosotros de forma segura.”</em></p>
+    </div>
+    <p>
+        A partir de ahí, puedes profundizar en los detalles según el interés del cliente, pero ya has conectado con su
+        necesidad principal: cuidar mejor de su animal con menos olvidos y más información.
+    </p>
+
+    <h2>2. Beneficios clave para el propietario</h2>
+    <p>
+        Antes de que el equipo de la clínica recomiende RedPet, conviene tener claros los beneficios que más valoran los
+        clientes. Algunos de los más importantes son:
+    </p>
+    <ul>
+        <li><strong>Recordatorios automáticos:</strong> menos olvidos de vacunas, desparasitaciones o revisiones.</li>
+        <li><strong>Historial siempre disponible:</strong> incluso si cambian de ciudad o de veterinario.</li>
+        <li><strong>Información clara:</strong> diagnósticos, tratamientos y pruebas organizadas de forma cronológica.</li>
+        <li><strong>Comunicación más fluida:</strong> el propietario llega a la consulta con la información clave preparada.</li>
+    </ul>
+
+    <h2>3. Integra la explicación de RedPet en la consulta</h2>
+    <p>
+        Lo ideal es que RedPet no se vea como “algo extra” que hay que explicar al final a toda prisa, sino como parte
+        natural del flujo de trabajo de la clínica. Puedes aprovechar momentos concretos:
+    </p>
+    <ul>
+        <li><strong>Al finalizar una vacunación:</strong> “Voy a registrar esta vacuna también en RedPet para que te salgan los recordatorios”.</li>
+        <li><strong>Cuando hay un tratamiento prolongado:</strong> “En la app podrás ver las fechas y la pauta para no perderte”.</li>
+        <li><strong>En la primera visita de un cachorro o gatito:</strong> “Te va a venir muy bien tener todo el calendario de salud organizado desde el principio”.</li>
+    </ul>
+
+    <h3>Ejemplo de guion breve</h3>
+    <p>
+        <em>“Además de nuestro sistema interno, trabajamos con una app llamada RedPet. Te permite ver el historial de
+        tu mascota, recibir recordatorios y apuntar cualquier cosa que te parezca importante. Si quieres, ahora al salir
+        te ayudamos a instalarla en el móvil y dejamos ya registrada la visita de hoy.”</em>
+    </p>
+
+    <h2>4. Materiales de apoyo en recepción</h2>
+    <p>
+        Para reforzar el mensaje, es útil disponer de algunos elementos visuales:
+    </p>
+    <ul>
+        <li>Un pequeño póster o roll-up cerca de recepción con el logo de RedPet y los beneficios principales.</li>
+        <li>Un código QR que lleve directamente a la descarga en App Store o Google Play.</li>
+        <li>Tarjetas informativas que el cliente pueda llevarse a casa si no tiene tiempo en ese momento.</li>
+    </ul>
+    <p>
+        Estos materiales recuerdan al cliente que la app existe y dan pie a que el personal de recepción pregunte:
+        <em>“¿Ya conoces nuestra app RedPet?”</em>.
+    </p>
+
+    <h2>5. Objeciones frecuentes y cómo responderlas</h2>
+    <p>
+        Es normal que algunos propietarios tengan dudas o muestren resistencia a usar una nueva aplicación. Preparar
+        respuestas sencillas ayudará a tu equipo a manejar estas situaciones con seguridad.
+    </p>
+
+    <h3>“No soy de usar muchas apps”</h3>
+    <p>
+        Puedes responder algo como:
+        <em>“Justo por eso nos gusta RedPet: solo la usas cuando necesitas revisar algo o recibir un recordatorio.
+        No hace falta que estés entrando todos los días.”</em>
+    </p>
+
+    <h3>“Me preocupa la privacidad de mis datos”</h3>
+    <p>
+        Una respuesta posible:
+        <em>“La información está vinculada a tu cuenta y tú decides con qué clínica compartirla. No se publica en ningún
+        sitio ni se utiliza para redes sociales; es simplemente tu historial y el de tu mascota.”</em>
+    </p>
+
+    <h3>“No tengo sitio en el móvil”</h3>
+    <p>
+        Puedes ofrecer alternativas:
+        <em>“Si ahora mismo no puedes instalarla, podemos enviarte un recordatorio por correo o WhatsApp y más adelante,
+        cuando cambies de móvil, la descargas. La app está pensada para ocupar poco espacio.”</em>
+    </p>
+
+    <h2>6. Implica a todo el equipo de la clínica</h2>
+    <p>
+        Para que RedPet se convierta en parte de la cultura de la clínica, es importante que todo el mundo la conozca:
+        veterinarios, auxiliares y personal de recepción. Algunas ideas:
+    </p>
+    <ul>
+        <li>Realizar una pequeña sesión interna donde se explique cómo funciona y se resuelvan dudas.</li>
+        <li>Instalar la app en un dispositivo de la clínica para poder mostrarla durante la consulta.</li>
+        <li>Definir quién propone RedPet y en qué momentos (por ejemplo, siempre en primeras visitas y en vacunas anuales).</li>
+    </ul>
+
+    <h2>7. Medir el impacto en la relación con los clientes</h2>
+    <p>
+        Una vez que llevéis un tiempo recomendando RedPet, podéis revisar algunos indicadores:
+    </p>
+    <ul>
+        <li>Número aproximado de clientes que la utilizan de forma habitual.</li>
+        <li>Reducción de citas perdidas por olvido de vacunas o revisiones.</li>
+        <li>Comentarios positivos en consulta sobre lo útil que resulta tener la información en el móvil.</li>
+    </ul>
+    <p>
+        Estos datos ayudan a confirmar que el esfuerzo de explicar la app merece la pena y motivan al equipo a seguir
+        integrándola en su día a día.
+    </p>
+
+    <h2>8. Conclusión</h2>
+    <p>
+        RedPet puede convertirse en un aliado importante para reforzar la relación entre la clínica y los propietarios,
+        siempre que se presente de forma clara y cercana. Si centras el mensaje en los beneficios reales para el cliente,
+        integras la explicación en momentos clave de la consulta y das apoyo visual en recepción, será mucho más fácil que
+        los usuarios la adopten y la perciban como parte natural del servicio que ofrece tu centro.
+    </p>
+</main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+<div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner-content">
+        <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+        <button type="button" id="cookieAccept">Aceptar</button>
+    </div>
+</div>
+<script>
+    (function(){
+        const cookieBanner = document.getElementById('cookieBanner');
+        const cookieAccept = document.getElementById('cookieAccept');
+        const cookieKey = 'rr_cookie_consent_v1';
+
+        if (!localStorage.getItem(cookieKey)) {
+            cookieBanner.style.display = 'block';
+        }
+
+        cookieAccept.addEventListener('click', function () {
+            localStorage.setItem(cookieKey, 'accepted');
+            cookieBanner.style.display = 'none';
+        });
+    })();
+</script>
+</body>
+</html>
+

@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4907681299222830" crossorigin="anonymous"></script>
+
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src='https://connect.facebook.net/en_US/fbevents.js';
+      s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script');
+    fbq('init', '1443290607232492');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img src="https://www.facebook.com/tr?id=1443290607232492&ev=PageView&noscript=1" height="1" width="1" style="display:none"/>
+  </noscript>
+
+  <title>RedRed | Plataforma de Gestión Veterinaria</title>
+  <link rel="icon" href="images/logo-oficial.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f7f8fc;
+      --surface: #ffffff;
+      --surface-soft: #f1f4fb;
+      --text: #0f172a;
+      --muted: #64748b;
+      --line: #dfe5ef;
+      --red: #cf1422;
+      --blue: #1d89e4;
+      --green: #217d04;
+      --radius: 20px;
+      --shadow: 0 20px 50px rgba(15, 23, 42, 0.09);
+      --shadow-soft: 0 8px 24px rgba(15, 23, 42, 0.06);
+      --headline: "Plus Jakarta Sans", sans-serif;
+      --body: "Inter", sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html {
+      scroll-behavior: smooth;
+      scroll-padding-top: 40px;
+    }
+    body {
+      font-family: var(--body);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      text-rendering: optimizeLegibility;
+    }
+
+    .container { width: min(1180px, 92%); margin: 0 auto; }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .header-wrap {
+      min-height: 74px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.2rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      font-family: var(--headline);
+      text-decoration: none;
+      color: inherit;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .brand img { width: auto; height: auto; object-fit: contain; }
+    .brand-red { color: var(--red); }
+    .brand-logo {
+      width: 170px !important;
+      height: auto;
+      display: block;
+      max-width: 170px !important;
+      min-width: 170px;
+      flex-shrink: 0;
+    }
+
+    nav ul {
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 1.1rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #334155;
+      font-weight: 600;
+      font-size: 0.95rem;
+      letter-spacing: -0.01em;
+      position: relative;
+      transition: color 0.22s ease;
+    }
+
+    nav a::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -6px;
+      width: 100%;
+      height: 2px;
+      transform: scaleX(0);
+      transform-origin: left;
+      background: var(--red);
+      transition: transform 0.22s ease;
+    }
+
+    nav a:hover {
+      color: var(--red);
+    }
+
+    nav a:hover::after {
+      transform: scaleX(1);
+    }
+    section {
+      padding: 86px 0;
+      scroll-margin-top: 40px;
+    }
+    .section-title { margin-bottom: 1.25rem; }
+    .section-title h2 {
+      font-family: var(--headline);
+      font-size: clamp(1.85rem, 3.1vw, 2.7rem);
+      letter-spacing: -0.04em;
+      line-height: 1.1;
+    }
+    .section-title-with-logo {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.7rem;
+    }
+    .section-title-logo {
+      width: 64px !important;
+      height: 64px !important;
+      min-width: 64px;
+      object-fit: contain;
+      display: block;
+    }
+    .section-title p { color: var(--muted); max-width: 760px; margin-top: 0.8rem; }
+    .redvet-title-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .redvet-cta {
+      text-decoration: none;
+      background: #ffffff;
+      color: #1d89e4;
+      font-weight: 700;
+      padding: 0.62rem 1rem;
+      border-radius: 10px;
+      border: 1px solid #1b79c8;
+      box-shadow: var(--shadow-soft);
+      white-space: nowrap;
+      transition: transform 0.2s ease, background-color 0.2s ease;
+    }
+    .redvet-cta:hover {
+      background: #eef6ff;
+      transform: translateY(-1px);
+    }
+    .redtpv-cta {
+      color: #217d04;
+      border-color: #217d04;
+    }
+    .redtpv-cta:hover {
+      background: #eef9ea;
+    }
+    .brand-word {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .brand-redred-a { color: #a80909; }
+    .brand-redred-b { color: #dc1a22; }
+    .brand-red-main { color: #dc1a22; }
+    .brand-blue { color: #1d89e4; }
+    .brand-green { color: #217d04; }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.45fr) minmax(0, 0.75fr);
+      gap: 1rem;
+      align-items: stretch;
+    }
+    .hero-ads-banner {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 560px;
+      align-items: stretch;
+      gap: 0.8rem;
+      text-decoration: none;
+      background: linear-gradient(135deg, #fff5f5 0%, #eef6ff 100%);
+      border: 1px solid #f3c8cd;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+      padding: 0.95rem 1rem;
+      color: #0f172a;
+    }
+    .hero-ads-copy-zone {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 0.32rem;
+      min-width: 0;
+    }
+    .hero-ads-brand-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.55rem;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+    }
+    .brand-redvetads-inline {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0;
+      white-space: nowrap;
+      font-weight: 800;
+      line-height: 1;
+      font-size: 1.35rem;
+    }
+    .brand-redvetads-inline span {
+      margin: 0;
+      padding: 0;
+      letter-spacing: 0;
+    }
+    .brand-redvetads-inline .rv-red { color: #dc1a22; }
+    .brand-redvetads-inline .rv-vet { color: #1d89e4; }
+    .brand-redvetads-inline .rv-ads { color: #a80909; }
+    .hero-ads-inline-note {
+      font-size: clamp(1rem, 1.55vw, 1.15rem);
+      color: #334155;
+      letter-spacing: -0.01em;
+      font-weight: 600;
+      line-height: 1.1;
+    }
+    .hero-ads-headline {
+      font-family: var(--headline);
+      font-weight: 800;
+      color: #0f172a;
+      font-size: clamp(1.32rem, 2.7vw, 2.05rem);
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+    }
+    .hero-ads-headline .highlight {
+      color: #dc1a22;
+    }
+    .hero-ads-subline {
+      color: #334155;
+      font-size: clamp(1rem, 1.55vw, 1.15rem);
+      letter-spacing: -0.01em;
+    }
+    .hero-ads-fakebtn {
+      margin-top: 0.18rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(180deg, #55a9f9 0%, #2f88e6 100%);
+      color: #fff;
+      font-weight: 800;
+      border-radius: 999px;
+      padding: 0.52rem 1.2rem;
+      box-shadow: 0 8px 18px rgba(29, 137, 228, 0.26);
+    }
+    .hero-ads-image-zone {
+      border: none;
+      border-radius: 14px;
+      background: transparent;
+      min-height: 170px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #64748b;
+      font-weight: 600;
+      text-align: center;
+      padding: 0.6rem;
+    }
+    .hero-ads-image-zone img {
+      width: 100%;
+      height: 100%;
+      max-height: 240px;
+      object-fit: contain;
+      display: block;
+      border-radius: 10px;
+      background: transparent;
+    }
+
+    .hero-copy {
+      position: relative;
+      isolation: isolate;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: clamp(1.5rem, 3vw, 2.6rem);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      overflow: hidden;
+      min-height: 360px;
+    }
+
+    .hero-copy::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      background:
+        radial-gradient(circle at 0% 0%, rgba(207, 20, 34, 0.1), transparent 40%),
+        radial-gradient(circle at 100% 100%, rgba(29, 137, 228, 0.12), transparent 40%);
+    }
+
+    .hero-copy h1 {
+      font-family: var(--headline);
+      font-size: clamp(2.1rem, 4.8vw, 4rem);
+      line-height: 1.02;
+      letter-spacing: -0.04em;
+      margin-bottom: 0.8rem;
+    }
+
+    .hero-copy p { color: var(--muted); margin-bottom: 1rem; }
+    .pill {
+      display: inline-block;
+      width: fit-content;
+      border: 1px solid #fecdd3;
+      background: #fff1f2;
+      color: #b91c1c;
+      border-radius: 999px;
+      padding: 0.28rem 0.7rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+    }
+
+    .hero-media {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      align-content: start;
+      max-width: 360px;
+      margin-left: auto;
+    }
+
+    .media-card, .feature, .product-card, .gallery-card, .contact-card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .media-card:hover,
+    .feature:hover,
+    .product-card:hover,
+    .gallery-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 22px 50px rgba(15, 23, 42, 0.12);
+    }
+
+    .media-card img, .gallery-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .media-card { aspect-ratio: 1 / 1; min-height: 0; width: 100%; }
+
+    .features-grid, .products-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1.2rem;
+    }
+
+    .feature { padding: 1.2rem; }
+    .feature h3 {
+      font-family: var(--headline);
+      font-size: 1.05rem;
+      margin-bottom: 0.45rem;
+      letter-spacing: -0.02em;
+    }
+    .feature p { color: var(--muted); font-size: 0.95rem; }
+
+    .product-card img { width: 100%; height: 220px; object-fit: cover; display: block; }
+    .product-copy { padding: 1rem 1.1rem 1.2rem; }
+    .product-copy h3 {
+      font-family: var(--headline);
+      font-size: 1.25rem;
+      margin-bottom: 0.35rem;
+      letter-spacing: -0.02em;
+    }
+    #redpet .product-copy h3 {
+      color: #1d89e4;
+    }
+    .product-copy p { color: var(--muted); margin-bottom: 0.75rem; }
+    .product-copy a {
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+    }
+
+    .redvet a { color: var(--blue); }
+    .redtpv a { color: var(--green); }
+    .redpet a { color: var(--red); }
+
+    .subscriptions-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
+      gap: 1rem;
+      margin-top: 1.2rem;
+    }
+    .subscription-card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+      padding: 1.2rem;
+    }
+    .subscription-card h3 {
+      font-family: var(--headline);
+      font-size: 1.35rem;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.55rem;
+      color: #0f172a;
+    }
+    .subscription-note {
+      color: var(--muted);
+      margin-bottom: 0.9rem;
+    }
+    .subscription-price-list {
+      display: grid;
+      gap: 0.55rem;
+    }
+    .subscription-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.7rem;
+      border-bottom: 1px dashed #e2e8f0;
+      padding-bottom: 0.45rem;
+    }
+    .subscription-label {
+      font-size: 1.05rem;
+      color: #0f172a;
+      font-weight: 700;
+    }
+    .subscription-price {
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: #1d89e4;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+    .subscription-price-note {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #1d89e4;
+      letter-spacing: 0;
+    }
+    .subscription-price.free {
+      color: #dc1a22;
+    }
+    .ia-includes {
+      margin-top: 0.7rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .ia-includes p {
+      margin-bottom: 0.35rem;
+    }
+    .ia-includes ul {
+      margin: 0.15rem 0 0 1.2rem;
+      padding: 0;
+    }
+    .ia-includes li {
+      margin: 0.2rem 0;
+    }
+
+    .gallery-grid {
+      margin-top: 1.2rem;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.8rem;
+    }
+
+    .gallery-card { aspect-ratio: 4 / 3; }
+
+    .redvet-rows {
+      margin-top: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .redvet-row {
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(0, 1fr);
+      gap: 1rem;
+      align-items: stretch;
+    }
+
+    .redvet-row.image-left {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 3fr);
+    }
+
+    .redvet-row .gallery-card {
+      aspect-ratio: 1 / 1;
+    }
+    #redvet .redvet-row .feature,
+    #redtpv .redvet-row .feature {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    #redvet .redvet-row .feature h3 {
+      font-size: 2.1rem;
+      line-height: 1.12;
+      color: #1d89e4;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.6rem;
+    }
+    #redtpv .redvet-row .feature h3 {
+      font-size: 2.1rem;
+      line-height: 1.12;
+      color: #217d04;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.6rem;
+    }
+    #redvet .redvet-row .feature p,
+    #redtpv .redvet-row .feature p {
+      font-size: 1.2rem;
+      line-height: 1.58;
+    }
+
+    .about-grid {
+      margin-top: 1.2rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+
+    .about-block {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+      padding: 1.3rem;
+    }
+
+    .about-block h3 {
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+      font-family: var(--headline);
+    }
+    .about-block p { color: var(--muted); }
+
+    .contact-grid {
+      margin-top: 1.2rem;
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 1rem;
+    }
+
+    .contact-card {
+      padding: 1.3rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .contact-card p { color: var(--muted); margin: 0.45rem 0; }
+    .contact-card a { color: inherit; font-weight: 700; text-decoration: none; }
+    .contact-card p.contact-line-email,
+    .contact-card p.contact-line-email a { color: #1d89e4; }
+    .contact-card p.contact-line-whatsapp,
+    .contact-card p.contact-line-whatsapp a { color: #217d04; }
+    .whatsapp-qr {
+      margin-top: 0.75rem;
+      width: 140px;
+      height: 140px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      display: block;
+      object-fit: cover;
+    }
+
+    .editorial-strip {
+      margin-top: 1rem;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.8rem;
+    }
+
+    .editorial-card {
+      background: var(--surface-soft);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 1rem;
+    }
+
+    .editorial-card h4 {
+      font-family: var(--headline);
+      font-size: 1rem;
+      margin-bottom: 0.3rem;
+      letter-spacing: -0.02em;
+    }
+
+    .editorial-card p {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 2rem 0 2.5rem;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .footer-wrap {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(16px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
+    }
+
+    .reveal.in {
+      opacity: 1;
+      transform: none;
+    }
+
+    .footer-links a {
+      text-decoration: none;
+      color: var(--muted);
+      margin-left: 1rem;
+      font-weight: 600;
+    }
+
+    .footer-links a:hover { color: var(--red); }
+
+    .cookie-banner {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #111827;
+      color: #f9fafb;
+      padding: 1rem 1.5rem;
+      display: none;
+      z-index: 2000;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+    }
+
+    .cookie-banner-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .cookie-banner p { margin: 0; font-size: 0.95rem; line-height: 1.5; }
+    .cookie-banner a { color: #93c5fd; text-decoration: none; }
+    .cookie-banner a:hover { text-decoration: underline; }
+
+    .cookie-banner button {
+      background: var(--red);
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    @media (max-width: 980px) {
+      html { scroll-padding-top: 96px; }
+      section { scroll-margin-top: 96px; }
+      .hero-grid,
+      .features-grid,
+      .products-grid,
+      .subscriptions-grid,
+      .gallery-grid,
+      .about-grid,
+      .contact-grid,
+      .editorial-strip {
+        grid-template-columns: 1fr;
+      }
+
+      .gallery-card { aspect-ratio: 16 / 10; }
+      .redvet-row,
+      .redvet-row.image-left {
+        grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+      }
+      .redvet-row .gallery-card {
+        aspect-ratio: 1 / 1;
+      }
+      .redvet-row .feature {
+        min-width: 0;
+      }
+      .header-wrap { padding: 0.7rem 0; }
+      nav ul { justify-content: flex-start; gap: 0.7rem; }
+      nav a { font-size: 0.88rem; }
+      .redvet-title-row { align-items: flex-start; }
+      .brand-logo {
+        width: 132px !important;
+        max-width: 132px !important;
+        min-width: 132px;
+      }
+      .hero-media { max-width: none; margin-left: 0; }
+      .hero-ads-banner {
+        grid-template-columns: 1fr;
+        gap: 0.45rem;
+      }
+      .hero-ads-copy-zone {
+        align-items: center;
+        text-align: center;
+      }
+      .hero-ads-brand-row {
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+      .hero-ads-image-zone {
+        min-height: 95px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .hero-grid { grid-template-columns: 1fr; }
+      .hero-copy { min-height: auto; }
+      .hero-media { grid-template-columns: 1fr; }
+      .redvet-row,
+      .redvet-row.image-left {
+        grid-template-columns: 1fr;
+      }
+      #redvet .redvet-row .feature,
+      #redtpv .redvet-row .feature {
+        padding: 1.3rem;
+      }
+      #redvet .redvet-row .feature h3,
+      #redtpv .redvet-row .feature h3 {
+        margin-bottom: 0.75rem;
+      }
+      #redvet .redvet-row .feature p,
+      #redtpv .redvet-row .feature p {
+        line-height: 1.72;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container header-wrap">
+      <a href="/" class="brand">
+        <img class="brand-logo" src="branding/icons/redred/redred-logo-512w.png" alt="RedRed">
+      </a>
+      <nav>
+        <ul>
+          <li><a href="#redvet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a></li>
+          <li><a href="#redtpv"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a></li>
+          <li><a href="#redpet"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a></li>
+          <li><a href="#suscripciones">Suscripciones</a></li>
+          <li><a href="#nosotros">Nosotros</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+          <li><a href="/soporte-redpet.html">Soporte</a></li>
+          <li><a href="/redvet-ads.html"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span><span class="brand-word brand-redred-a">Ads</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="inicio" class="reveal">
+      <div class="container hero-grid">
+        <a class="hero-ads-banner" href="/redvet-ads.html">
+          <span class="hero-ads-copy-zone">
+            <span class="hero-ads-brand-row">
+              <span class="brand-redvetads-inline"><span class="rv-red">Red</span><span class="rv-vet">Vet</span><span class="rv-ads">Ads</span></span>
+              <span class="hero-ads-inline-note">Anúnciate con nosotros</span>
+            </span>
+            <span class="hero-ads-headline">Influye en <span class="highlight">cada</span> consulta <span class="highlight">veterinaria</span></span>
+            <span class="hero-ads-subline">Tu marca en el momento exacto de la decisión clínica</span>
+            <span class="hero-ads-fakebtn">Ver cómo funciona</span>
+          </span>
+          <span class="hero-ads-image-zone">
+            <img src="/images/landing-nueva/vacuna.png" alt="Ejemplo de anuncio RedVet Ads">
+          </span>
+        </a>
+        <div class="hero-copy">
+          <span class="pill">Ecosistema <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span></span>
+          <h1>Diseño más limpio.<br>Gestión más rápida.</h1>
+          <p>En <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span> <strong>Soluciones de Gestión</strong> unificamos clínica, punto de venta y comunicación con clientes en una experiencia visual simple, profesional y enfocada en productividad.</p>
+        </div>
+        <div class="hero-media">
+          <div class="media-card"><img src="images/landing-nueva/veterinario-pc.png" alt="Veterinario usando RedVet en ordenador"></div>
+          <div class="media-card"><img src="images/landing-nueva/veterinario-telefono.png" alt="Veterinario usando RedVet en telefono"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="redvet" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <div class="redvet-title-row">
+            <h2 class="section-title-with-logo">
+              <img class="section-title-logo" src="branding/icons/redvet/logo redvet sl 128.png" alt="Logo RedVet">
+              <span><span style="color:#dc1a22;">Red</span><span style="color:#1d89e4;">Vet</span></span>
+            </h2>
+            <a class="redvet-cta" href="/redvet.html">Entrar a <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></a>
+          </div>
+          <p>Gestión clínica veterinaria con historial médico, seguimiento y atención diaria en una interfaz clara.</p>
+        </div>
+        <div class="redvet-rows">
+          <div class="redvet-row image-left">
+            <figure class="gallery-card"><img src="images/landing-nueva/redvet-ia-real.png" alt="IA clínica en RedVet"></figure>
+            <article class="feature">
+              <h3>Deja que la <span class="brand-word brand-red-main">IA</span> trabaje para ti</h3>
+              <p><strong>Haz clic</strong> en el botón <span class="brand-word brand-red-main">IA</span> y te proporcionará <strong>3 diagnósticos</strong> diferenciales, <strong>3 tratamientos</strong> y te <strong>interpretará los análisis.</strong></p>
+            </article>
+          </div>
+
+          <div class="redvet-row">
+            <article class="feature">
+              <h3>El historial clínico en tu mano</h3>
+              <p><strong>Incluso si es la primera vez que atiendes al cliente</strong>, solo tiene que autorizarte desde su app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> para compartir todo el historial de su mascota.</p>
+            </article>
+            <figure class="gallery-card"><img src="images/landing-nueva/redvet-perro-real.png" alt="Ficha de mascota RedVet"></figure>
+          </div>
+
+          <div class="redvet-row image-left">
+            <figure class="gallery-card"><img src="images/landing-nueva/redvet-receta-real.png" alt="Recetas RedVet"></figure>
+            <article class="feature">
+              <h3>Recetas generadas en automático</h3>
+              <p>Al crear una consulta, las recetas se comparten al instante con el cliente en <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>. <strong>Los certificados se crean con un clic,</strong> tomando en cuenta vacunas y desparasitaciones.</p>
+            </article>
+          </div>
+
+          <div class="redvet-row">
+            <article class="feature">
+              <h3>Pruebas diagnósticas en orden</h3>
+              <p>Tanto el veterinario como el cliente siempre tendrán acceso a todas sus pruebas de laboratorio. <strong>Olvídate de almacenarlas en papel.</strong></p>
+            </article>
+            <figure class="gallery-card"><img src="images/landing-nueva/redvet-rx-real.png" alt="Pruebas diagnósticas RedVet"></figure>
+          </div>
+
+          <div class="redvet-row image-left">
+            <figure class="gallery-card"><img src="images/landing-nueva/redvet-agenda-real.png" alt="Agenda RedVet"></figure>
+            <article class="feature">
+              <h3>Gestiona tu agenda</h3>
+              <p>Agenda citas y envíalas <strong>por WhatsApp en automático.</strong> <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> se encarga de los recordatorios de vacunas y revisiones por ti, manteniendo a los clientes informados.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="redtpv" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <div class="redvet-title-row">
+            <h2 class="section-title-with-logo">
+              <img class="section-title-logo" src="branding/icons/redtpv/logo redtpv sl 128.png" alt="Logo RedTPV">
+              <span><span style="color:#dc1a22;">Red</span><span style="color:#217d04;">TPV</span></span>
+            </h2>
+            <a class="redvet-cta redtpv-cta" href="/redtpv.html">Entrar a <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span></a>
+          </div>
+          <p>Punto de venta para clínicas: cobro, control de inventario y seguimiento financiero.</p>
+        </div>
+        <div class="redvet-rows">
+          <div class="redvet-row">
+            <article class="feature">
+              <h3>Control total de ventas y clientes</h3>
+              <p>Registra cada <strong>venta fácilmente</strong>, gestiona los pagos y lleva el control de deudas y saldos de tus clientes. <strong>Cada ticket se envía por WhatsApp</strong> y queda visible en la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> del cliente.</p>
+            </article>
+            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-caja-real.png" alt="Panel de ventas RedTPV"></figure>
+          </div>
+
+          <div class="redvet-row image-left">
+            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-inventario-real.png" alt="Facturación RedTPV"></figure>
+            <article class="feature">
+              <h3>Inventario, compras y proveedores</h3>
+              <p>Administra tus <strong>productos, precios y existencias</strong> desde un solo lugar. Genera automáticamente <strong>etiquetas con QR</strong>, avisa cuando hay <strong>bajo stock</strong> y permite crear <strong>órdenes de compra</strong> a proveedores.</p>
+            </article>
+          </div>
+
+          <div class="redvet-row">
+            <article class="feature">
+              <h3>Caja, estadísticas y descuentos</h3>
+              <p>Realiza <strong>cierres de caja precisos</strong>. Crea estadísticas de ventas, <strong>reportes detallados</strong> por día, semana, mes o año, y configura <strong>descuentos e impuestos.</strong></p>
+            </article>
+            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-estadisticas-real.png" alt="Inventario RedTPV"></figure>
+          </div>
+
+          <div class="redvet-row image-left">
+            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-seguridad-real.png" alt="Operación diaria RedTPV"></figure>
+            <article class="feature">
+              <h3>Control de empleados y seguridad</h3>
+              <p>Asigna <strong>roles</strong> de usuario (administrador o empleado) y protege tu información con <strong>PIN de seguridad.</strong></p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="redpet" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <div class="redvet-title-row">
+            <h2 class="section-title-with-logo">
+              <img class="section-title-logo" src="branding/icons/redpet/logo redpet sl 128.png" alt="Logo RedPet">
+              <span><span style="color:#dc1a22;">Red</span><span style="color:#1d89e4;">Pet</span></span>
+            </h2>
+            <a class="redvet-cta" href="/redpet.html">Entrar a <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span></a>
+          </div>
+          <p>La app para los dueños de mascotas. Aqui tendras todo el historial de tu mascota y podras consultar los tickets de las veterinarias que usen <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></p>
+        </div>
+        <div class="products-grid">
+          <article class="product-card redpet">
+            <img src="images/landing-nueva/redpet-parque-real.png" alt="RedPet app">
+            <div class="product-copy">
+              <h3>Todo en un solo lugar</h3>
+            <p>Tendrás en tu bolsillo todo el historial de tus mascotas: vacunas, desparasitaciones, pruebas médicas, cirugías, consultas...</p>
+            </div>
+          </article>
+          <article class="product-card redpet">
+            <img src="images/landing-nueva/redpet-clinica-qr-real.png" alt="Vista RedPet">
+            <div class="product-copy">
+            <h3>Comparte el historial de tu mascota</h3>
+            <p>Solo tienes que autorizar a la clínica para que pueda ver todo el historial de tu mascota. Aunque sea la primera vez que vas a esa veterinaria, tendrán todos los antecedentes para un diagnóstico más certero.</p>
+            </div>
+          </article>
+          <article class="product-card redpet">
+            <img src="images/landing-nueva/redpet-casa-real.png" alt="Salud RedPet">
+            <div class="product-copy">
+              <h3>Seguimiento de salud</h3>
+            <p>Ya no te preocupes por olvidarte de las vacunas, nosotros te lo recordamos.</p>
+            </div>
+          </article>
+          <article class="product-card redpet">
+            <img src="images/landing-nueva/redpet-cuentas-claras-real.png" alt="Saldos y pagos en RedPet">
+            <div class="product-copy">
+              <h3>Las cuentas claras</h3>
+              <p>Si tu médico usa <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>, podrás consultar tus saldos, tickets y pagos sin esfuerzo en <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="suscripciones" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <h2>Suscripciones</h2>
+          <p>Las suscripciones se hacen a traves de la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> en tu dispositivo movil. entra a ajustes en el menu lateral y pulsa en suscripciones</p>
+        </div>
+        <div class="subscriptions-grid">
+          <article class="subscription-card">
+            <h3>Planes mensuales para <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></h3>
+            <div class="subscription-price-list">
+              <div class="subscription-row">
+                <span class="subscription-label">Con publicidad</span>
+                <span class="subscription-price free">Gratis</span>
+              </div>
+              <div class="subscription-row">
+                <span class="subscription-label">Sin publicidad</span>
+                <span class="subscription-price subscription-price-note">Consulta en tu App</span>
+              </div>
+              <div class="subscription-row">
+                <span class="subscription-label"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> <span class="brand-word brand-red-main">IA</span></span>
+                <span class="subscription-price subscription-price-note">Consulta en tu App</span>
+              </div>
+            </div>
+            <div class="ia-includes">
+              <p><strong>La suscripción <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> <span class="brand-word brand-red-main">IA</span> incluye:</strong></p>
+              <ul>
+                <li>3 días <strong>GRATIS</strong></li>
+                <li>Diagnósticos diferenciales IA</li>
+                <li>Tratamientos con IA</li>
+                <li>Interpretación de análisis IA</li>
+              </ul>
+            </div>
+          </article>
+          <article class="subscription-card">
+            <h3>¿Donde se activa?</h3>
+            <p><strong>La suscripción se activa desde la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>: menú lateral, ajustes y suscripciones.</strong></p>
+            <p>La cancelación se realiza desde la tienda de aplicaciones correspondiente: Android (Google Play) o iOS (App Store).</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="nosotros" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <h2>Nosotros</h2>
+          <p>Construimos herramientas prácticas para clínicas y propietarios, priorizando claridad, rendimiento y control de datos.</p>
+        </div>
+        <div class="about-grid">
+          <article class="about-block">
+            <h3>Qué hacemos</h3>
+            <p>Diseñamos productos conectados para que la operación clínica, administrativa y de seguimiento del paciente fluya sin fricciones.</p>
+          </article>
+          <article class="about-block">
+            <h3>Cómo trabajamos</h3>
+            <p>Iteramos de forma continua con feedback real. Cada versión busca ser más simple visualmente y más útil en el día a día.</p>
+          </article>
+        </div>
+        <div class="editorial-strip">
+          <article class="editorial-card">
+            <h4>Minimalismo funcional</h4>
+            <p>Menos ruido visual, más foco en decisiones clínicas y operativas.</p>
+          </article>
+          <article class="editorial-card">
+            <h4>Arquitectura escalable</h4>
+            <p>Diseño preparado para seguir creciendo con nuevas funciones y productos.</p>
+          </article>
+          <article class="editorial-card">
+            <h4>Experiencia conectada</h4>
+            <p>Una narrativa unificada entre <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>, <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-green">TPV</span> y <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacto" class="reveal">
+      <div class="container">
+        <div class="section-title">
+          <h2>Contacto</h2>
+          <p>Si quieres demo, acompañamiento de implementación o soporte, estamos disponibles.</p>
+        </div>
+        <div class="contact-grid">
+          <article class="contact-card">
+            <p><strong>Web:</strong> <a href="https://www.redredsg.com" target="_blank" rel="noopener">www.redredsg.com</a></p>
+            <p class="contact-line-email"><strong>Email:</strong> <a href="mailto:info@redredsg.com">info@redredsg.com</a></p>
+            <p class="contact-line-whatsapp"><strong>WhatsApp:</strong> <a href="https://wa.me/522298882617" target="_blank" rel="noopener">+52 229 888 2617</a></p>
+            <img class="whatsapp-qr" src="images/landing-nueva/contacto-whatsapp-qr.png" alt="QR de WhatsApp RedRed">
+          </article>
+          <figure class="gallery-card">
+            <img src="images/landing-nueva/contacto-oficina-redred-real.png" alt="Acceso a aplicaciones RedRed">
+          </figure>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-wrap">
+      <p>&copy; 2026 <span class="brand-word brand-redred-a">Red</span><span class="brand-word brand-redred-b">Red</span>. Todos los derechos reservados.</p>
+      <div class="footer-links">
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner-content">
+      <p>Usamos cookies y tecnologías similares para analizar el tráfico y mostrar anuncios relevantes. Al continuar navegando, aceptas su uso. Puedes consultar más en nuestra <a href="/privacy.html">Política de Privacidad</a>.</p>
+      <button type="button" id="cookieAccept">Aceptar</button>
+    </div>
+  </div>
+
+  <script>
+    const revealNodes = document.querySelectorAll('.reveal');
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('in');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.14 });
+
+    revealNodes.forEach((node) => revealObserver.observe(node));
+
+    const cookieBanner = document.getElementById('cookieBanner');
+    const cookieAccept = document.getElementById('cookieAccept');
+    const cookieKey = 'rr_cookie_consent_v1';
+
+    if (!localStorage.getItem(cookieKey)) {
+      cookieBanner.style.display = 'block';
+    }
+
+    cookieAccept.addEventListener('click', function() {
+      localStorage.setItem(cookieKey, 'accepted');
+      cookieBanner.style.display = 'none';
+    });
+  </script>
+</body>
+</html>
