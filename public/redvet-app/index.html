@@ -111,6 +111,8 @@
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
         sans-serif;
       color: #333333;
+      position: relative;
+      z-index: 2;
     }
 
     .rr-ad-right h4 {
@@ -168,6 +170,7 @@
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       background: #0b1f3a;
+      cursor: pointer;
     }
 
     .rr-ad-banner:hover {
@@ -185,7 +188,6 @@
     }
 
     .rr-guide-link {
-      margin-top: auto;
       display: inline-block;
       width: 100%;
       text-align: center;
@@ -197,6 +199,36 @@
       border-radius: 8px;
       font-weight: 600;
       box-sizing: border-box;
+      cursor: pointer;
+    }
+
+    .rr-ad-sidebar-footer {
+      margin-top: auto;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .rr-subscriptions-link {
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      background: #dc3545;
+      color: #ffffff;
+      text-decoration: none;
+      border: 1px solid #b02a37;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      box-sizing: border-box;
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .rr-subscriptions-link:hover {
+      background: #b02a37;
+      border-color: #962028;
     }
 
     .rr-guide-link:hover {
@@ -299,8 +331,10 @@
 
   <!-- Flutter JS loader -->
   <script>
-    var serviceWorkerVersion = '"1572541843"';
+    var serviceWorkerVersion = '"3894550809"';
   </script>
+  <script src="revenuecat-web-config.js"></script>
+  <script src="../js/redvet-revenuecat-web.js"></script>
   <script src="flutter.js" defer></script>
 </head>
 
@@ -311,13 +345,16 @@
         <div id="rr-flutter-host"></div>
         <div class="rr-ad-right" id="rr-ad-right" style="display:none;">
           <h4>Publicidad</h4>
-          <a class="rr-ad-banner" href="/#suscripciones" target="_blank" rel="noopener" aria-label="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" onclick="if(window.fbq){fbq('trackCustom','RedVetApp_SidebarAd_Click');}">
+          <a class="rr-ad-banner" href="#" id="rr-ad-banner-link" role="button" aria-label="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis">
             <video autoplay muted loop playsinline preload="auto" poster="/images/landing-nueva/ad-redvet-ia-300x600.png">
               <source src="/images/landing-nueva/ad-redvet-ia-300x600.mp4" type="video/mp4" />
               <img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" />
             </video>
           </a>
-          <a class="rr-guide-link" href="/redvet-guia.html" target="_blank" rel="noopener">Guía de usuario</a>
+          <div class="rr-ad-sidebar-footer">
+            <button type="button" class="rr-subscriptions-link" id="rr-subscriptions-link" aria-label="Suscripciones RedVet">Suscripciones</button>
+            <a class="rr-guide-link" href="/redvet-guia.html" target="_blank" rel="noopener">Guía de usuario</a>
+          </div>
         </div>
       </div>
     </main>
@@ -380,9 +417,19 @@
     // Réplica de SubscriptionService._refreshAdFreeFromFirestoreFallback + getter isAdFree.
     // Campo que define suscriptor (sin publicidad lateral): isAdFree (+ isAdFreeManualOverride).
     // NO usar clinicId del user doc: Flutter no lo incluye en candidatos de clínica.
+    function resolveEffectiveAuthUid(fallbackUser) {
+      if (typeof window.__rrGetAppUserId === 'function') {
+        const flutterUid = window.__rrGetAppUserId();
+        if (flutterUid) return flutterUid;
+      }
+      return fallbackUser && fallbackUser.uid ? fallbackUser.uid : null;
+    }
+
     async function resolveIsAdFreeForUser(user) {
+      const uid = resolveEffectiveAuthUid(user);
+      if (!uid) return false;
       const db = firebase.firestore();
-      const userDoc = await db.collection('users').doc(user.uid).get();
+      const userDoc = await db.collection('users').doc(uid).get();
       const userData =
         userDoc.exists && userDoc.data() ? userDoc.data() : {};
 
@@ -397,7 +444,7 @@
         userAiEnabled = userData.isAiEnabled;
       }
 
-      const clinicCandidates = [user.uid];
+      const clinicCandidates = [uid];
       if (Array.isArray(userData.associatedClinicIds)) {
         userData.associatedClinicIds.forEach(function (clinicId) {
           if (clinicId && !clinicCandidates.includes(clinicId)) {
@@ -447,10 +494,12 @@
 
     function startUserSubscriptionListener(user) {
       stopUserSubscriptionListener();
+      const uid = resolveEffectiveAuthUid(user);
+      if (!uid) return;
       __rrUserSubscriptionUnsub = firebase
         .firestore()
         .collection('users')
-        .doc(user.uid)
+        .doc(uid)
         .onSnapshot(
           async function () {
             try {
@@ -547,6 +596,11 @@
               showAdsColumn();
             }
             startUserSubscriptionListener(user);
+            if (typeof window.__rrHandlePendingWebCheckout === "function") {
+              window.__rrHandlePendingWebCheckout().catch(function (e) {
+                console.warn("[RedVet RC Web] checkout pendiente:", e);
+              });
+            }
           } catch (e) {
             console.warn('[RedVet ads] error resolviendo isAdFree:', e);
             __rrIsAdFreeUser = false;
@@ -568,7 +622,11 @@
         },
         onEntrypointLoaded: function (engineInitializer) {
           engineInitializer.initializeEngine({ hostElement: document.getElementById('rr-flutter-host') }).then(function (appRunner) {
-            appRunner.runApp();
+            appRunner.runApp().then(function () {
+              if (!__rrIsAdFreeUser) {
+                showAdsColumn();
+              }
+            });
           });
         }
       });
@@ -587,6 +645,36 @@
       localStorage.setItem(cookieKey, 'accepted');
       cookieBanner.style.display = 'none';
     });
+
+    var subscriptionsLink = document.getElementById('rr-subscriptions-link');
+    if (subscriptionsLink) {
+      subscriptionsLink.addEventListener('click', function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        openSubscriptionsFromShell();
+      });
+    }
+
+    var adBannerLink = document.getElementById('rr-ad-banner-link');
+    if (adBannerLink) {
+      adBannerLink.addEventListener('click', function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        if (window.fbq) {
+          fbq('trackCustom', 'RedVetApp_SidebarAd_Click');
+        }
+        openSubscriptionsFromShell();
+      });
+    }
+
+    function openSubscriptionsFromShell() {
+      var target = '#/subscription';
+      if (window.location.hash === target) {
+        window.dispatchEvent(new HashChangeEvent('hashchange'));
+        return;
+      }
+      window.location.hash = target;
+    }
 
   </script>
 </body>

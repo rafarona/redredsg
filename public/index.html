@@ -429,9 +429,71 @@
 
     .subscriptions-grid {
       display: grid;
-      grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr);
+      grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 1rem;
       margin-top: 1.2rem;
+    }
+    .subscription-plans-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1.2rem;
+    }
+    .subscription-plan-card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      min-height: 100%;
+    }
+    .subscription-plan-card.is-ai {
+      border-color: rgba(29, 137, 228, 0.35);
+      box-shadow: 0 12px 30px rgba(29, 137, 228, 0.12);
+    }
+    .subscription-plan-badge {
+      align-self: flex-start;
+      background: #eaf1ff;
+      color: #2f5bff;
+      font-size: 0.78rem;
+      font-weight: 800;
+      border-radius: 999px;
+      padding: 0.25rem 0.65rem;
+    }
+    .subscription-plan-title {
+      font-family: var(--headline);
+      font-size: 1.25rem;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+      color: #0f172a;
+    }
+    .subscription-plan-price {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #1d89e4;
+    }
+    .subscription-plan-features {
+      margin: 0;
+      padding-left: 1.1rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .subscription-plan-features li {
+      margin: 0.25rem 0;
+    }
+    .subscription-plan-legal {
+      margin-top: auto;
+      font-size: 0.82rem;
+      color: var(--muted);
+      line-height: 1.45;
+    }
+    .subscription-plan-trial-note {
+      font-size: 0.78rem;
+      color: #5b6473;
+      font-weight: 600;
     }
     .subscription-card {
       background: var(--surface);
@@ -483,6 +545,47 @@
     }
     .subscription-price.free {
       color: #dc1a22;
+    }
+    .subscription-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      margin-top: 1rem;
+    }
+    .subscription-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 999px;
+      padding: 0.65rem 1.1rem;
+      font-weight: 700;
+      font-size: 0.92rem;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .subscription-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: var(--shadow-soft);
+    }
+    .subscription-btn-primary {
+      background: var(--blue);
+      color: #fff;
+    }
+    .subscription-btn-ai {
+      background: #0b1f3a;
+      color: #fff;
+    }
+    .subscription-btn-secondary {
+      background: #fff;
+      color: var(--text);
+      border: 1px solid var(--line);
+    }
+    .subscription-web-note {
+      margin-top: 0.85rem;
+      color: var(--muted);
+      font-size: 0.92rem;
     }
     .ia-includes {
       margin-top: 0.7rem;
@@ -713,6 +816,7 @@
       .features-grid,
       .products-grid,
       .subscriptions-grid,
+      .subscription-plans-grid,
       .gallery-grid,
       .about-grid,
       .contact-grid,
@@ -984,39 +1088,52 @@
       <div class="container">
         <div class="section-title">
           <h2>Suscripciones</h2>
-          <p>Las suscripciones se hacen a traves de la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> en tu dispositivo movil. entra a ajustes en el menu lateral y pulsa en suscripciones</p>
+          <p>Los mismos 2 planes que en Android e iOS, ahora también en web. Una sola cuenta <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> para web y móvil.</p>
         </div>
-        <div class="subscriptions-grid">
-          <article class="subscription-card">
-            <h3>Planes mensuales para <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span></h3>
-            <div class="subscription-price-list">
-              <div class="subscription-row">
-                <span class="subscription-label">Con publicidad</span>
-                <span class="subscription-price free">Gratis</span>
-              </div>
-              <div class="subscription-row">
-                <span class="subscription-label">Sin publicidad</span>
-                <span class="subscription-price subscription-price-note">Consulta en tu App</span>
-              </div>
-              <div class="subscription-row">
-                <span class="subscription-label"><span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> <span class="brand-word brand-red-main">IA</span></span>
-                <span class="subscription-price subscription-price-note">Consulta en tu App</span>
-              </div>
-            </div>
-            <div class="ia-includes">
-              <p><strong>La suscripción <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> <span class="brand-word brand-red-main">IA</span> incluye:</strong></p>
-              <ul>
-                <li>3 días <strong>GRATIS</strong></li>
-                <li>Diagnósticos diferenciales IA</li>
-                <li>Tratamientos con IA</li>
-                <li>Interpretación de análisis IA</li>
-              </ul>
+
+        <div class="subscription-plans-grid">
+          <article class="subscription-plan-card">
+            <h3 class="subscription-plan-title">Plan <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> Premium sin publicidad</h3>
+            <p class="subscription-plan-price">Suscripción mensual</p>
+            <ul class="subscription-plan-features">
+              <li>Sin publicidad</li>
+              <li>Más espacio en pantalla</li>
+            </ul>
+            <p class="subscription-plan-legal">Suscripción auto renovable mensual. Se renueva automáticamente salvo cancelación.</p>
+            <div class="subscription-actions">
+              <a class="subscription-btn subscription-btn-primary" href="https://redredsg.com/redvet-app/?rrCheckout=premium">Suscribirme sin anuncios</a>
             </div>
           </article>
+
+          <article class="subscription-plan-card is-ai">
+            <span class="subscription-plan-badge">3 días gratis</span>
+            <h3 class="subscription-plan-title">Plan <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> <span class="brand-word brand-red-main">IA</span> sin publicidad</h3>
+            <p class="subscription-plan-price">Suscripción mensual</p>
+            <ul class="subscription-plan-features">
+              <li>Diagnósticos diferenciales IA</li>
+              <li>Tratamientos con IA</li>
+              <li>Interpretación de análisis IA</li>
+              <li>Sin publicidad</li>
+            </ul>
+            <p class="subscription-plan-trial-note">*Aplican restricciones.</p>
+            <p class="subscription-plan-legal">Suscripción auto renovable mensual. Incluye acceso a RedVet IA sin publicidad.</p>
+            <div class="subscription-actions">
+              <a class="subscription-btn subscription-btn-ai" href="https://redredsg.com/redvet-app/?rrCheckout=ai">Probar RedVet IA</a>
+            </div>
+          </article>
+        </div>
+
+        <div class="subscriptions-grid" style="margin-top: 1rem;">
           <article class="subscription-card">
-            <h3>¿Donde se activa?</h3>
-            <p><strong>La suscripción se activa desde la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>: menú lateral, ajustes y suscripciones.</strong></p>
-            <p>La cancelación se realiza desde la tienda de aplicaciones correspondiente: Android (Google Play) o iOS (App Store).</p>
+            <h3>Gratis con publicidad</h3>
+            <p class="subscription-web-note">Puedes usar <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> gratis con publicidad en web y móvil.</p>
+            <a class="subscription-btn subscription-btn-secondary" href="/redvet-app/">Abrir RedVet web</a>
+          </article>
+          <article class="subscription-card">
+            <h3>¿Dónde se activa?</h3>
+            <p><strong>Web:</strong> botones de arriba → checkout con RevenueCat (Stripe).</p>
+            <p><strong>App móvil:</strong> menú lateral → ajustes → suscripciones (App Store / Google Play).</p>
+            <p>Si ya pagaste en móvil, el plan se sincroniza automáticamente en web.</p>
           </article>
         </div>
       </div>

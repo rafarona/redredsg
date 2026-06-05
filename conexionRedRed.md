@@ -20,6 +20,9 @@ firebase --version
 - `public/index.html` → contenido principal de la web.
 - `public/images/` → imágenes públicas (icons, logos, etc.).
 - `public/redvet-app/` → app Flutter Web de RedVet servida dentro del mismo Hosting.
+- `public/redvet-app/index.html` → shell editable (layout, ads, puente JS); **no sobrescribir** con el build de Flutter.
+- `public/redvet-app/revenuecat-web-config.js` → configuración de RevenueCat Web (API key, planes); **no sobrescribir** con el build de Flutter.
+- `public/js/redvet-revenuecat-web.js` → lógica de checkout web RevenueCat + Stripe.
 
 ### Pasos para desplegar cambios
 1) Entrar al proyecto
@@ -85,12 +88,20 @@ flutter build web --release
 cd /Users/rafaelrodrigueznadal/flutter/redredsg
 ```
 
-3) Sincronizar el build nuevo, **sin sobrescribir `index.html`**:
+3) Sincronizar el build nuevo, **sin sobrescribir archivos del shell**:
 ```bash
-rsync -av --exclude "index.html" \
+rsync -av --delete \
+  --exclude "index.html" \
+  --exclude "manifest.json" \
+  --exclude "revenuecat-web-config.js" \
   "/Users/rafaelrodrigueznadal/flutter/redvetrf/build/web/" \
   "/Users/rafaelrodrigueznadal/flutter/redredsg/public/redvet-app/"
 ```
+
+**Importante sobre `--exclude`:**
+- `index.html` → mantiene layout, publicidad lateral y puente Flutter/JS.
+- `manifest.json` → colores PWA del shell (p. ej. `#ffffff`); el build de Flutter puede traer valores inválidos.
+- `revenuecat-web-config.js` → API key y planes web de RevenueCat. **No forma parte del build de Flutter**; si se omite este exclude y usas `--delete`, el archivo desaparece y checkout web falla con `404` y el error *"RevenueCat Web no está configurado todavía"*.
 
 4) Actualizar `serviceWorkerVersion` en `public/redvet-app/index.html` con el valor del build nuevo.
 - Puedes leerlo desde:
@@ -120,6 +131,59 @@ firebase serve --only hosting:redredsg --port 8080
 ```bash
 firebase deploy --only hosting:redredsg
 ```
+
+### Pasar suscripciones web a PRODUCCIÓN (RevenueCat + Stripe Live)
+
+**Antes de cambiar la key**, completa en [RevenueCat Dashboard](https://app.revenuecat.com):
+
+1. **Stripe Live** conectado (Apps & providers → Web Billing → Stripe **live**, no sandbox).
+2. Productos web **live** publicados: `redvet_ai_web` y `premium_monthly_web` (mismos IDs que sandbox).
+3. Offering `default` → paquetes `ai_monthly` y `$rc_monthly` apuntando a productos **live**.
+4. Trial 3 días en `redvet_ai_web` (igual que sandbox).
+5. **Dominio verificado** en Stripe para `redredsg.com` (Apple Pay / Google Pay opcional).
+
+**API key pública web (obligatoria):**
+
+1. RevenueCat → **RedVet Web** → **API keys** → copia **Public API key (Production)** (`rcb_...`, **sin** `_sb_`).
+2. Pégala en `public/redvet-app/revenuecat-web-config.js`:
+
+```javascript
+apiKeys: {
+  sandbox: "rcb_sb_...",
+  production: "rcb_TU_KEY_DE_PRODUCCION",
+},
+environment: "auto", // redredsg.com → production, localhost → sandbox
+```
+
+3. Despliega hosting:
+```bash
+cd /Users/rafaelrodrigueznadal/flutter/redredsg
+firebase deploy --only hosting:redredsg
+```
+
+**Webhook RevenueCat → Firestore (recomendado):**
+
+- URL: `https://us-central1-redpetvet25.cloudfunctions.net/revenueCatWebhook`
+- Método: POST
+- Authorization header: `Bearer <REVENUECAT_WEBHOOK_AUTH>` (secret en Firebase Functions)
+- Eventos: compras, renovaciones, cancelaciones, expiraciones
+
+Configurar secret API (opcional, mejora sync server-side):
+
+```bash
+cd /Users/rafaelrodrigueznadal/flutter/redvetrf
+firebase functions:secrets:set REVENUECAT_SECRET_API_KEY
+# Pegar Secret API Key de RevenueCat (sk_...)
+firebase deploy --only functions:revenueCatWebhook
+```
+
+**Verificación en producción:**
+
+- Checkout **sin** banner amarillo SANDBOX.
+- Tarjeta real (no `4242...`); cobro real tras trial.
+- `__rrDebugWebOffering()` → `environmentResolved: "production"` en redredsg.com.
+
+**Nota:** Las suscripciones creadas en **sandbox** no migran a producción. Son entornos separados.
 
 ### Publicidad lateral en `redvet-app` (RedVet)
 
@@ -182,6 +246,7 @@ Revisar:
 
 #### Problemas frecuentes
 
+- **`revenuecat-web-config.js` 404** / *RevenueCat Web no está configurado*: el `rsync --delete` borró el archivo. Restaurarlo en `public/redvet-app/` y volver a desplegar; en futuros deploys usar los `--exclude` del paso 3.
 - **No aparece la publicidad**: ventana ≤700px; Firestore con `isAdFree: true` obsoleto; `isAdFreeManualOverride: true`; shell leyendo `clinicId` distinto de Flutter (corregido en el shell actual).
 - **Aparece 1 segundo y desaparece**: `onAuthStateChanged` en web puede dispararse varias veces al cargar; el estado final debe basarse en Firestore + puente Flutter.
 - **Suscrito y sigue viendo ads**: build sin puente JS; caché local desactualizada; Firestore sin `isAdFree: true` en `users` o `clinics/{uid}`.
