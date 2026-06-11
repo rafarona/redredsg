@@ -331,7 +331,7 @@
 
   <!-- Flutter JS loader -->
   <script>
-    var serviceWorkerVersion = '"1422773531"';
+    var serviceWorkerVersion = '"373333496"';
   </script>
   <script src="revenuecat-web-config.js"></script>
   <script src="../js/redvet-revenuecat-web.js"></script>
@@ -371,6 +371,102 @@
     // 320 (ads) + 320 (app igual de ancha que los ads) + 40 (padding) + 2 (border) = 682 → 700.
     var RR_ADS_MIN_WIDTH = 700;
     var __rrIsAdFreeUser = false;
+    var __rrLocalSidebarAd = null;
+    var __rrCanSeeVerifiedVetOnlyAds = false;
+    var __rrDefaultSidebarAdHtml = '';
+
+    window.__rrSetCanSeeVerifiedVetOnlyAds = function (value) {
+      __rrCanSeeVerifiedVetOnlyAds = !!value;
+    };
+
+    window.__rrApplyLocalSidebarAd = function (payload) {
+      var link = document.getElementById('rr-ad-banner-link');
+      if (!link) return;
+
+      if (!payload || !payload.mediaUrl) {
+        __rrLocalSidebarAd = null;
+        link.setAttribute(
+          'aria-label',
+          '¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis'
+        );
+        link.innerHTML =
+          __rrDefaultSidebarAdHtml ||
+          '<img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="RedVet IA" />';
+        return;
+      }
+
+      var title = (payload.title || 'Publicidad').toString();
+      __rrLocalSidebarAd = {
+        campaignId: (payload.campaignId || '').toString(),
+        mediaUrl: (payload.mediaUrl || '').toString(),
+        targetUrl: (payload.targetUrl || '').toString(),
+        title: title,
+      };
+      link.setAttribute('aria-label', title);
+      link.innerHTML =
+        '<img src="' +
+        __rrLocalSidebarAd.mediaUrl +
+        '" alt="' +
+        title.replace(/"/g, '&quot;') +
+        '" />';
+    };
+
+    function looksLikeSidebarEmail(value) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+    }
+
+    function resolveSidebarAdLaunchUrl(url) {
+      var trimmed = (url || '').trim();
+      if (!trimmed) return '';
+
+      if (trimmed.charAt(0) === '#') return trimmed;
+
+      var lower = trimmed.toLowerCase();
+      if (
+        lower.indexOf('mailto:') === 0 ||
+        lower.indexOf('tel:') === 0 ||
+        lower.indexOf('whatsapp:') === 0
+      ) {
+        return trimmed;
+      }
+
+      if (looksLikeSidebarEmail(trimmed)) {
+        return 'mailto:' + trimmed;
+      }
+
+      if (lower.indexOf('http://') !== 0 && lower.indexOf('https://') !== 0) {
+        return 'https://' + trimmed;
+      }
+
+      return trimmed;
+    }
+
+    function launchSidebarAdTarget(url) {
+      var launchUrl = resolveSidebarAdLaunchUrl(url);
+      if (!launchUrl) return false;
+
+      if (launchUrl.charAt(0) === '#') {
+        if (window.location.hash === launchUrl) {
+          window.dispatchEvent(new HashChangeEvent('hashchange'));
+        } else {
+          window.location.hash = launchUrl;
+        }
+        return true;
+      }
+
+      var lowerLaunchUrl = launchUrl.toLowerCase();
+      if (
+        lowerLaunchUrl.indexOf('mailto:') === 0 ||
+        lowerLaunchUrl.indexOf('tel:') === 0 ||
+        lowerLaunchUrl.indexOf('whatsapp:') === 0
+      ) {
+        window.location.href = launchUrl;
+        return true;
+      }
+
+      window.open(launchUrl, '_blank', 'noopener,noreferrer');
+      return true;
+    }
 
     window.__rrApplyAdFreeFromApp = function (isAdFree) {
       __rrIsAdFreeUser = !!isAdFree;
@@ -657,11 +753,22 @@
 
     var adBannerLink = document.getElementById('rr-ad-banner-link');
     if (adBannerLink) {
+      __rrDefaultSidebarAdHtml = adBannerLink.innerHTML;
       adBannerLink.addEventListener('click', function (event) {
         event.preventDefault();
         event.stopPropagation();
         if (window.fbq) {
           fbq('trackCustom', 'RedVetApp_SidebarAd_Click');
+        }
+        if (__rrLocalSidebarAd && __rrLocalSidebarAd.campaignId) {
+          var launched = launchSidebarAdTarget(__rrLocalSidebarAd.targetUrl);
+          if (typeof window.__rrOnLocalSidebarAdClick === 'function') {
+            window.__rrOnLocalSidebarAdClick(
+              __rrLocalSidebarAd.campaignId,
+              launched
+            );
+          }
+          return;
         }
         openSubscriptionsFromShell();
       });
