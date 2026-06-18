@@ -331,7 +331,7 @@
 
   <!-- Flutter JS loader -->
   <script>
-    var serviceWorkerVersion = '"373333496"';
+    var serviceWorkerVersion = '"3563138450"';
   </script>
   <script src="revenuecat-web-config.js"></script>
   <script src="../js/redvet-revenuecat-web.js"></script>
@@ -345,11 +345,8 @@
         <div id="rr-flutter-host"></div>
         <div class="rr-ad-right" id="rr-ad-right" style="display:none;">
           <h4>Publicidad</h4>
-          <a class="rr-ad-banner" href="#" id="rr-ad-banner-link" role="button" aria-label="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis">
-            <video autoplay muted loop playsinline preload="auto" poster="/images/landing-nueva/ad-redvet-ia-300x600.png">
-              <source src="/images/landing-nueva/ad-redvet-ia-300x600.mp4" type="video/mp4" />
-              <img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" />
-            </video>
+          <a class="rr-ad-banner" href="#" id="rr-ad-banner-link" role="button" aria-label="Cargando publicidad">
+            <div class="rr-ad-placeholder" id="rr-ad-banner-placeholder">Cargando publicidad…</div>
           </a>
           <div class="rr-ad-sidebar-footer">
             <button type="button" class="rr-subscriptions-link" id="rr-subscriptions-link" aria-label="Suscripciones RedVet">Suscripciones</button>
@@ -373,15 +370,35 @@
     var __rrIsAdFreeUser = false;
     var __rrLocalSidebarAd = null;
     var __rrCanSeeVerifiedVetOnlyAds = false;
-    var __rrDefaultSidebarAdHtml = '';
+    var __rrDefaultSidebarAdHtml =
+      '<video autoplay muted loop playsinline preload="auto" poster="/images/landing-nueva/ad-redvet-ia-300x600.png">' +
+      '<source src="/images/landing-nueva/ad-redvet-ia-300x600.mp4" type="video/mp4" />' +
+      '<img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis" />' +
+      '</video>';
+    var __rrAppliedSidebarAdKey = null;
 
     window.__rrSetCanSeeVerifiedVetOnlyAds = function (value) {
       __rrCanSeeVerifiedVetOnlyAds = !!value;
     };
 
+    function __rrSidebarAdKey(payload) {
+      if (!payload || !payload.mediaUrl) return 'default';
+      return (
+        (payload.campaignId || '') +
+        '|' +
+        (payload.mediaUrl || '') +
+        '|' +
+        (payload.targetUrl || '')
+      );
+    }
+
     window.__rrApplyLocalSidebarAd = function (payload) {
       var link = document.getElementById('rr-ad-banner-link');
       if (!link) return;
+
+      var nextKey = __rrSidebarAdKey(payload);
+      if (nextKey === __rrAppliedSidebarAdKey) return;
+      __rrAppliedSidebarAdKey = nextKey;
 
       if (!payload || !payload.mediaUrl) {
         __rrLocalSidebarAd = null;
@@ -389,9 +406,7 @@
           'aria-label',
           '¿Aún sin IA en tu clínica? Prueba RedVet IA 3 días gratis'
         );
-        link.innerHTML =
-          __rrDefaultSidebarAdHtml ||
-          '<img src="/images/landing-nueva/ad-redvet-ia-300x600.png" alt="RedVet IA" />';
+        link.innerHTML = __rrDefaultSidebarAdHtml;
         return;
       }
 
@@ -446,12 +461,16 @@
       if (!launchUrl) return false;
 
       if (launchUrl.charAt(0) === '#') {
-        if (window.location.hash === launchUrl) {
-          window.dispatchEvent(new HashChangeEvent('hashchange'));
-        } else {
-          window.location.hash = launchUrl;
+        return navigateInternalRedVetHash(launchUrl);
+      }
+
+      if (
+        launchUrl.indexOf('http://') === 0 ||
+        launchUrl.indexOf('https://') === 0
+      ) {
+        if (tryNavigateSameOriginAppUrl(launchUrl)) {
+          return true;
         }
-        return true;
       }
 
       var lowerLaunchUrl = launchUrl.toLowerCase();
@@ -753,7 +772,6 @@
 
     var adBannerLink = document.getElementById('rr-ad-banner-link');
     if (adBannerLink) {
-      __rrDefaultSidebarAdHtml = adBannerLink.innerHTML;
       adBannerLink.addEventListener('click', function (event) {
         event.preventDefault();
         event.stopPropagation();
@@ -774,13 +792,31 @@
       });
     }
 
-    function openSubscriptionsFromShell() {
-      var target = '#/subscription';
-      if (window.location.hash === target) {
+    function navigateInternalRedVetHash(hash) {
+      if (!hash) return false;
+      var targetHash = hash.charAt(0) === '#' ? hash : '#' + hash;
+      if (window.location.hash === targetHash) {
         window.dispatchEvent(new HashChangeEvent('hashchange'));
-        return;
+      } else {
+        window.location.hash = targetHash;
       }
-      window.location.hash = target;
+      return true;
+    }
+
+    function openSubscriptionsFromShell() {
+      navigateInternalRedVetHash('#/subscription');
+    }
+
+    function tryNavigateSameOriginAppUrl(url) {
+      try {
+        var parsed = new URL(url, window.location.href);
+        if (parsed.origin !== window.location.origin) return false;
+        if (parsed.pathname.indexOf('/redvet-app') === -1) return false;
+        if (!parsed.hash) return false;
+        return navigateInternalRedVetHash(parsed.hash);
+      } catch (e) {
+        return false;
+      }
     }
 
   </script>
