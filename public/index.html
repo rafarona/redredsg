@@ -758,9 +758,23 @@
       transition: opacity 0.55s ease, transform 0.55s ease;
     }
 
-    .reveal.in {
+    .reveal.in,
+    .reveal.in-instant {
       opacity: 1;
       transform: none;
+    }
+
+    .reveal.in-instant {
+      transition: none;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .reveal {
+        opacity: 1;
+        transform: none;
+        transition: none;
+      }
     }
 
     .footer-links a {
@@ -949,7 +963,7 @@
         </div>
         <div class="redvet-rows">
           <div class="redvet-row image-left">
-            <figure class="gallery-card"><img src="images/landing-nueva/redvet-ia-real.png" alt="IA clínica en RedVet"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redvet-ia-real.png" alt="IA clínica en RedVet"></figure>
             <article class="feature">
               <h3>Deja que la <span class="brand-word brand-red-main">IA</span> trabaje para ti</h3>
               <p><strong>Haz clic</strong> en el botón <span class="brand-word brand-red-main">IA</span> y te proporcionará <strong>3 diagnósticos</strong> diferenciales, <strong>3 tratamientos</strong> y te <strong>interpretará los análisis.</strong></p>
@@ -961,11 +975,11 @@
               <h3>El historial clínico en tu mano</h3>
               <p><strong>Incluso si es la primera vez que atiendes al cliente</strong>, solo tiene que autorizarte desde su app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> para compartir todo el historial de su mascota.</p>
             </article>
-            <figure class="gallery-card"><img src="images/landing-nueva/redvet-perro-real.png" alt="Ficha de mascota RedVet"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redvet-perro-real.png" alt="Ficha de mascota RedVet"></figure>
           </div>
 
           <div class="redvet-row image-left">
-            <figure class="gallery-card"><img src="images/landing-nueva/redvet-receta-real.png" alt="Recetas RedVet"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redvet-receta-real.png" alt="Recetas RedVet"></figure>
             <article class="feature">
               <h3>Recetas generadas en automático</h3>
               <p>Al crear una consulta, las recetas se comparten al instante con el cliente en <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>. <strong>Los certificados se crean con un clic,</strong> tomando en cuenta vacunas y desparasitaciones.</p>
@@ -977,11 +991,11 @@
               <h3>Pruebas diagnósticas en orden</h3>
               <p>Tanto el veterinario como el cliente siempre tendrán acceso a todas sus pruebas de laboratorio. <strong>Olvídate de almacenarlas en papel.</strong></p>
             </article>
-            <figure class="gallery-card"><img src="images/landing-nueva/redvet-rx-real.png" alt="Pruebas diagnósticas RedVet"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redvet-rx-real.png" alt="Pruebas diagnósticas RedVet"></figure>
           </div>
 
           <div class="redvet-row image-left">
-            <figure class="gallery-card"><img src="images/landing-nueva/redvet-agenda-real.png" alt="Agenda RedVet"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redvet-agenda-real.png" alt="Agenda RedVet"></figure>
             <article class="feature">
               <h3>Gestiona tu agenda</h3>
               <p>Agenda citas y envíalas <strong>por WhatsApp en automático.</strong> <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span> se encarga de los recordatorios de vacunas y revisiones por ti, manteniendo a los clientes informados.</p>
@@ -1009,11 +1023,11 @@
               <h3>Control total de ventas y clientes</h3>
               <p>Registra cada <strong>venta fácilmente</strong>, gestiona los pagos y lleva el control de deudas y saldos de tus clientes. <strong>Cada ticket se envía por WhatsApp</strong> y queda visible en la app <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span> del cliente.</p>
             </article>
-            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-caja-real.png" alt="Panel de ventas RedTPV"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redtpv-caja-real.png" alt="Panel de ventas RedTPV"></figure>
           </div>
 
           <div class="redvet-row image-left">
-            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-inventario-real.png" alt="Facturación RedTPV"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redtpv-inventario-real.png" alt="Facturación RedTPV"></figure>
             <article class="feature">
               <h3>Inventario, compras y proveedores</h3>
               <p>Administra tus <strong>productos, precios y existencias</strong> desde un solo lugar. Genera automáticamente <strong>etiquetas con QR</strong>, avisa cuando hay <strong>bajo stock</strong> y permite crear <strong>órdenes de compra</strong> a proveedores.</p>
@@ -1025,11 +1039,11 @@
               <h3>Caja, estadísticas y descuentos</h3>
               <p>Realiza <strong>cierres de caja precisos</strong>. Crea estadísticas de ventas, <strong>reportes detallados</strong> por día, semana, mes o año, y configura <strong>descuentos e impuestos.</strong></p>
             </article>
-            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-estadisticas-real.png" alt="Inventario RedTPV"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redtpv-estadisticas-real.png" alt="Inventario RedTPV"></figure>
           </div>
 
           <div class="redvet-row image-left">
-            <figure class="gallery-card"><img src="images/landing-nueva/redtpv-seguridad-real.png" alt="Operación diaria RedTPV"></figure>
+            <figure class="gallery-card"><img loading="lazy" decoding="async" src="images/landing-nueva/redtpv-seguridad-real.png" alt="Operación diaria RedTPV"></figure>
             <article class="feature">
               <h3>Control de empleados y seguridad</h3>
               <p>Asigna <strong>roles</strong> de usuario (administrador o empleado) y protege tu información con <strong>PIN de seguridad.</strong></p>
@@ -1053,28 +1067,28 @@
         </div>
         <div class="products-grid">
           <article class="product-card redpet">
-            <img src="images/landing-nueva/redpet-parque-real.png" alt="RedPet app">
+            <img loading="lazy" decoding="async" src="images/landing-nueva/redpet-parque-real.png" alt="RedPet app">
             <div class="product-copy">
               <h3>Todo en un solo lugar</h3>
             <p>Tendrás en tu bolsillo todo el historial de tus mascotas: vacunas, desparasitaciones, pruebas médicas, cirugías, consultas...</p>
             </div>
           </article>
           <article class="product-card redpet">
-            <img src="images/landing-nueva/redpet-clinica-qr-real.png" alt="Vista RedPet">
+            <img loading="lazy" decoding="async" src="images/landing-nueva/redpet-clinica-qr-real.png" alt="Vista RedPet">
             <div class="product-copy">
             <h3>Comparte el historial de tu mascota</h3>
             <p>Solo tienes que autorizar a la clínica para que pueda ver todo el historial de tu mascota. Aunque sea la primera vez que vas a esa veterinaria, tendrán todos los antecedentes para un diagnóstico más certero.</p>
             </div>
           </article>
           <article class="product-card redpet">
-            <img src="images/landing-nueva/redpet-casa-real.png" alt="Salud RedPet">
+            <img loading="lazy" decoding="async" src="images/landing-nueva/redpet-casa-real.png" alt="Salud RedPet">
             <div class="product-copy">
               <h3>Seguimiento de salud</h3>
             <p>Ya no te preocupes por olvidarte de las vacunas, nosotros te lo recordamos.</p>
             </div>
           </article>
           <article class="product-card redpet">
-            <img src="images/landing-nueva/redpet-cuentas-claras-real.png" alt="Saldos y pagos en RedPet">
+            <img loading="lazy" decoding="async" src="images/landing-nueva/redpet-cuentas-claras-real.png" alt="Saldos y pagos en RedPet">
             <div class="product-copy">
               <h3>Las cuentas claras</h3>
               <p>Si tu médico usa <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Vet</span>, podrás consultar tus saldos, tickets y pagos sin esfuerzo en <span class="brand-word brand-red-main">Red</span><span class="brand-word brand-blue">Pet</span>.</p>
@@ -1183,10 +1197,10 @@
             <p><strong>Web:</strong> <a href="https://www.redredsg.com" target="_blank" rel="noopener">www.redredsg.com</a></p>
             <p class="contact-line-email"><strong>Email:</strong> <a href="mailto:info@redredsg.com">info@redredsg.com</a></p>
             <p class="contact-line-whatsapp"><strong>WhatsApp:</strong> <a href="https://wa.me/522298882617" target="_blank" rel="noopener">+52 229 888 2617</a></p>
-            <img class="whatsapp-qr" src="images/landing-nueva/contacto-whatsapp-qr.png" alt="QR de WhatsApp RedRed">
+            <img class="whatsapp-qr" loading="lazy" decoding="async" src="images/landing-nueva/contacto-whatsapp-qr.png" alt="QR de WhatsApp RedRed">
           </article>
           <figure class="gallery-card">
-            <img src="images/landing-nueva/contacto-oficina-redred-real.png" alt="Acceso a aplicaciones RedRed">
+            <img loading="lazy" decoding="async" src="images/landing-nueva/contacto-oficina-redred-real.png" alt="Acceso a aplicaciones RedRed">
           </figure>
         </div>
       </div>
@@ -1219,9 +1233,41 @@
           revealObserver.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.14 });
+    }, { threshold: 0.05, rootMargin: '0px 0px -8% 0px' });
 
-    revealNodes.forEach((node) => revealObserver.observe(node));
+    function revealSection(section, instant) {
+      if (!section || !section.classList.contains('reveal')) return;
+      section.classList.add('in');
+      if (instant) section.classList.add('in-instant');
+      revealObserver.unobserve(section);
+    }
+
+    function revealFromHash(instant) {
+      const id = (location.hash || '').slice(1);
+      if (!id) return;
+      revealSection(document.getElementById(id), instant);
+    }
+
+    revealNodes.forEach((node) => {
+      const rect = node.getBoundingClientRect();
+      if (rect.top < window.innerHeight * 0.92 && rect.bottom > 0) {
+        node.classList.add('in');
+        revealObserver.unobserve(node);
+        return;
+      }
+      revealObserver.observe(node);
+    });
+
+    document.querySelectorAll('a[href^="#"]').forEach((link) => {
+      link.addEventListener('click', () => {
+        const id = (link.getAttribute('href') || '').slice(1);
+        if (!id) return;
+        revealSection(document.getElementById(id), true);
+      });
+    });
+
+    window.addEventListener('hashchange', () => revealFromHash(true));
+    revealFromHash(true);
 
     const cookieBanner = document.getElementById('cookieBanner');
     const cookieAccept = document.getElementById('cookieAccept');
