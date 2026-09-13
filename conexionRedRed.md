@@ -94,6 +94,7 @@ rsync -av --delete \
   --exclude "index.html" \
   --exclude "manifest.json" \
   --exclude "revenuecat-web-config.js" \
+  --exclude "flutter_service_worker.js" \
   "/Users/rafaelrodrigueznadal/flutter/redvetrf/build/web/" \
   "/Users/rafaelrodrigueznadal/flutter/redredsg/public/redvet-app/"
 ```
@@ -102,11 +103,10 @@ rsync -av --delete \
 - `index.html` → mantiene layout, publicidad lateral y puente Flutter/JS.
 - `manifest.json` → colores PWA del shell (p. ej. `#ffffff`); el build de Flutter puede traer valores inválidos.
 - `revenuecat-web-config.js` → API key y planes web de RevenueCat. **No forma parte del build de Flutter**; si se omite este exclude y usas `--delete`, el archivo desaparece y checkout web falla con `404` y el error *"RevenueCat Web no está configurado todavía"*.
+- `flutter_service_worker.js` → versión del shell sin recarga forzada de pestañas; el build de Flutter puede traer un stub que sí recarga.
 
-4) Actualizar `serviceWorkerVersion` en `public/redvet-app/index.html` con el valor del build nuevo.
-- Puedes leerlo desde:
-  - `redvetrf/build/web/index.html` (línea `var serviceWorkerVersion = '"...'"`)
-  - o `redvetrf/build/web/flutter_bootstrap.js` (`serviceWorkerVersion: "..."`)
+4) **Service worker de Flutter (RedVet web):** el shell en `public/redvet-app/index.html` **no registra** el SW de Flutter (`loadEntrypoint` sin `serviceWorker`), para evitar recargas automáticas de pestaña que mandaban al usuario a Home. Tras `rsync`, el archivo `flutter_service_worker.js` del build puede sobrescribirse; si vuelve el stub que recarga pestañas, restaurar la versión del repo (solo `unregister`, sin `client.navigate`) o volver a excluirlo en el rsync.
+- **No hace falta** copiar `serviceWorkerVersion` del build al shell.
 
 5) Verificar que `public/redvet-app/index.html` mantiene la personalización:
 - `base href="/redvet-app/"`
