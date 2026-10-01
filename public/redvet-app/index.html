@@ -731,8 +731,25 @@
     applyAdFreePolicy();
 
     window.addEventListener('load', function () {
+      var dropStaleCaches = Promise.resolve();
+      try {
+        if (navigator.serviceWorker) {
+          dropStaleCaches = navigator.serviceWorker.getRegistrations().then(function (regs) {
+            return Promise.all(regs.map(function (reg) { return reg.unregister(); }));
+          });
+        }
+        if (window.caches) {
+          dropStaleCaches = dropStaleCaches.then(function () {
+            return caches.keys().then(function (keys) {
+              return Promise.all(keys.map(function (key) { return caches.delete(key); }));
+            });
+          });
+        }
+      } catch (e) {}
+      dropStaleCaches.then(function () {
       // Usar loadEntrypoint para asegurar que _flutter.buildConfig sea inicializado por el loader
       _flutter.loader.loadEntrypoint({
+        entrypointUrl: "/redvet-app/main.dart.v130.js",
         onEntrypointLoaded: function (engineInitializer) {
           engineInitializer.initializeEngine({ hostElement: document.getElementById('rr-flutter-host') }).then(function (appRunner) {
             appRunner.runApp().then(function () {
@@ -742,6 +759,7 @@
             });
           });
         }
+      });
       });
     });
 

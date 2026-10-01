@@ -1,6 +1,7 @@
 // Catálogo web alineado con offering "default" de RevenueCat (iOS/Android).
-// Plan 1 → package $rc_monthly → entitlement ad_free (premium_monthly_web)
-// Plan 2 → package ai_monthly → entitlement ai_access (redvet_ai_web, trial 3 días)
+// Mensual: $rc_monthly, branches_monthly, ai_monthly
+// Anual: $rc_annual, ai_annual
+// Sucursales mensual incluye IA, sin anuncios y 3 días gratis.
 //
 // Modos:
 // - environment: "auto"     → sandbox en localhost, producción en redredsg.com
@@ -65,6 +66,58 @@ window.__rrRevenueCatWebConfig = {
       ],
       legal:
         "Suscripción auto renovable mensual. Incluye acceso a RedVet IA sin publicidad.",
+      trialNote: "*Aplican restricciones.",
+    },
+    {
+      id: "premium_annual",
+      checkoutParam: "premium_annual",
+      packageKey: "$rc_annual",
+      entitlement: "ad_free",
+      title: "Plan RedVet Premium sin publicidad",
+      badge: null,
+      priceFallback: "Anual",
+      cta: "Suscribirme sin anuncios",
+      features: [
+        "Sin publicidad",
+        "Más espacio en pantalla",
+      ],
+      legal:
+        "Suscripción auto renovable anual. Se renueva automáticamente salvo cancelación.",
+    },
+    {
+      id: "ai_annual",
+      checkoutParam: "ai_annual",
+      packageKey: "ai_annual",
+      entitlement: "ai_access",
+      title: "Plan RedVet IA sin publicidad",
+      badge: null,
+      priceFallback: "Anual",
+      cta: "Suscribirme a RedVet IA",
+      features: [
+        "Diagnósticos diferenciales IA",
+        "Tratamientos con IA",
+        "Interpretación de análisis IA",
+        "Sin publicidad",
+      ],
+      legal:
+        "Suscripción auto renovable anual. Incluye acceso a RedVet IA sin publicidad.",
+    },
+    {
+      id: "branches",
+      checkoutParam: "branches",
+      packageKey: "branches_monthly",
+      entitlement: "branches",
+      title: "Plan RedVet Sucursales + IA",
+      badge: "3 días gratis",
+      priceFallback: "Mensual",
+      cta: "Probar sucursales",
+      features: [
+        "Hasta 5 sucursales y un almacén en la misma cuenta",
+        "Todos los beneficios de RedVet IA en cada sucursal",
+        "Sin publicidad",
+      ],
+      legal:
+        "Suscripción auto renovable mensual. Incluye sucursales, RedVet IA y sin publicidad.",
       trialNote: "*Aplican restricciones.",
     },
   ],

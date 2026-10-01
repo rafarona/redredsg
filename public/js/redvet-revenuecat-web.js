@@ -3,6 +3,7 @@
 
   var AD_FREE_ENTITLEMENT = "ad_free";
   var AI_ENTITLEMENT = "ai_access";
+  var BRANCHES_ENTITLEMENT = "branches";
   var purchasesInstance = null;
   var configuredUserId = null;
   var configuredApiKey = null;
@@ -127,12 +128,27 @@
     return purchasesJsPromise;
   }
 
+  function entitlementIsActive(active, id) {
+    if (!active || !id) return false;
+    if (active[id]) return true;
+    var keys = Object.keys(active);
+    for (var i = 0; i < keys.length; i++) {
+      var info = active[keys[i]] || {};
+      if (info.identifier === id || info.lookupKey === id || keys[i] === id) {
+        return true;
+      }
+    }
+    return false;
+  }
+
   function resolveEntitlements(customerInfo) {
     var active =
       (customerInfo && customerInfo.entitlements && customerInfo.entitlements.active) ||
       {};
-    var isAiEnabled = !!active[AI_ENTITLEMENT];
-    var isAdFree = !!active[AD_FREE_ENTITLEMENT] || isAiEnabled;
+    var isAiEnabled = entitlementIsActive(active, AI_ENTITLEMENT);
+    var isBranchesEnabled = entitlementIsActive(active, BRANCHES_ENTITLEMENT);
+    var isAdFree = !!active[AD_FREE_ENTITLEMENT] || isAiEnabled || isBranchesEnabled;
+    if (isBranchesEnabled) isAiEnabled = true;
     var managementURL = (
       (customerInfo && (customerInfo.managementURL || customerInfo.managementUrl)) ||
       ""
@@ -147,6 +163,7 @@
     return {
       isAdFree: isAdFree,
       isAiEnabled: isAiEnabled,
+      hasBranches: isBranchesEnabled,
       hasWebSubscription: hasWebSubscription,
     };
   }
@@ -296,6 +313,9 @@
         (candidate.webBillingProduct && candidate.webBillingProduct.identifier) ||
         (candidate.product && candidate.product.identifier) ||
         "";
+      if (productId.indexOf("redvet_ai_yearly") >= 0 && planKey === "ai_annual") return candidate;
+      if (productId.indexOf("premium_yearly") >= 0 && planKey === "premium_annual") return candidate;
+      if (productId.indexOf("branch") >= 0 && planKey === "branches") return candidate;
       if (productId.indexOf("redvet_ai") >= 0 && planKey === "ai") return candidate;
       if (productId.indexOf("premium") >= 0 && planKey === "premium") return candidate;
     }
