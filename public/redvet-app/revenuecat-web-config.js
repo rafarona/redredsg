@@ -120,6 +120,48 @@ window.__rrRevenueCatWebConfig = {
         "Suscripción auto renovable mensual. Incluye sucursales, RedVet IA y sin publicidad.",
       trialNote: "*Aplican restricciones.",
     },
+    {
+      id: "branches_plus",
+      checkoutParam: "branches_plus",
+      packageKey: "branches_plus_monthly",
+      entitlement: "branches_plus",
+      mobileProductIds: {
+        ios: "redvet_branches_plus",
+        android: "redvet_branches_plus:monthly",
+      },
+      title: "Plan RedVet Sucursales+",
+      badge: null,
+      priceFallback: "Mensual",
+      cta: "Suscribirme a Sucursales+",
+      features: [
+        "Hasta 11 sucursales y 2 almacenes en la misma cuenta",
+        "Todos los beneficios de RedVet IA en cada sucursal",
+        "Sin publicidad",
+      ],
+      legal:
+        "Suscripción auto renovable mensual. Incluye sucursales, RedVet IA y sin publicidad.",
+    },
+    {
+      id: "branches_plus_plus",
+      checkoutParam: "branches_plus_plus",
+      packageKey: "branches_plus_plus_monthly",
+      entitlement: "branches_plus_plus",
+      mobileProductIds: {
+        ios: "redvet_branches_plus_plus",
+        android: "redvet_branches_plus_plus:monthly",
+      },
+      title: "Plan RedVet Sucursales++",
+      badge: null,
+      priceFallback: "Mensual",
+      cta: "Suscribirme a Sucursales++",
+      features: [
+        "Hasta 18 sucursales y 2 almacenes en la misma cuenta",
+        "Todos los beneficios de RedVet IA en cada sucursal",
+        "Sin publicidad",
+      ],
+      legal:
+        "Suscripción auto renovable mensual. Incluye sucursales, RedVet IA y sin publicidad.",
+    },
   ],
   customerPortalUrl: "",
 };

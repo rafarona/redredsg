@@ -99,6 +99,48 @@
       ],
       "rewrites": [
         {
+          "source": "/asistente",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
+          "source": "/asistente/**",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
+          "source": "/.well-known/oauth-protected-resource",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
+          "source": "/.well-known/oauth-protected-resource/**",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
+          "source": "/.well-known/oauth-authorization-server",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
+          "source": "/.well-known/oauth-authorization-server/**",
+          "function": {
+            "functionId": "redvetAssistant",
+            "region": "us-central1"
+          }
+        },
+        {
           "source": "/redvet-app/assets/.env",
           "destination": "/redvet-app/assets/env"
         },

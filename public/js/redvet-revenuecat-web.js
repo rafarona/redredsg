@@ -4,6 +4,8 @@
   var AD_FREE_ENTITLEMENT = "ad_free";
   var AI_ENTITLEMENT = "ai_access";
   var BRANCHES_ENTITLEMENT = "branches";
+  var BRANCHES_PLUS_ENTITLEMENT = "branches_plus";
+  var BRANCHES_PLUS_PLUS_ENTITLEMENT = "branches_plus_plus";
   var purchasesInstance = null;
   var configuredUserId = null;
   var configuredApiKey = null;
@@ -146,8 +148,19 @@
       (customerInfo && customerInfo.entitlements && customerInfo.entitlements.active) ||
       {};
     var isAiEnabled = entitlementIsActive(active, AI_ENTITLEMENT);
-    var isBranchesEnabled = entitlementIsActive(active, BRANCHES_ENTITLEMENT);
-    var isAdFree = !!active[AD_FREE_ENTITLEMENT] || isAiEnabled || isBranchesEnabled;
+    var isBranchesStandard = entitlementIsActive(active, BRANCHES_ENTITLEMENT);
+    var isBranchesPlusPlusEnabled = entitlementIsActive(
+      active,
+      BRANCHES_PLUS_PLUS_ENTITLEMENT,
+    );
+    var isBranchesPlusEnabled = entitlementIsActive(
+      active,
+      BRANCHES_PLUS_ENTITLEMENT,
+    );
+    var isBranchesEnabled =
+      isBranchesStandard || isBranchesPlusEnabled || isBranchesPlusPlusEnabled;
+    var isAdFree =
+      !!active[AD_FREE_ENTITLEMENT] || isAiEnabled || isBranchesEnabled;
     if (isBranchesEnabled) isAiEnabled = true;
     var managementURL = (
       (customerInfo && (customerInfo.managementURL || customerInfo.managementUrl)) ||
@@ -163,7 +176,9 @@
     return {
       isAdFree: isAdFree,
       isAiEnabled: isAiEnabled,
-      hasBranches: isBranchesEnabled,
+      hasBranches: isBranchesStandard,
+      hasBranchesPlus: isBranchesPlusEnabled,
+      hasBranchesPlusPlus: isBranchesPlusPlusEnabled,
       hasWebSubscription: hasWebSubscription,
     };
   }
@@ -315,7 +330,28 @@
         "";
       if (productId.indexOf("redvet_ai_yearly") >= 0 && planKey === "ai_annual") return candidate;
       if (productId.indexOf("premium_yearly") >= 0 && planKey === "premium_annual") return candidate;
-      if (productId.indexOf("branch") >= 0 && planKey === "branches") return candidate;
+      if (
+        (productId.indexOf("branches_plus_plus") >= 0 ||
+          productId.indexOf("branch_plus_plus") >= 0) &&
+        planKey === "branches_plus_plus"
+      ) {
+        return candidate;
+      }
+      if (
+        (productId.indexOf("branches_plus") >= 0 ||
+          productId.indexOf("branch_plus") >= 0) &&
+        productId.indexOf("plus_plus") < 0 &&
+        planKey === "branches_plus"
+      ) {
+        return candidate;
+      }
+      if (
+        productId.indexOf("branch") >= 0 &&
+        productId.indexOf("plus") < 0 &&
+        planKey === "branches"
+      ) {
+        return candidate;
+      }
       if (productId.indexOf("redvet_ai") >= 0 && planKey === "ai") return candidate;
       if (productId.indexOf("premium") >= 0 && planKey === "premium") return candidate;
     }
@@ -393,6 +429,12 @@
 
   window.__rrIsRevenueCatWebEnabled = function () {
     return isConfigured();
+  };
+
+  window.__rrIsWebPlanPurchasable = function (planKey) {
+    if (!cachedOfferingPrices || !planKey) return false;
+    var price = cachedOfferingPrices[planKey];
+    return typeof price === "string" && price.length > 0;
   };
 
   window.__rrListWebSubscriptionPlans = function () {
