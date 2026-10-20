@@ -104,6 +104,7 @@ rsync -av --delete \
 - `manifest.json` → colores PWA del shell (p. ej. `#ffffff`); el build de Flutter puede traer valores inválidos.
 - `revenuecat-web-config.js` → API key y planes web de RevenueCat. **No forma parte del build de Flutter**; si se omite este exclude y usas `--delete`, el archivo desaparece y checkout web falla con `404` y el error *"RevenueCat Web no está configurado todavía"*.
 - `flutter_service_worker.js` → versión del shell sin recarga forzada de pestañas; el build de Flutter puede traer un stub que sí recarga.
+- `index.html` también lleva el script de Google Maps (`maps.googleapis.com/maps/api/js`), delante de `flutter.js`. El `index.html` del build de Flutter lo trae, pero **no hay que copiarlo**: el que vale en producción es el del shell. Si ese script desaparece, la pantalla de ubicación queda en un recuadro gris.
 
 4) **Service worker de Flutter (RedVet web):** el shell en `public/redvet-app/index.html` **no registra** el SW de Flutter (`loadEntrypoint` sin `serviceWorker`), para evitar recargas automáticas de pestaña que mandaban al usuario a Home. Tras `rsync`, el archivo `flutter_service_worker.js` del build puede sobrescribirse; si vuelve el stub que recarga pestañas, restaurar la versión del repo (solo `unregister`, sin `client.navigate`) o volver a excluirlo en el rsync.
 - **No hace falta** copiar `serviceWorkerVersion` del build al shell.
@@ -115,6 +116,15 @@ rsync -av --delete \
 - Umbral de ancho: `RR_ADS_MIN_WIDTH = 700` (por debajo de 700px la columna se oculta con CSS `display: none !important`)
 - Funciones JS de ads/ad-free: `showAdsColumn`, `hideAdsColumn`, `resolveIsAdFreeForUser`, `applyAdFreePolicy`, `window.__rrApplyAdFreeFromApp`
 - Puente desde Flutter: la build debe incluir `__rrApplyAdFreeFromApp` en `main.dart.js` (vía `subscription_web_shell_bridge_web.dart`)
+- Script de Google Maps en el `<head>`, antes de `flutter.js`: `maps.googleapis.com/maps/api/js`
+
+### Mapa de la clínica en la web
+La app nativa usa el SDK de Android/iOS. La web solo dibuja el mapa si el shell carga el JavaScript de Google Maps.
+
+- El script está en `public/redvet-app/index.html`. El `rsync` ya excluye ese archivo; no lo sustituyas por el del build.
+- La clave del navegador (proyecto `redpetvet25`, solo Maps JavaScript API) admite estos orígenes: `http://localhost:8080/*`, `http://127.0.0.1:8080/*`, `https://redredsg.com/*`, `https://www.redredsg.com/*`, `https://redredsg.web.app/*` y `https://redredsg.firebaseapp.com/*`.
+- La previsualización local tiene que ser el puerto **8080**. Otro puerto, u otro dominio, deja el mapa gris hasta que se añada ese origen a la clave.
+- No reutilices las claves de Firebase para el mapa. Android e iOS tienen claves distintas.
 
 6) Probar en local:
 ```bash

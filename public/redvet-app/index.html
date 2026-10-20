@@ -333,6 +333,8 @@
   <!-- Flutter JS loader (sin service worker de Flutter: evita recargas automáticas de pestaña) -->
   <script src="revenuecat-web-config.js"></script>
   <script src="../js/redvet-revenuecat-web.js"></script>
+  <!-- Google Maps JavaScript API. La clave admite localhost:8080 y redredsg.com. -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD903yw2FNGx1h1Ll5Wg3NhgSYrHbnPgK4"></script>
   <script src="flutter.js" defer></script>
 </head>
 
@@ -749,7 +751,7 @@
       dropStaleCaches.then(function () {
       // Usar loadEntrypoint para asegurar que _flutter.buildConfig sea inicializado por el loader
       _flutter.loader.loadEntrypoint({
-        entrypointUrl: "/redvet-app/main.dart.v133.js",
+        entrypointUrl: "/redvet-app/main.dart.v135.js",
         onEntrypointLoaded: function (engineInitializer) {
           engineInitializer.initializeEngine({ hostElement: document.getElementById('rr-flutter-host') }).then(function (appRunner) {
             appRunner.runApp().then(function () {
