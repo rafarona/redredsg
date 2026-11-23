@@ -305,8 +305,8 @@
     }
     .hero-ads-image-zone img {
       width: 100%;
-      height: 100%;
-      max-height: 240px;
+      height: auto;
+      max-height: 320px;
       object-fit: contain;
       display: block;
       border-radius: 10px;
@@ -872,7 +872,10 @@
         flex-wrap: wrap;
       }
       .hero-ads-image-zone {
-        min-height: 95px;
+        min-height: 0;
+      }
+      .hero-ads-image-zone img {
+        max-height: none;
       }
     }
 
@@ -923,18 +926,18 @@
   <main>
     <section id="inicio" class="reveal">
       <div class="container hero-grid">
-        <a class="hero-ads-banner" href="/redvet-ads.html">
+        <a class="hero-ads-banner" href="/redvet-chatgpt.html">
           <span class="hero-ads-copy-zone">
             <span class="hero-ads-brand-row">
-              <span class="brand-redvetads-inline"><span class="rv-red">Red</span><span class="rv-vet">Vet</span><span class="rv-ads">Ads</span></span>
-              <span class="hero-ads-inline-note">Anúnciate con nosotros</span>
+              <span class="brand-redvetads-inline"><span class="rv-red">Red</span><span class="rv-vet">Vet</span></span>
+              <span class="hero-ads-inline-note">en ChatGPT</span>
             </span>
-            <span class="hero-ads-headline">Influye en <span class="highlight">cada</span> consulta <span class="highlight">veterinaria</span></span>
-            <span class="hero-ads-subline">Tu marca en el momento exacto de la decisión clínica</span>
-            <span class="hero-ads-fakebtn">Ver cómo funciona</span>
+            <span class="hero-ads-headline">Gestiona tu clínica desde ChatGPT</span>
+            <span class="hero-ads-subline">Agenda, clientes y consultas</span>
+            <span class="hero-ads-fakebtn">Ver cómo se conecta</span>
           </span>
           <span class="hero-ads-image-zone">
-            <img src="/images/landing-nueva/vacuna.png" alt="Ejemplo de anuncio RedVet Ads">
+            <img src="/images/landing-nueva/chatgpt-clinica.jpg?v=20261120" alt="Videoguía: tu clínica veterinaria con ChatGPT y RedVet">
           </span>
         </a>
         <div class="hero-copy">
