@@ -73,3 +73,9 @@ node_modules/
 
 # Credenciales de service account (nunca subir a git)
 public/redtpv-app/assets/assets/redpetvet25-*.json
+
+# Restos locales de revisión en el navegador
+.playwright-cli/
+
+# Copia sin versión del bundle; en git solo va main.dart.vNNN.js
+public/redvet-app/main.dart.js
