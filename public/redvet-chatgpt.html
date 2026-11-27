@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Integrar RedVet en ChatGPT | RedRed</title>
-  <meta name="description" content="Conecta ChatGPT con RedVet para gestionar la agenda, los clientes y las consultas de tu clínica. Guía paso a paso y videoguía.">
+  <title>Integrar RedVet en ChatGPT y Grok | RedRed</title>
+  <meta name="description" content="Conecta ChatGPT o Grok con RedVet para gestionar la agenda, los clientes y las consultas de tu clínica. Guía paso a paso y videoguía.">
   <link rel="icon" href="images/logo-oficial.png" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -112,6 +112,64 @@
       text-decoration: none;
     }
     .video-link:hover { text-decoration: underline; }
+    .tabs {
+      display: flex;
+      gap: 0.55rem;
+      margin-top: 1.7rem;
+    }
+    .tab {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: #334155;
+      border-radius: 999px;
+      padding: 0.6rem 1.2rem;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .tab[aria-selected="true"] {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fff;
+    }
+    .panel[hidden] { display: none; }
+    .panel .steps { margin-top: 1rem; }
+    .panel .intro { margin-top: 1rem; margin-bottom: 0; }
+    .shots.portrait { align-items: flex-start; }
+    .shots.portrait a { width: min(100%, 380px); }
+    .can-do { margin-top: 2.2rem; }
+    .can-do > h2 {
+      font-family: var(--headline);
+      font-size: clamp(1.5rem, 3vw, 1.9rem);
+      letter-spacing: -0.03em;
+    }
+    .can-lead { margin: 0.45rem 0 0.3rem; color: #334155; max-width: 740px; }
+    .can-group {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      box-shadow: var(--shadow-soft);
+      padding: 1rem 1.15rem 1.15rem;
+      margin-top: 0.8rem;
+    }
+    .can-group h3 {
+      font-family: var(--headline);
+      color: var(--blue);
+      font-size: 1.08rem;
+      letter-spacing: -0.02em;
+    }
+    .can-group ul { margin: 0.45rem 0 0; padding-left: 1.15rem; }
+    .can-group li { margin-top: 0.75rem; }
+    .example { display: block; margin-top: 0.15rem; color: var(--muted); }
+    .notes {
+      margin-top: 0.9rem;
+      background: #eaf3ff;
+      border: 1px solid rgba(29, 137, 228, 0.35);
+      border-radius: 16px;
+      padding: 1rem 1.1rem;
+    }
+    .notes p + p { margin-top: 0.7rem; }
     .steps { display: flex; flex-direction: column; gap: 1rem; margin-top: 1.6rem; }
     .step {
       background: var(--surface);
@@ -243,12 +301,9 @@
 
   <main>
     <div class="container">
-      <p class="brand-word"><span class="brand-red">Red</span><span class="brand-blue">Vet</span> en ChatGPT</p>
+      <p class="brand-word"><span class="brand-red">Red</span><span class="brand-blue">Vet</span> en ChatGPT y Grok</p>
       <h1>Gestiona tu clínica desde ChatGPT</h1>
-      <div class="intro">
-        <p class="lead">Hazlo en ChatGPT para escritorio. En el teléfono esta pantalla no sale.</p>
-        <p class="lead">Pulsa cada imagen para verla más grande.</p>
-      </div>
+      <p class="lead">El vídeo es la guía de ChatGPT. Debajo eliges ChatGPT o Grok para ver los pasos.</p>
 
       <div class="video-frame">
         <iframe
@@ -259,6 +314,16 @@
       </div>
       <a class="video-link" href="https://youtu.be/-Eo9efdSH5c" target="_blank" rel="noopener">Ver el vídeo en YouTube</a>
 
+      <div class="tabs" role="tablist" aria-label="Guía del asistente">
+        <button class="tab" type="button" role="tab" id="tab-chatgpt" data-panel="chatgpt" aria-selected="true" aria-controls="panel-chatgpt">ChatGPT</button>
+        <button class="tab" type="button" role="tab" id="tab-grok" data-panel="grok" aria-selected="false" aria-controls="panel-grok">Grok</button>
+      </div>
+
+      <div class="panel" id="panel-chatgpt" role="tabpanel" aria-labelledby="tab-chatgpt">
+      <div class="intro">
+        <p class="lead">Hazlo en ChatGPT para escritorio. En el teléfono esta pantalla no sale.</p>
+        <p class="lead">Pulsa cada imagen para verla más grande.</p>
+      </div>
       <div class="steps">
         <article class="step">
           <div class="step-head">
@@ -305,7 +370,7 @@
             <span>
               <strong>URL del servidor</strong>
               <code>https://redredsg.com/asistente/mcp</code>
-              <small id="copyHint">Pulsa para copiar</small>
+              <small class="copy-hint">Pulsa para copiar</small>
             </span>
             <span class="copy-mark" aria-hidden="true">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -351,6 +416,216 @@
           </div>
         </article>
       </div>
+      </div>
+
+      <div class="panel" id="panel-grok" role="tabpanel" aria-labelledby="tab-grok" hidden>
+      <div class="intro">
+        <p class="lead">Hazlo en grok.com, desde el navegador. Sirve con una cuenta gratuita.</p>
+        <p class="lead">Pulsa cada imagen para verla más grande.</p>
+      </div>
+      <div class="steps">
+        <article class="step">
+          <div class="step-head">
+            <span class="num">1</span>
+            <div>
+              <h2>Entra en Configuración</h2>
+              <p>Inicia sesión en Grok. Pulsa tu perfil, abajo a la izquierda, y elige Configuración.</p>
+            </div>
+          </div>
+          <div class="shots">
+            <a href="/images/landing-nueva/grok-paso-configuracion.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-configuracion.png?v=20261126" alt="Menú del perfil de Grok con Configuración señalado" width="1536" height="797">
+            </a>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step-head">
+            <span class="num">2</span>
+            <div>
+              <h2>Abre Connect Apps</h2>
+              <p>En Configuración, elige Connect Apps y pulsa Add a custom connector.</p>
+            </div>
+          </div>
+          <div class="shots">
+            <a href="/images/landing-nueva/grok-paso-connect.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-connect.png?v=20261126" alt="Connect Apps con el botón Add a custom connector" width="1107" height="568">
+            </a>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step-head">
+            <span class="num">3</span>
+            <div>
+              <h2>Rellena los datos</h2>
+              <p>Nombre: RedVet. Los encabezados se dejan vacíos. Pulsa Agregar MCP.</p>
+            </div>
+          </div>
+          <button class="copy-url" type="button">
+            <span>
+              <strong>URL del servidor</strong>
+              <code>https://redredsg.com/asistente/mcp</code>
+              <small class="copy-hint">Pulsa para copiar</small>
+            </span>
+            <span class="copy-mark" aria-hidden="true">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="9" y="9" width="11" height="11" rx="2"></rect>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              </svg>
+            </span>
+          </button>
+          <div class="shots">
+            <a href="/images/landing-nueva/grok-paso-datos.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-datos.png?v=20261126" alt="Formulario de Grok con el nombre RedVet y la URL del servidor" width="855" height="606">
+            </a>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step-head">
+            <span class="num">4</span>
+            <div>
+              <h2>Entra con la cuenta de la clínica</h2>
+              <p>Se abre RedVet. Escribe el correo y la contraseña, o pulsa Continuar con Google. Marca la casilla y pulsa Iniciar sesión. No hace falta rellenar encabezados.</p>
+            </div>
+          </div>
+          <div class="shots portrait">
+            <a href="/images/landing-nueva/grok-paso-login.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-login.png?v=20261126" alt="Inicio de sesión de RedVet para autorizar Grok" width="603" height="812">
+            </a>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step-head">
+            <span class="num">5</span>
+            <div>
+              <h2>Entra con tu nombre</h2>
+              <p>Abre un chat y escribe: Hola, quiero usar el conector de RedVet. Si te pide identificarte, di tu nombre y el NIP. No compartas el NIP.</p>
+            </div>
+          </div>
+          <div class="shots">
+            <a href="/images/landing-nueva/grok-paso-sesion.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-sesion.png?v=20261126" alt="Grok confirma que el conector de RedVet está disponible" width="945" height="435">
+            </a>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step-head">
+            <span class="num">6</span>
+            <div>
+              <h2>Comprueba la agenda</h2>
+              <p>Prueba con: Dime qué citas tengo para mañana. Grok consulta la agenda de RedVet y muestra las citas. En el ejemplo, los datos de las mascotas están ocultos.</p>
+            </div>
+          </div>
+          <div class="shots">
+            <a href="/images/landing-nueva/grok-paso-agenda.png" target="_blank" rel="noopener">
+              <img src="/images/landing-nueva/grok-paso-agenda.png?v=20261126" alt="Grok muestra la agenda del día siguiente, con los datos de las citas ocultos" width="935" height="575">
+            </a>
+          </div>
+        </article>
+      </div>
+      </div>
+
+      <section class="can-do" aria-labelledby="can-do-title">
+        <h2 id="can-do-title">Qué puedes hacer con RedVet</h2>
+        <p class="can-lead">Con el conector puedes gestionar la clínica escribiendo o hablando. RedVet enseña un resumen y espera tu confirmación antes de guardar.</p>
+
+        <div class="can-group">
+          <h3>Pacientes e historial clínico</h3>
+          <ul>
+            <li>
+              <strong>Buscar pacientes y consultar su historial.</strong> Localiza mascotas por nombre o por el nombre del propietario, y resume la última consulta, las vacunas y las desparasitaciones.
+              <span class="example">Ejemplo: «Busca a Luna y dime cuál fue su última consulta, vacuna y desparasitación».</span>
+            </li>
+            <li>
+              <strong>Dar de alta y actualizar fichas.</strong> Registra clientes, varias mascotas a la vez y cambios en datos que ya existen.
+              <span class="example">Ejemplo: «Crea a este cliente con su mascota» o «Actualiza el peso y las alergias de Luna».</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="can-group">
+          <h3>Consultas y decisiones clínicas</h3>
+          <ul>
+            <li>
+              <strong>Preparar y guardar consultas.</strong> Incluye anamnesis, exploración, constantes, diagnóstico y tratamientos de consulta o de domicilio.
+              <span class="example">Ejemplo: «Prepara la consulta de Luna con estos signos clínicos y esta exploración».</span>
+            </li>
+            <li>
+              <strong>Apoyo en la valoración clínica.</strong> Ayuda con la exploración, el diagnóstico diferencial y el tratamiento, siempre con el criterio del veterinario.
+              <span class="example">Ejemplo: «¿Qué debería explorar?»; «Dame tres posibles diagnósticos»; «Sugiere tratamientos para el diagnóstico elegido».</span>
+            </li>
+            <li>
+              <strong>Registrar pruebas diagnósticas.</strong> Guarda el tipo de prueba, la interpretación y las recomendaciones. Las fotos y los PDF se adjuntan desde la app de RedVet.
+              <span class="example">Ejemplo: «Registra esta radiografía con la siguiente interpretación y recomendaciones».</span>
+            </li>
+            <li>
+              <strong>Registrar cirugías.</strong> Documenta el procedimiento, la anestesia, la premedicación, la fluidoterapia y el resto de datos de la cirugía.
+              <span class="example">Ejemplo: «Registra la esterilización de Luna con estos datos anestésicos y quirúrgicos».</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="can-group">
+          <h3>Medicina preventiva</h3>
+          <ul>
+            <li>
+              <strong>Vacunas y cartillas.</strong> Registra vacunas de hoy o antiguas, con laboratorio, lote, caducidad y la próxima aplicación.
+              <span class="example">Ejemplo: «Lee estas etiquetas o esta foto de la cartilla y prepara las vacunas con sus fechas y lotes».</span>
+            </li>
+            <li>
+              <strong>Desparasitaciones.</strong> Guarda el producto, el tipo, la dosis, la fecha y la próxima aplicación.
+              <span class="example">Ejemplo: «Registra la desparasitación interna y externa de Luna y programa el siguiente control».</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="can-group">
+          <h3>Agenda y servicios</h3>
+          <ul>
+            <li>
+              <strong>Consultar las citas.</strong> Mira la agenda por día y por hora.
+              <span class="example">Ejemplo: «¿Qué citas tengo mañana a partir de las 9?».</span>
+            </li>
+            <li>
+              <strong>Crear, cambiar y cancelar citas.</strong> Sirve para consulta, teleconsulta, vacunación, pruebas, cirugía, estética, guardería y hotel, también si se repiten. Según el tipo, cambiar o cancelar tiene sus límites.
+              <span class="example">Ejemplo: «Agenda una consulta para el viernes a las 10»; «Mueve esa cita al lunes»; «Cancela la cita».</span>
+            </li>
+            <li>
+              <strong>Reservar estancias y servicios que se repiten.</strong> Al registrar hotel se crean la entrada y la salida. Las citas que lo permiten pueden repetirse.
+              <span class="example">Ejemplo: «Reserva hotel del 15 al 20 de diciembre» o «Agenda guardería todos los martes».</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="can-group">
+          <h3>Inventario, catálogo y proveedores</h3>
+          <ul>
+            <li>
+              <strong>Consultar y mantener artículos.</strong> Busca artículos y crea o modifica servicios, productos, consumibles, existencias, categoría y el resto de datos.
+              <span class="example">Ejemplo: «Busca la presentación de 10 kg»; «Crea estos cinco artículos con categoría y precio».</span>
+            </li>
+            <li>
+              <strong>Actualizar precios y descripciones.</strong> Relaciona una lista con artículos que ya existen y cambia el precio de venta, el costo o la descripción.
+              <span class="example">Ejemplo: «Actualiza los precios de venta de esta lista»; «Corrige las descripciones de estos medicamentos».</span>
+            </li>
+            <li>
+              <strong>Pedidos y entradas de mercancía.</strong> Consulta pedidos y registra recepciones, con cantidades, costos, impuestos y descuentos. Actualiza el inventario y los datos de compra.
+              <span class="example">Ejemplo: «Busca los pedidos pendientes de este proveedor»; «Prepara la recepción de estas unidades con IVA incluido».</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="notes">
+          <p><strong>Antes de guardar.</strong> RedVet muestra el resumen de cada alta, cambio o registro y pide confirmación. Algunas funciones dependen del permiso del usuario y de la sede elegida.</p>
+          <p><strong>Imágenes y documentos.</strong> Puedes pedir que lea una foto o un informe y prepare el registro. El conector no adjunta la foto, la radiografía ni el PDF al expediente: esos archivos se cargan desde RedVet.</p>
+          <p><strong>Criterio clínico.</strong> Revisa los datos, las dosis y los tratamientos. Las sugerencias ayudan al veterinario y no sustituyen su juicio. No compartas el NIP.</p>
+          <p><strong>Sesión.</strong> Cuando entras con tu nombre y el NIP, la sesión sigue activa 30 días.</p>
+        </div>
+      </section>
     </div>
   </main>
 
@@ -365,15 +640,31 @@
   </footer>
 
   <script>
-    document.getElementById('copyUrl').addEventListener('click', async function () {
-      var hint = document.getElementById('copyHint');
-      var url = 'https://redredsg.com/asistente/mcp';
-      try {
-        await navigator.clipboard.writeText(url);
-        hint.textContent = 'Copiada';
-      } catch (error) {
-        hint.textContent = 'No se pudo copiar. Selecciona la URL.';
-      }
+    var tabs = document.querySelectorAll('.tab');
+    function selectTab(name) {
+      tabs.forEach(function (tab) {
+        var on = tab.getAttribute('data-panel') === name;
+        tab.setAttribute('aria-selected', on ? 'true' : 'false');
+        document.getElementById(tab.getAttribute('aria-controls')).hidden = !on;
+      });
+    }
+    tabs.forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        selectTab(tab.getAttribute('data-panel'));
+      });
+    });
+    if (location.hash === '#grok') selectTab('grok');
+
+    document.querySelectorAll('.copy-url').forEach(function (button) {
+      button.addEventListener('click', async function () {
+        var hint = button.querySelector('.copy-hint');
+        try {
+          await navigator.clipboard.writeText('https://redredsg.com/asistente/mcp');
+          hint.textContent = 'Copiada';
+        } catch (error) {
+          hint.textContent = 'No se pudo copiar. Selecciona la URL.';
+        }
+      });
     });
   </script>
 </body>
